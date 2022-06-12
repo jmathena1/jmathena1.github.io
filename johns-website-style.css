@@ -1,0 +1,212 @@
+/* sidebar code source: https://www.w3schools.com/howto/howto_js_collapse_sidebar.asp */
+
+/*
+clary sage - #acad97
+chesterfield green - #626439
+greek villa - #F0ECE2
+*/
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.website-header {
+	font-family: georgia, times-new-roman;
+	text-align: center;
+	color: #000000;
+	background-color: #acad97;
+	margin-left: -8px;
+	margin-right: -8px;
+	margin-top: -25px;
+	padding-top: 30px;
+	padding-bottom: 30px;
+}
+
+.website-footer {
+	font-family: georgia, times-new-roman;
+	text-align: center;
+	color: #000000;
+	background-color: #acad97;
+	width: 100%;
+	height: 75px;
+	margin-bottom:-25px;
+}
+
+#social-media-photo {
+	padding: 5px;
+	width: 40px;
+}
+#social-media-photo:hover {
+	opacity: 0.7;
+}
+.main {
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  transition: 0.75s;
+  width: 500px;
+  margin-left: 360px;
+  margin-right: 200px;
+  padding-left: 10px;
+  padding-right: 5px;
+}
+
+div.updates {
+	width: 500px;
+	border: 2.5px solid black;
+	padding: 5px;
+	margin-left: 360px;
+	margin-right: 200px;
+	overflow-y: auto;
+}
+
+h3.updates {
+	font-family: georgia, times-new-roman;
+	text-align: center;
+	color: #000000;
+	background-color: #ffff00;
+	margin-left: 225px;
+	margin-right: 190px;
+}
+
+p.updates {
+	font-family: georgia, times-new-roman;
+	text-align: left;
+}
+
+.about-picture {
+	max-width: 100%;
+	height: auto;
+	width: 50%;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.solid-port-section-divider {
+	border-top: 3px solid #000000;
+}
+
+.portfolio-description {
+	width: 480px;
+	border-style: solid;
+	border-width: 2.5px; 
+	border-color: #acad97;
+	padding: 5px;
+	overflow-y: auto;
+}
+
+.portfolio-tools {
+	text-align: center;
+	background-color: #FFFFFF;
+	width: 100%;
+	height; 50px;
+}
+
+.project-view-button {
+	background-color: #acad97;
+	border: none;
+	color: #FFFFFF;
+	padding: 15px 32px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 16px;
+	width: 33%;
+	margin-left: 160px;
+	margin-right: 160px;
+}
+
+/* The sidebar menu */
+.sidebar {
+  height: 100%; /* 100% Full-height */
+  width: 0; /* 0 width - change this with JavaScript */
+  position: fixed; /* Stay in place */
+  z-index: 1; /* Stay on top */
+  top: 0;
+  left: 0;
+  background-color: #F0ECE2; /* Black*/
+  overflow-x: hidden; /* Disable horizontal scroll */
+  padding-top: 60px; /* Place content 60px from the top */
+  transition: 0.5s; /* 0.5 second transition effect to slide in the sidebar */
+}
+
+/* The sidebar links */
+.sidebar a {
+  padding: 8px 8px 8px 32px;
+  text-decoration: none;
+  font-family: georgia, times-new-roman;
+  font-size: 25px;
+  color: #000000;
+  display: block;
+  transition: 0.3s;
+}
+
+/* When you mouse over the navigation links, change their color */
+.sidebar a:hover {
+  color: #acad97;
+}
+
+/* Position and style the close button (top right corner) */
+.sidebar .closebtn {
+  position: absolute;
+  top: 0;
+  right: 25px;
+  font-size: 36px;
+  margin-left: 50px;
+}
+
+/* The button used to open the sidebar */
+.openbtn {
+  font-family: georgia, times-new-roman;
+  font-size: 20px;
+  cursor: pointer;
+  background-color: #acad97;
+  color: #00000;
+  padding: 10px 15px;
+  border: #00000;
+  position: absolute;
+  left: 5px;
+  transform: translateY(-15%);
+}
+
+.openbtn:hover {
+  background-color: #000000;
+}
+
+/* Style page content - use this if you want to push the page content to the right when you open the side navigation */
+#main {
+  transition: margin-left .5s; /* If you want a transition effect */
+  padding: 20px;
+}
+
+/* On smaller screens, where height is less than 450px, change the style of the sidenav (less padding and a smaller font size) */
+@media screen and (max-height: 450px) {
+  .sidebar {padding-top: 15px;}
+  .sidebar a {font-size: 18px;}
+}
+
+details {
+  user-select: none;
+}
+
+details>summary span.icon {
+  width: 24px;
+  height: 24px;
+  transition: all 0.3s;
+  margin-left: auto;
+}
+
+details[open] summary span.icon {
+  color: #acad97;
+}
+
+summary {
+  display: flex;
+  cursor: pointer;
+}
+
+summary::-webkit-details-marker {
+  display: none;
+}
