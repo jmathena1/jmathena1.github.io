@@ -160,7 +160,7 @@ p.updates {
 /* The button used to open the sidebar */
 .openbtn {
   font-family: georgia, times-new-roman;
-  font-size: 20px;
+  font-size: 18px;
   cursor: pointer;
   background-color: #acad97;
   color: #00000;
@@ -173,6 +173,7 @@ p.updates {
 
 .openbtn:hover {
   background-color: #000000;
+  color: #acad97;
 }
 
 /* Style page content - use this if you want to push the page content to the right when you open the side navigation */
