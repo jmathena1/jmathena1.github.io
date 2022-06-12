@@ -160,12 +160,12 @@ p.updates {
 /* The button used to open the sidebar */
 .openbtn {
   font-family: georgia, times-new-roman;
-  font-size: 20px;
+  font-size: 28px;
   cursor: pointer;
   background-color: #acad97;
   color: #00000;
   padding: 10px 15px;
-  border: #00000;
+  border: none;
   position: absolute;
   left: 5px;
   transform: translateY(-33%);
