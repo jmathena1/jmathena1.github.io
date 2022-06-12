@@ -1,2 +1,2 @@
 # jmathena1.github.io
-personal website
+This is the repository for the personal website of John Mathena.
