@@ -83,7 +83,7 @@ p.updates {
 }
 
 @media screen and (max-width: 415px) {
-	.about-picture { 
+	div.about-picture { 
 		width: 75%;
 	}
 }
