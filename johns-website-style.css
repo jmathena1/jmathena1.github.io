@@ -82,6 +82,12 @@ p.updates {
 	margin-right: auto;
 }
 
+@media screen and (max-width: 360px) {
+	.about-picture { 
+		width: 75%;
+	}
+}
+
 .solid-port-section-divider {
 	border-top: 3px solid #000000;
 }
