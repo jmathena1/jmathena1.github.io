@@ -82,7 +82,7 @@ p.updates {
 	margin-right: auto;
 }
 
-@media screen and (max-width: 360px) {
+@media screen and (max-width: 415px) {
 	.about-picture { 
 		width: 75%;
 	}
