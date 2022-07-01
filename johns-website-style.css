@@ -41,7 +41,7 @@ html {
 	width: 50%;
 	max-width: 100%;
 	display: flex;
-	font-size: 2vw;
+	font-size: 28px;
 	margin-right: auto;
 	margin-left: auto;
 	justify-content: center;
@@ -60,7 +60,7 @@ html {
 
 .nav-bar-item {
 	display: flex;
-	font-size: 1.75vw;
+	font-size: 22px;
 	font-family: georgia, times-new-roman;
 }
 
@@ -136,6 +136,9 @@ html {
 
 @media screen and (max-width: 415px) {
 	div.about-picture { 
+		width: 75%;
+	}
+	portfolio-description{
 		width: 75%;
 	}
 }
