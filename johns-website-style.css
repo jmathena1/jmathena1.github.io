@@ -138,6 +138,9 @@ html {
 	div.about-picture { 
 		width: 75%;
 	}
+	portfolio-description{
+		width: 75%;
+	}
 }
 
 .solid-port-section-divider {
