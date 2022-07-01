@@ -3,38 +3,50 @@
 
 <html>
 	<head>
-		<title>John Mathena - Portfolio</title>
+	<title>John Mathena - Portfolio</title>
 		<link rel="stylesheet", href='johns-website-style.css'>
-		<script src="johns-website.js"></script>
 	</head>
+	<header class="website-header">
+		<div class="container-flexbox">
+			<b class='homepage-title'>
+			JOHN W. MATHENA
+			</b>
+		</div>
+		<nav class="container-flexbox">
+			<ul class="nav-bar-menu">
+				<li id="about-link" class="nav-bar-item">
+					<a href="index.html" class="nav-bar-link">About</a>
+				</li>
+				<li id="blogs-link" class="nav-bar-item">
+					<a href="blogs.html" class="nav-bar-link">Blogs & Writing</a>
+				</li>
+				<li id="portfolio-link" class="nav-bar-item">
+					<a href="portfolio.html" class="nav-bar-link"   style="color:#F0ECE2"><u>Resume & Portfolio</u></a>
+				</li>
+			</ul>
+		</nav>
+		<div class="container-flexbox">
+			<hr class='solid-header-divider'>
+		</div>
+		<br>
+	</header>
 	
-	<div class="website-header">
-		<header>
-		<h1>
-		<button id = 'main' class="openbtn" onclick="openNav()">&#9776;</button>
-		Welcome to John Mathena Dot Com! 
-		</h1>
-		<em>
-		<i>*Hover over the section headers to learn what kind of work you'll find inside.</i>
-		</em>
-		</header>
-	</div>
-	
-	<div id="sidebar" class="sidebar">
-		<a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
-		  <a href="index.html">Home</a>
-		  <a href="about.html">About</a>
-		  <a href="files/johns-website-resume.pdf" target="_blank">Resume</a>
-		  <a href="blogs.html">Blogs & Writing</a>
-		  <a href="portfolio.html"><u>Portfolio</u></a>
-	</div>
-	
-	<div id='portfolio-main', class='main' style="margin-top: 10px; margin-bottom: 10px;">
+	<div id='portfolio-main', class='main'>
 		<main>
-			<details class='collapsible-sections'>
+			
+			<div class='container-flexbox'>
+				<button id="download-resume" class="project-view-button">
+					<a href="files/johns-website-resume.pdf" target="_blank" id="download-resume" class="project-view-button">
+						Download Resume
+					</a>
+				</button>
+			</div>
+			<br>
+			
+			<details id='collapsible-sections' class="container-flebox">
 				<summary>
-					<h2 id='portfolio' title='Work completed, started, and/or managed on my own'>
-					Solo work
+					<h2 id='portfolio'>
+					Professional Projects
 					</h2>
 					<span class='icon'>
 						<h2>+<h2>
@@ -66,7 +78,7 @@
 				<div class='portfolio-description'>
 					<h3 style='text-align:center;'><u>Community Court Watch in Baltimore City</u></h3>
 					<a href='https://stattorney.org' target='_blank'>
-						<img class='port-org-image' src=photos/osa-logo.jfif alt="Baltimore City State's Attorney logo">
+						<img class='port-org-image' src=photos/osa-logo.png alt="Baltimore City State's Attorney logo">
 					</a>
 					<p>From January 2020 through March 2021, I mapped cases of interest to city residents across the nine police districts 
 					in Baltimore. I collected data on charges brought, incident location, and outcome from my own work and 
@@ -85,18 +97,7 @@
 						<button class='project-view-button'>View Project</button>
 					</a>
 				</div>
-			</details>
-			<hr class=solid-port-section-divider>
-			
-			<details class='collapsible-sections'>
-				<summary>
-					<h2 id='portfolio' title='Work where I played a signficant role as part of a team'>
-					Group work
-					</h2>
-					<span class='icon'>
-						<h2>+<h2>
-					</span>
-				</summary>
+				<br>
 				<div class='portfolio-description'>
 					<h3 style='text-align:center;'><u>Health Equity Report in Douglas County, KS</u></h3>
 					<a href='https://ldchealth.org' target='_blank'>
@@ -124,8 +125,8 @@
 			
 			<details class='collapsible-sections'>
 				<summary>
-					<h2 id='portfolio' title='Work completed while I was an undergraduate student'>
-					Undergraduate Projects
+					<h2 id='portfolio'>
+					Academic Projects
 					</h2>
 					<span class='icon'>
 						<h2>+<h2>
@@ -157,7 +158,7 @@
 					Our analysis demonstrated the dominance of Egyptian protests across the Arab world. We used the R 'tm' package and the 'LDAvis' package to run topic models
 					on scraped newspaper articles. 
 					Click <a href='https://docs.google.com/document/d/1L_AP6QwbEjl6L40DUqTYfahEDxF95wPYLBhIXhksAs4/edit?usp=sharing' target='_blank'>here</a>
-					to see the original Google document with comments from our instructors. Click below for a clean PDF.
+					to see the original Google document. Click below for a clean PDF.
 					</p>
 					<h4 style='text-align:center'>
 						<em><u>Tools used</u></em>
