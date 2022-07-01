@@ -6,6 +6,26 @@ chesterfield green - #626439
 greek villa - #F0ECE2
 */
 
+@media screen and (max-width: 415px) {
+	div.about-picture { 
+		width: 75%;
+	}
+	.portfolio-description{
+		width: 75%;
+	}
+	.homepage-title {
+		width: 75%;
+		font-size: 22px;
+	}
+	.nav-bar-item {
+		font-size: 16px;
+	}
+	.nav-bar-menu {
+		width: 75%;
+	}
+	
+}
+
 @viewport {
 	width: device-width;
 	zoom: 1.0;
@@ -41,6 +61,7 @@ html {
 	width: 50%;
 	max-width: 100%;
 	display: flex;
+	flex-wrap: nowrap;
 	font-size: 28px;
 	margin-right: auto;
 	margin-left: auto;
@@ -132,22 +153,6 @@ html {
 	justify-content: center;
 	margin-left: auto;
 	margin-right: auto;
-}
-
-@media screen and (max-width: 415px) {
-	div.about-picture { 
-		width: 75%;
-	}
-	.portfolio-description{
-		width: 75%;
-	}
-	.homepage-title {
-		font-size: 22px;
-	}
-	.nav-bar-item {
-		font-size: 16px;
-	}
-	
 }
 
 .solid-port-section-divider {
