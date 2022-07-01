@@ -138,9 +138,16 @@ html {
 	div.about-picture { 
 		width: 75%;
 	}
-	portfolio-description{
+	.portfolio-description{
 		width: 75%;
 	}
+	.homepage-title {
+		font-size: 22px;
+	}
+	.nav-bar-item {
+		font-size:16px;
+	}
+	
 }
 
 .solid-port-section-divider {
