@@ -11,18 +11,21 @@ greek villa - #F0ECE2
 		width: 75%;
 	}
 	.homepage-title {
-		margin-right: 0px;
-		margin-left: 0px;
-		font-size: 22px;
+		font-size: 20px !important;
+		width: 75% !important;
 	}
 	.nav-bar-menu {
-		margin-right: 0px;
-		margin-left: 0px;
+		width: 75% !important;
 	}
 	.nav-bar-item {
-		font-size: 16px;
+		font-size: 14px !important;
 	}
-	
+	#blogs-link.nav-bar-item {
+		padding-left: 7.5vw !important;
+	}
+	.portfolio-description {
+		width: 100% !important;
+	}
 }
 
 @viewport {
@@ -34,12 +37,6 @@ html {
 	background-color: #acad97;
 	font-family: georgia, times-new-roman;
 	overflow-y: scroll;
-}
-.center {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 50%;
 }
 
 .website-header {
