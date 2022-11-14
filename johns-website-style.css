@@ -12,6 +12,7 @@ greek villa - #F0ECE2
 	}
 	.main {
 		width: 85% !important;
+		font-size: 16px !important;
 	}
 	.homepage-title {
 		font-size: 20px !important;
@@ -25,6 +26,9 @@ greek villa - #F0ECE2
 	}
 	.portfolio-description {
 		width: 100% !important;
+	}
+	details[open] summary span.icon {
+		font-size: 16px !important;
 	}
 }
 
@@ -212,7 +216,6 @@ details>summary span.icon {
 details[open] summary span.icon {
   color: #626439;
   font-size: 24px;
-;
 }
 
 summary {
