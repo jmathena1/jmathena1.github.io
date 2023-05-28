@@ -248,3 +248,7 @@ a:hover {
 	background-image: linear-gradient(45deg, #F0ECE2, #FFFFFF);
 	box-shadow: 5px 5px 5px #808080;
 }
+
+md-block:not([rendered]) { 
+	display: none 
+}
