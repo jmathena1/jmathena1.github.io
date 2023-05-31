@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<html class="website-grid">
+	<head>
+	    <title>R</title>
+		<link rel="stylesheet", href="../johns-website-style.css">
+		<link rel="icon" type="image/png" href="../photos/john-favicon.png"/>
+        <script type="module" src="https://md-block.verou.me/md-block.js"></script>
+	</head>
+	<header class="website-header">
+		<b class="homepage-title">
+		JOHN W. MATHENA
+		</b>
+		<nav class="container-flexbox">
+			<ul class="nav-bar-menu">
+				<li id="about-link" class="nav-bar-item">
+					<a href="../index.html" class="nav-bar-link">About</a>
+				</li>
+				<li id="blogs-link" class="nav-bar-item">
+					<a href="../blogs.html" class="nav-bar-link">Writing</a>
+				</li>
+				<li id="portfolio-link" class="nav-bar-item">
+					<a href="../portfolio.html" class="nav-bar-link">Portfolio</a>
+				</li>
+				<li id="wiki-link" class="nav-bar-item">
+					<a href="../wiki/wiki.html" class="nav-bar-link">Wiki</a>
+				</li>
+			</ul>
+		</nav>
+		<br>
+	</header>
+
+    <main id="wiki-main", class="main">
+		<md-block>
+        ### R
+
+        - the OG language. such a weird language to start with in hindsight but who cares.
+        you can't always choose that. I still love R!
+
+        https://shiny.posit.co/r/getstarted/shiny-basics/lesson1/index.html
+        - Shiny is R's framework for building apps. Great stepping stone to UI and web dev
+        if you don't have that background. You can build Shiny apps entirely in R but also bring 
+        in modules that use HTML/CSS/JS as you want to and are able.
+
+        https://pkgs.rstudio.com/flexdashboard/index.html
+        - Shiny like framework that is specifically for dashboards. We know how much analysts love
+        building dashboards!
+        - flexdashboard is great for small, regular reports. i used it for a couple monthly reports I
+        needed that used to just be excel files. once i got the user satisfied with the visuals, i just changed
+        the underlying data every month. pretty sure I used the `RMariaDB` library to connect to our AWS
+        MySQL instance and just run the same query based on the month.
+
+        https://tidydatatutor.com/
+        - let's you run R code in broswer. site will show you what your code is doing under the hood complete
+        with visuals and diagrams. very good for learners that need a visual.
+        
+		</md-block>
+	</main>
+
+	<br>
+
+	<footer class="website-footer">
+		<a href="https://www.linkedin.com/in/johnwmathena" target="_blank"><img id="social-media-photo" src="../photos/linkedin.png"></a>
+		<a href="https://www.github.com/jmathena1" target="_blank"><img id="social-media-photo" src="../photos/github-black.png" ></a>
+		<a href="https://www.twitter.com/JohnMathena6" target="_blank"><img id="social-media-photo" src="../photos/twitter.png"></a>
+	</footer>
+
+</html>
