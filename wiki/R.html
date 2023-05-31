@@ -3,7 +3,7 @@
 
 <html class="website-grid">
 	<head>
-	    <title>Hardware</title>
+	    <title>R</title>
 		<link rel="stylesheet", href="../johns-website-style.css">
 		<link rel="icon" type="image/png" href="../photos/john-favicon.png"/>
         <script type="module" src="https://md-block.verou.me/md-block.js"></script>
@@ -33,19 +33,28 @@
 
     <main id="wiki-main", class="main">
 		<md-block>
-		### Hardware  
-		https://recompilermag.com/issues/issue-5/hardware-for-art-hardware-for-all/
-		- recompilier is a super cool technology magazine published by [Audrey Eschright](http://lifeofaudrey.com/), 
-		whom I believed I heard of from a podcast (Team Human maybe? don't quote me on that). a self described feminist hacker
-		magazine, most of the authors are women and it's some of the most passionate and accesible tech writing
-		I've found thus far. it features both commentary on the cultural and political aspects of the tech field
-		and in depth tutorials (sometimes in the same article!)
-		- the actual article I've linked makes a plea for using basic hardware for play, art, and exploration
-		rather than just mindless tracking and whatever work is handed down from above. several of the hardware
-		art projects detailed are linked as well as more reading on experimenting with hardware, libraries
-		the author built, 60s cyberculture, history of computing, and more! it's a fun quick read  
-		
-		https://doi.org/10.1016/j.ijhcs.2017.03.002
+        ### R
+
+        - the OG language. such a weird language to start with in hindsight but who cares.
+        you can't always choose that. I still love R!
+
+        https://shiny.posit.co/r/getstarted/shiny-basics/lesson1/index.html
+        - Shiny is R's framework for building apps. Great stepping stone to UI and web dev
+        if you don't have that background. You can build Shiny apps entirely in R but also bring 
+        in modules that use HTML/CSS/JS as you want to and are able.
+
+        https://pkgs.rstudio.com/flexdashboard/index.html
+        - Shiny like framework that is specifically for dashboards. We know how much analysts love
+        building dashboards!
+        - flexdashboard is great for small, regular reports. i used it for a couple monthly reports I
+        needed that used to just be excel files. once i got the user satisfied with the visuals, i just changed
+        the underlying data every month. pretty sure I used the `RMariaDB` library to connect to our AWS
+        MySQL instance and just run the same query based on the month.
+
+        https://tidydatatutor.com/
+        - let's you run R code in broswer. site will show you what your code is doing under the hood complete
+        with visuals and diagrams. very good for learners that need a visual.
+        
 		</md-block>
 	</main>
 
