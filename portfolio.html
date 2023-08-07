@@ -34,16 +34,57 @@
 	
 	<main id="portfolio-main", class="main">
 		
-		<div class="container-flexbox">
-			<button id="download-resume" class="project-view-button">
-				<a href="files/johns-website-resume.pdf" target="_blank" id="download-resume" class="project-view-button">
-					Download Resume
-				</a>
-			</button>
-		</div>
-
-		<br>
+		<details id="collapsible-sections" class="container-flexbox">
+			<summary id="view-resume-title" class="portfolio-header">				
+				<h3 id="header" class="portfolio-header">
+				View Resume
+				</h3>
+			</summary>
+			<div id="resume-pdf-view" class="portfolio-description">
+				<object id="resume-pdf-viewer" data="files/johns-website-resume.pdf" type="application/pdf" width="100%" height="500px">
+					<p>Unable to display PDF file. 
+						<a href="files/johns-website-resume.pdf">Download</a> instead.
+					</p>
+				</object>
+			</div>
+		</details>
 		
+		<hr class=solid-port-section-divider>
+
+		<details id="collapsible-sections" class="container-flexbox">
+			<summary id="personal-projects" class="portfolio-header">
+				<h3 id="header" class="portfolio-header">
+					Personal Projects
+				</h3>
+			</summary>
+			<div id="balto-city-salaries" class="portfolio-description">
+				<h4 class="portfolio-item-title">The City That Works</h4>
+				<a href="https://data.baltimorecity.gov/datasets/baltimore::baltimore-city-employee-salaries-new/about" target="_blank"></a>
+					<img class="port-org-image" src=photos/bmore-city-logo.png alt="City of Baltimore logo">
+					<p>In 2023, I conducted an exploratory analysis of Baltimore City employee salary data. I wanted to calculate
+						basic aggregate measures like median, minimum, and maximum salary, tenure, and average raise year over year
+						broken down by city agency. I also wanted to demonstrate how to conduct an end-to-end data analysis project
+						using publicly available data. I published my results in a Jupyter notebook and converted the notebook 
+						into an html document. The resulting report is published on this site. Click the project view button below
+						to check it out!
+					</p>
+					<h5 id="tools" class="portfolio-item-title">
+						Tools used
+					</h5>
+					<div class="portfolio-tools">
+						<a href="https://pandas.pydata.org/" target="_blank"><img id="social-media-photo" src="photos/pandas-python.png"></a>
+						<a href="https://jupyter.org/" target="_blank"><img id="social-media-photo" src="photos/jupyter-logo.png"></a>	
+						<a href="https://cloud.google.com/" target="_blank"><img id="social-media-photo" src="photos/google-cloud.png"></a>
+					</div>
+					<br>
+					<a href="https://citysalaries.johnwmathena.com" target="_blank" style="text-decoration:none;">
+						<button class="project-view-button">View Project</button>
+					</a>
+			</div>
+		</details>
+
+		<hr class=solid-port-section-divider>
+
 		<details id="collapsible-sections" class="container-flexbox">
 			<summary id="professional-projects" class="portfolio-header">
 				<h3 id="header" class="portfolio-header">
@@ -52,11 +93,11 @@
 			</summary>
 			<div id="211-dashboards" class="portfolio-description">
 				<h4 class="portfolio-item-title">211 Maryland Public Data Dashboards</h4>
-				<a href="https://www.211md.org/data" target="_blank">
+				<a href="https://mdinfonet.org/partner/data/" target="_blank">
 					<img class="port-org-image" src=photos/211-logo.png alt="211 Maryland logo">
 				</a>
-				<p>I built PowerBI reports displaying data on usage of the 211 health and human service referral system by Maryland residents.
-				The reports query data from a MySQL database I built and store in AWS RDS (Relational Database Service). I add data weekly using
+				<p>From March 2021 through October 2022, I built PowerBI reports displaying data on usage of the 211 health and human service referral system by Maryland residents.
+				The reports query data from a MySQL database I built and store in AWS RDS (Relational Database Service). I added data weekly using
 				the MySQL command line tool after cleaning CSV exports using R.
 				</p>
 				<h5 id="tools" class="portfolio-item-title">
@@ -91,7 +132,7 @@
 					<a href="https://mymaps.google.com" target="_blank"><img id="social-media-photo" src="photos/google-mymaps.png"></a>	
 				</div>
 				<br>
-				<a href="https://communitycourtwatch.com" target="_blank" style="text-decoration:none;">
+				<a href="https:/bit.ly/CourtWatch" target="_blank" style="text-decoration:none;">
 					<button class="project-view-button">View Project</button>
 				</a>
 			</div>
