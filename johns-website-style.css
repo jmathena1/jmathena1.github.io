@@ -130,6 +130,10 @@ html {
 
 #wiki-main.main {
 	width: 50%;
+	text-align: center;
+}
+
+#wiki-post-main.main {
 	text-align: left;
 }
 
@@ -243,6 +247,7 @@ a:hover {
 
 .garden-section-header {
 	display: flex;
+	width: 50%;
 	text-align: center;
 	flex-direction: column;
 	border-style: solid;
