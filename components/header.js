@@ -9,7 +9,7 @@ class Header extends HTMLElement {
             <b class="homepage-title">
             JOHN W. MATHENA
             </b>
-            <nav class="container-flexbox">
+            <nav>
                 <ul class="nav-bar-menu">
                     <li id="about-link" class="nav-bar-item">
                         <a href="index.html" class="nav-bar-link">About</a>
@@ -25,7 +25,6 @@ class Header extends HTMLElement {
                     </li>
                 </ul>
             </nav>
-            <br>
 	    </header>
     `;
     }
