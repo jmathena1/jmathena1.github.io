@@ -3,35 +3,15 @@
 
 <html class="website-grid">
 
-    <head>
-        <title>wiki</title>
-		<link rel="stylesheet", href="../johns-website-style.css">
-		<link rel="icon" type="image/png" href="./photos/john-favicon.png">
-    </head>
-
-    <header class="website-header">
-		<b class="homepage-title">
-		JOHN W. MATHENA
-		</b>
-		<nav class="container-flexbox">
-			<ul class="nav-bar-menu">
-				<li id="about-link" class="nav-bar-item">
-					<a href="../index.html" class="nav-bar-link">About</a>
-				</li>
-				<li id="blogs-link" class="nav-bar-item">
-					<a href="../blogs.html" class="nav-bar-link">Writing</a>
-				</li>
-				<li id="portfolio-link" class="nav-bar-item">
-					<a href="../portfolio.html" class="nav-bar-link">Portfolio</a>
-				</li>
-				<li id="wiki-link" class="nav-bar-item">
-					<a href="../wiki.html" class="nav-bar-link"><u>Wiki</u></a>
-				</li>
-			</ul>
-		</nav>
-		<br>
-	</header>
-
+<head>
+	<title>home</title>
+	<link rel="stylesheet", href="johns-website-style.css">
+	<link rel="icon" type="image/png" href="photos/john-favicon.png">
+	<script src="components/header.js" type="text/javascript"></script>
+	<script src="components/footer.js" type="text/javascript"></script>
+</head>
+<body>
+	<header-component></header-component>	
     <main id="wiki-main", class="main">
 		<div>
 			<h2>John's Digital Garden</h2>
@@ -206,13 +186,7 @@
 			</h3>
 		</div>
 	</main>
-
-	<br>
-
-	<footer class="website-footer">
-		<a href="https://www.linkedin.com/in/johnwmathena" target="_blank"><img id="social-media-photo" src="../photos/linkedin.png"></a>
-		<a href="https://www.github.com/jmathena1" target="_blank"><img id="social-media-photo" src="../photos/github-black.png" ></a>
-		<a href="https://www.twitter.com/JohnMathena6" target="_blank"><img id="social-media-photo" src="../photos/twitter.png"></a>
-	</footer>
+	<footer-component></footer-component>
+</body>
 
 </html>
