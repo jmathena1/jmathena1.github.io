@@ -3,56 +3,30 @@
 
 <html class="website-grid">
 	<head>
-	    <title>cs fundamentals</title>
-		<link rel="stylesheet", href="../johns-website-style.css">
-		<link rel="icon" type="image/png" href="../photos/john-favicon.png">
+		<title>cs fundamentals</title>
+		<link rel="stylesheet", href="johns-website-style.css">
+		<link rel="icon" type="image/png" href="photos/john-favicon.png">
+		<script src="components/header.js" type="text/javascript"></script>
+		<script src="components/footer.js" type="text/javascript"></script>
 	</head>
-	<header class="website-header">
-		<b class="homepage-title">
-		JOHN W. MATHENA
-		</b>
-		<nav class="container-flexbox">
-			<ul class="nav-bar-menu">
-				<li id="about-link" class="nav-bar-item">
-					<a href="../index.html" class="nav-bar-link">About</a>
-				</li>
-				<li id="blogs-link" class="nav-bar-item">
-					<a href="../blogs.html" class="nav-bar-link">Writing</a>
-				</li>
-				<li id="portfolio-link" class="nav-bar-item">
-					<a href="../portfolio.html" class="nav-bar-link">Portfolio</a>
-				</li>
-				<li id="wiki-link" class="nav-bar-item">
-					<a href="../wiki/wiki.html" class="nav-bar-link">Wiki</a>
+	<body>
+		<header-component></header-component>
+		<main id="wiki-post-main", class="main">
+			<h3><a href="wiki.html">home garden</a> / <a href="references.html">references</a> / cs fundamentals</h3>
+			<a href="https://www.freecodecamp.org/news/what-every-software-engineer-should-know/">
+				https://www.freecodecamp.org/news/what-every-software-engineer-should-know/
+			</a>
+			<br>
+			<a href="https://teachyourselfcs.com/">
+				https://teachyourselfcs.com/
+			</a>
+			<ul>
+				<li>(2023-08-06) Some guardian angels took the liberty of assembling a free CS curriculum. There's links to textbooks
+					video lectures, exercises, and more! As I embark on becoming an SME, I intend on using these resources
+					to replace my lack of a CS degree!
 				</li>
 			</ul>
-		</nav>
-		<br>
-	</header>
-
-    <main id="wiki-post-main", class="main">
-		<h3><a href="wiki.html">home garden</a> / <a href="references.html">references</a> / cs fundamentals</h3>
-		<a href="https://www.freecodecamp.org/news/what-every-software-engineer-should-know/">
-			https://www.freecodecamp.org/news/what-every-software-engineer-should-know/
-		</a>
-        <br>
-		<a href="https://teachyourselfcs.com/">
-			https://teachyourselfcs.com/
-		</a>
-		<ul>
-			<li>(2023-08-06) Some guardian angels took the liberty of assembling a free CS curriculum. There's links to textbooks
-				video lectures, exercises, and more! As I embark on becoming an SME, I intend on using these resources
-				to replace my lack of a CS degree!
-			</li>
-		</ul>
-	</main>
-
-	<br>
-
-	<footer class="website-footer">
-		<a href="https://www.linkedin.com/in/johnwmathena" target="_blank"><img id="social-media-photo" src="../photos/linkedin.png"></a>
-		<a href="https://www.github.com/jmathena1" target="_blank"><img id="social-media-photo" src="../photos/github-black.png" ></a>
-		<a href="https://www.twitter.com/JohnMathena6" target="_blank"><img id="social-media-photo" src="../photos/twitter.png"></a>
-	</footer>
-
+		</main>
+		<footer-component></footer-component>
+	</body>
 </html>

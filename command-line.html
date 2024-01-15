@@ -3,53 +3,27 @@
 
 <html class="website-grid">
 	<head>
-	    <title>command line</title>
-		<link rel="stylesheet", href="../johns-website-style.css">
-		<link rel="icon" type="image/png" href="../photos/john-favicon.png">
+		<title>command line</title>
+		<link rel="stylesheet", href="johns-website-style.css">
+		<link rel="icon" type="image/png" href="photos/john-favicon.png">
+		<script src="components/header.js" type="text/javascript"></script>
+		<script src="components/footer.js" type="text/javascript"></script>
 	</head>
-	<header class="website-header">
-		<b class="homepage-title">
-		JOHN W. MATHENA
-		</b>
-		<nav class="container-flexbox">
-			<ul class="nav-bar-menu">
-				<li id="about-link" class="nav-bar-item">
-					<a href="../index.html" class="nav-bar-link">About</a>
-				</li>
-				<li id="blogs-link" class="nav-bar-item">
-					<a href="../blogs.html" class="nav-bar-link">Writing</a>
-				</li>
-				<li id="portfolio-link" class="nav-bar-item">
-					<a href="../portfolio.html" class="nav-bar-link">Portfolio</a>
-				</li>
-				<li id="wiki-link" class="nav-bar-item">
-					<a href="../wiki/wiki.html" class="nav-bar-link">Wiki</a>
-				</li>
+	<body>
+		<header-component></header-component>
+		<main id="wiki-post-main", class="main">
+			<h3>
+				<a href="wiki.html">home garden</a> / <a href="learn-to-code.html">learn to code</a> / command line 
+			</h3>
+			<a href="https://csvbase.com/blog/5">
+				https://csvbase.com/blog/5
+			</a>
+			<ul>
+				<li>the writer answers the question "when was the dollar highest against the euro?" using only commands from the command line like <code>curl</code>
+					and the <code>sqlite</code> command line function. it's pretty incredible. they also calculate rolling averages and other more advanced data 
+					operations.</li>
 			</ul>
-		</nav>
-		<br>
-	</header>
-
-    <main id="wiki-post-main", class="main">
-		<h3>
-            <a href="wiki.html">home garden</a> / <a href="learn-to-code.html">learn to code</a> / command line 
-        </h3>
-        <a href="https://csvbase.com/blog/5">
-            https://csvbase.com/blog/5
-        </a>
-        <ul>
-            <li>the writer answers the question "when was the dollar highest against the euro?" using only commands from the command line like <code>curl</code>
-                and the <code>sqlite</code> command line function. it's pretty incredible. they also calculate rolling averages and other more advanced data 
-                operations.</li>
-        </ul>
-	</main>
-
-	<br>
-
-	<footer class="website-footer">
-		<a href="https://www.linkedin.com/in/johnwmathena" target="_blank"><img id="social-media-photo" src="../photos/linkedin.png"></a>
-		<a href="https://www.github.com/jmathena1" target="_blank"><img id="social-media-photo" src="../photos/github-black.png" ></a>
-		<a href="https://www.twitter.com/JohnMathena6" target="_blank"><img id="social-media-photo" src="../photos/twitter.png"></a>
-	</footer>
-
+		</main>
+		<footer-component></footer-component>
+	</body>
 </html>
