@@ -3,64 +3,38 @@
 
 <html class="website-grid">
 	<head>
-	    <title>js</title>
-		<link rel="stylesheet", href="../johns-website-style.css">
-		<link rel="icon" type="image/png" href="../photos/john-favicon.png">
+		<title>javascript</title>
+		<link rel="stylesheet", href="johns-website-style.css">
+		<link rel="icon" type="image/png" href="photos/john-favicon.png">
+		<script src="components/header.js" type="text/javascript"></script>
+		<script src="components/footer.js" type="text/javascript"></script>
 	</head>
-	<header class="website-header">
-		<b class="homepage-title">
-		JOHN W. MATHENA
-		</b>
-		<nav class="container-flexbox">
-			<ul class="nav-bar-menu">
-				<li id="about-link" class="nav-bar-item">
-					<a href="../index.html" class="nav-bar-link">About</a>
-				</li>
-				<li id="blogs-link" class="nav-bar-item">
-					<a href="../blogs.html" class="nav-bar-link">Writing</a>
-				</li>
-				<li id="portfolio-link" class="nav-bar-item">
-					<a href="../portfolio.html" class="nav-bar-link">Portfolio</a>
-				</li>
-				<li id="wiki-link" class="nav-bar-item">
-					<a href="../wiki/wiki.html" class="nav-bar-link">Wiki</a>
+	<body>
+		<header-component></header-component>
+		<main id="wiki-post-main", class="main">
+			<h3><a href="wiki.html">home garden</a> / <a href="webdev.html">webdev</a> / javascript</h3>
+			<a href="https://www.freecodecamp.org/news/javascript-asynchronous-operations-in-the-browser/">
+				https://www.freecodecamp.org/news/javascript-asynchronous-operations-in-the-browser/
+			</a>
+			<ul>
+				<li>(2023-08-06) articles like these are invaluable for someone like me who's coming to web
+					development from another subfield in tech. Understanding how JS handles async functions made me much more 
+					comfortable with it, especially coming from Python, a multithreaded language. When you have Python functions that
+					need to be executed in a certain order, you can call them in the order you want. In JS, you gotta tell
+					the JS engine to wait for function x to finish if function y depends on it. 
 				</li>
 			</ul>
-		</nav>
-		<br>
-	</header>
-
-    <main id="wiki-post-main", class="main">
-		<h3><a href="wiki.html">home garden</a> / <a href="webdev.html">webdev</a> / javascript</h3>
-		<a href="https://www.freecodecamp.org/news/javascript-asynchronous-operations-in-the-browser/">
-			https://www.freecodecamp.org/news/javascript-asynchronous-operations-in-the-browser/
-		</a>
-		<ul>
-			<li>(2023-08-06) articles like these are invaluable for someone like me who's coming to web
-				development from another subfield in tech. Understanding how JS handles async functions made me much more 
-				comfortable with it, especially coming from Python, a multithreaded language. When you have Python functions that
-				need to be executed in a certain order, you can call them in the order you want. In JS, you gotta tell
-				the JS engine to wait for function x to finish if function y depends on it. 
-			</li>
-		</ul>
-		<a href="https://www.freecodecamp.org/news/guide-to-javascript-promises/">
-			https://www.freecodecamp.org/news/guide-to-javascript-promises/
-		</a>
-		<ul>
-			<li>(2023-08-06) this write up on Promises is sort of a companion to the previous article on JS async operations.
-				Promises allow you handle the successes and failures of async functions with clean, performant code.
-				I banged my head against a wall trying to understand JS promises for almost a month before I found this post.
-				Hopefully I can save you some time!
-			</li>
-		</ul>
-	</main>
-
-	<br>
-
-	<footer class="website-footer">
-		<a href="https://www.linkedin.com/in/johnwmathena" target="_blank"><img id="social-media-photo" src="../photos/linkedin.png"></a>
-		<a href="https://www.github.com/jmathena1" target="_blank"><img id="social-media-photo" src="../photos/github-black.png" ></a>
-		<a href="https://www.twitter.com/JohnMathena6" target="_blank"><img id="social-media-photo" src="../photos/twitter.png"></a>
-	</footer>
-
+			<a href="https://www.freecodecamp.org/news/guide-to-javascript-promises/">
+				https://www.freecodecamp.org/news/guide-to-javascript-promises/
+			</a>
+			<ul>
+				<li>(2023-08-06) this write up on Promises is sort of a companion to the previous article on JS async operations.
+					Promises allow you handle the successes and failures of async functions with clean, performant code.
+					I banged my head against a wall trying to understand JS promises for almost a month before I found this post.
+					Hopefully I can save you some time!
+				</li>
+			</ul>
+		</main>
+		<footer-component></footer-component>
+	</body>
 </html>

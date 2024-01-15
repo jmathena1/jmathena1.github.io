@@ -3,59 +3,33 @@
 
 <html class="website-grid">
 	<head>
-	    <title>language</title>
-		<link rel="stylesheet", href="../johns-website-style.css">
-		<link rel="icon" type="image/png" href="../photos/john-favicon.png">
+		<title>language</title>
+		<link rel="stylesheet", href="johns-website-style.css">
+		<link rel="icon" type="image/png" href="photos/john-favicon.png">
+		<script src="components/header.js" type="text/javascript"></script>
+		<script src="components/footer.js" type="text/javascript"></script>
 	</head>
-	<header class="website-header">
-		<b class="homepage-title">
-		JOHN W. MATHENA
-		</b>
-		<nav class="container-flexbox">
-			<ul class="nav-bar-menu">
-				<li id="about-link" class="nav-bar-item">
-					<a href="../index.html" class="nav-bar-link">About</a>
-				</li>
-				<li id="blogs-link" class="nav-bar-item">
-					<a href="../blogs.html" class="nav-bar-link">Writing</a>
-				</li>
-				<li id="portfolio-link" class="nav-bar-item">
-					<a href="../portfolio.html" class="nav-bar-link">Portfolio</a>
-				</li>
-				<li id="wiki-link" class="nav-bar-item">
-					<a href="../wiki/wiki.html" class="nav-bar-link">Wiki</a>
+	<body>
+		<header-component></header-component>
+		<main id="wiki-post-main", class="main">
+			<h3><a href="wiki.html">home garden</a> / language</h3>
+			<ul>
+				<li>I majored in Linguistics in college, so I gotta keep a special
+					place here on my site for cool language nerd stuff.</li>
+			</ul>
+			<a href="https://medium.com/@emilymenonbender/thought-experiment-in-the-national-library-of-thailand-f2bf761a8a83">
+				https://medium.com/@emilymenonbender/thought-experiment-in-the-national-library-of-thailand-f2bf761a8a83
+			</a>
+			<ul>
+				<li>coming from Linguistics, I'm equal parts fascinated by computers' capabilities using language and
+					frustrated by the things people insist computers do when they really don't. Dr. Emily Bender here 
+					writes a very compelling thought experiment demonstrating that LLMs (large language models) like ChatGPT
+					don't really "understand" human language. They merely manipulate its form. Ted Chiang makes a similar point
+					about how computers really process information in this 
+					<a href="https://www.newyorker.com/tech/annals-of-technology/chatgpt-is-a-blurry-jpeg-of-the-web">New Yorker article</a>.
 				</li>
 			</ul>
-		</nav>
-		<br>
-	</header>
-
-    <main id="wiki-post-main", class="main">
-		<h3><a href="wiki.html">home garden</a> / language</h3>
-		<ul>
-			<li>I majored in Linguistics in college, so I gotta keep I special
-                place here on my site for cool language nerd stuff.</li>
-		</ul>
-		<a href="https://medium.com/@emilymenonbender/thought-experiment-in-the-national-library-of-thailand-f2bf761a8a83">
-			https://medium.com/@emilymenonbender/thought-experiment-in-the-national-library-of-thailand-f2bf761a8a83
-		</a>
-        <ul>
-			<li>coming from Linguistics, I'm equal parts fascinated by computers' capabilities using language and
-                frustrated by the things people insist computers do when they really don't. Dr. Emily Bender here 
-                writes a very compelling thought experiment demonstrating that LLMs (large language models) like ChatGPT
-                don't really "understand" human language. They merely manipulate its form. Ted Chiang makes a similar point
-                about how computers really process information in this 
-                <a href="https://www.newyorker.com/tech/annals-of-technology/chatgpt-is-a-blurry-jpeg-of-the-web">New Yorker article</a>.
-            </li>
-		</ul>
-	</main>
-
-	<br>
-
-	<footer class="website-footer">
-		<a href="https://www.linkedin.com/in/johnwmathena" target="_blank"><img id="social-media-photo" src="../photos/linkedin.png"></a>
-		<a href="https://www.github.com/jmathena1" target="_blank"><img id="social-media-photo" src="../photos/github-black.png" ></a>
-		<a href="https://www.twitter.com/JohnMathena6" target="_blank"><img id="social-media-photo" src="../photos/twitter.png"></a>
-	</footer>
-
+		</main>
+		<footer-component></footer-component>
+	</body>
 </html>

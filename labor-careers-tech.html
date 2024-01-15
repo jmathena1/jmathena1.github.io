@@ -3,71 +3,45 @@
 
 <html class="website-grid">
 	<head>
-	    <title>labor and tech</title>
-		<link rel="stylesheet", href="../johns-website-style.css">
-		<link rel="icon" type="image/png" href="../photos/john-favicon.png">
+		<title>labor and tech</title>
+		<link rel="stylesheet", href="johns-website-style.css">
+		<link rel="icon" type="image/png" href="photos/john-favicon.png">
+		<script src="components/header.js" type="text/javascript"></script>
+		<script src="components/footer.js" type="text/javascript"></script>
 	</head>
-	<header class="website-header">
-		<b class="homepage-title">
-		JOHN W. MATHENA
-		</b>
-		<nav class="container-flexbox">
-			<ul class="nav-bar-menu">
-				<li id="about-link" class="nav-bar-item">
-					<a href="../index.html" class="nav-bar-link">About</a>
-				</li>
-				<li id="blogs-link" class="nav-bar-item">
-					<a href="../blogs.html" class="nav-bar-link">Writing</a>
-				</li>
-				<li id="portfolio-link" class="nav-bar-item">
-					<a href="../portfolio.html" class="nav-bar-link">Portfolio</a>
-				</li>
-				<li id="wiki-link" class="nav-bar-item">
-					<a href="../wiki/wiki.html" class="nav-bar-link">Wiki</a>
-				</li>
+	<body>
+		<header-component></header-component>
+		<main id="wiki-post-main", class="main">
+			<h3><a href="wiki.html">home garden</a> / labor and careers in tech</h3> 
+			<a href="https://logicmag.io/intelligence/javascript-is-for-girls/">
+				https://logicmag.io/intelligence/javascript-is-for-girls/
+			</a>
+			<ul>
+				<li>there's lots of gatekeeping in software. hierarchies of tech roles within an organization or
+					field. in a male dominated field, there's unfortunately a lot of jockeying for status. and that 
+					of course takes its toll on the women who are entering or currently working in tech.</li> 
+				<li>as they point out in the article, the early days of computing were dominated by women. the field itself was founded
+					and then tremendously advanced by women as well - Ada Lovelace and Grace Hopper - though that didn't
+					stop the men from taking over once industry thought they could make money with these machines.</li>
 			</ul>
-		</nav>
-		<br>
-	</header>
-
-    <main id="wiki-post-main", class="main">
-		<h3><a href="wiki.html">home garden</a> / labor and careers in tech</h3> 
-        <a href="https://logicmag.io/intelligence/javascript-is-for-girls/">
-			https://logicmag.io/intelligence/javascript-is-for-girls/
-		</a>
-		<ul>
-        	<li>there's lots of gatekeeping in software. hierarchies of tech roles within an organization or
-        		field. in a male dominated field, there's unfortunately a lot of jockeying for status. and that 
-        		of course takes its toll on the women who are entering or currently working in tech.</li> 
-        	<li>as they point out in the article, the early days of computing were dominated by women. the field itself was founded
-        		and then tremendously advanced by women as well - Ada Lovelace and Grace Hopper - though that didn't
-        		stop the men from taking over once industry thought they could make money with these machines.</li>
-		</ul>
-        <a href="https://logicmag.io/justice/tressie-mcmillan-cottom-on-teaching-technology/">
-			https://logicmag.io/justice/tressie-mcmillan-cottom-on-teaching-technology/
-		</a>
-        <ul>
-			<li>social impacts of technology or otherwise, dr. tressie mcmillan cottom is one of our best
-				contemporary social scientsts - she's a sociologist by training. her book of essays <a href="https://thenewpress.com/books/thick"><i>Thick</i></a>
-				is a great read and she has a book <a href="https://thenewpress.com/books/lower-ed"><i>Lower Ed</i></a> mentioned in
-				the article that is high on my reading list!</li>
-		</ul>
-        <a href="https://logicmag.io/intelligence/interview-with-an-anonymous-data-scientist/">
-			https://logicmag.io/intelligence/interview-with-an-anonymous-data-scientist/
-		</a>
-		<ul>
-			<li>great breakdown of the <a href="https://hbr.org/2012/10/data-scientist-the-sexiest-job-of-the-21st-century">sexiest job of the 21st century</a></li>
-			<li>lots of hype surrounding data science in general and AI in particular</li>
-			<li>(2023-05-28) interviewee gives a pretty entertaining overview of the field as of 2017. even post chat-gpt, not much has changed.</li>
-		</ul>
-	</main>
-
-	<br>
-
-	<footer class="website-footer">
-		<a href="https://www.linkedin.com/in/johnwmathena" target="_blank"><img id="social-media-photo" src="../photos/linkedin.png"></a>
-		<a href="https://www.github.com/jmathena1" target="_blank"><img id="social-media-photo" src="../photos/github-black.png" ></a>
-		<a href="https://www.twitter.com/JohnMathena6" target="_blank"><img id="social-media-photo" src="../photos/twitter.png"></a>
-	</footer>
-
+			<a href="https://logicmag.io/justice/tressie-mcmillan-cottom-on-teaching-technology/">
+				https://logicmag.io/justice/tressie-mcmillan-cottom-on-teaching-technology/
+			</a>
+			<ul>
+				<li>social impacts of technology or otherwise, dr. tressie mcmillan cottom is one of our best
+					contemporary social scientsts - she's a sociologist by training. her book of essays <a href="https://thenewpress.com/books/thick"><i>Thick</i></a>
+					is a great read and she has a book <a href="https://thenewpress.com/books/lower-ed"><i>Lower Ed</i></a> mentioned in
+					the article that is high on my reading list!</li>
+			</ul>
+			<a href="https://logicmag.io/intelligence/interview-with-an-anonymous-data-scientist/">
+				https://logicmag.io/intelligence/interview-with-an-anonymous-data-scientist/
+			</a>
+			<ul>
+				<li>great breakdown of the <a href="https://hbr.org/2012/10/data-scientist-the-sexiest-job-of-the-21st-century">sexiest job of the 21st century</a></li>
+				<li>lots of hype surrounding data science in general and AI in particular</li>
+				<li>(2023-05-28) interviewee gives a pretty entertaining overview of the field as of 2017. even post chat-gpt, not much has changed.</li>
+			</ul>
+		</main>
+		<footer-component></footer-component>
+	</body>
 </html>

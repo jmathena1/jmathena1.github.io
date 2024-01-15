@@ -3,56 +3,30 @@
 
 <html class="website-grid">
 	<head>
-	    <title>Learn to Code</title>
-		<link rel="stylesheet", href="../johns-website-style.css">
-		<link rel="icon" type="image/png" href="../photos/john-favicon.png">
+		<title>perl</title>
+		<link rel="stylesheet", href="johns-website-style.css">
+		<link rel="icon" type="image/png" href="photos/john-favicon.png">
+		<script src="components/header.js" type="text/javascript"></script>
+		<script src="components/footer.js" type="text/javascript"></script>
 	</head>
-	<header class="website-header">
-		<b class="homepage-title">
-		JOHN W. MATHENA
-		</b>
-		<nav class="container-flexbox">
-			<ul class="nav-bar-menu">
-				<li id="about-link" class="nav-bar-item">
-					<a href="../index.html" class="nav-bar-link">About</a>
-				</li>
-				<li id="blogs-link" class="nav-bar-item">
-					<a href="../blogs.html" class="nav-bar-link">Writing</a>
-				</li>
-				<li id="portfolio-link" class="nav-bar-item">
-					<a href="../portfolio.html" class="nav-bar-link">Portfolio</a>
-				</li>
-				<li id="wiki-link" class="nav-bar-item">
-					<a href="../wiki/wiki.html" class="nav-bar-link">Wiki</a>
-				</li>
+	<body>
+		<header-component></header-component>
+		<main id="wiki-post-main", class="main">
+			<h3>
+				<a href="wiki.html">home garden</a> / <a href="learn-to-code.html">learn to code</a> / perl 
+			</h3>
+			<a href="https://learn.perl.org/">
+				https://learn.perl.org/
+			</a>
+			<a href="https://modernperlbooks.com/books/modern_perl_2016/index.html">
+				https://modernperlbooks.com/books/modern_perl_2016/index.html
+			</a>
+			<ul>
+				<li>i read once that perl was great for text processing and so i saved some Perl resources.
+					I have yet to learn a single line of Perl. maybe one day!</li>
+				<li>if anyone comes across this and has a dope Perl project they wanna share, hmu</li>
 			</ul>
-		</nav>
-		<br>
-	</header>
-
-    <main id="wiki-post-main", class="main">
-		<h3>
-            <a href="wiki.html">home garden</a> / <a href="learn-to-code.html">learn to code</a> / perl 
-        </h3>
-        <a href="https://learn.perl.org/">
-            https://learn.perl.org/
-        </a>
-        <a href="https://modernperlbooks.com/books/modern_perl_2016/index.html">
-            https://modernperlbooks.com/books/modern_perl_2016/index.html
-        </a>
-        <ul>
-            <li>i read once that perl was great for text processing and so i saved some Perl resources.
-                I have yet to learn a single line of Perl. maybe one day!</li>
-            <li>if anyone comes across this and has a dope Perl project they wanna share, hmu</li>
-        </ul>
-	</main>
-
-	<br>
-
-	<footer class="website-footer">
-		<a href="https://www.linkedin.com/in/johnwmathena" target="_blank"><img id="social-media-photo" src="../photos/linkedin.png"></a>
-		<a href="https://www.github.com/jmathena1" target="_blank"><img id="social-media-photo" src="../photos/github-black.png" ></a>
-		<a href="https://www.twitter.com/JohnMathena6" target="_blank"><img id="social-media-photo" src="../photos/twitter.png"></a>
-	</footer>
-
+		</main>
+		<footer-component></footer-component>
+	</body>
 </html>
