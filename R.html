@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<html class="website-grid">
+	<head>
+		<title>R</title>
+		<link rel="stylesheet", href="johns-website-style.css">
+		<link rel="icon" type="image/png" href="photos/john-favicon.png">
+		<script src="components/header.js" type="text/javascript"></script>
+		<script src="components/footer.js" type="text/javascript"></script>
+	</head>
+	<body>
+		<header-component></header-component>
+		<main id="wiki-post-main", class="main">
+			<h3><a href="wiki.html">home garden</a> / R</h3>
+			<ul>
+				<li>the OG language. such a weird language to start with in hindsight but who cares.
+					you can't always choose that. I still love R!</li>
+			</ul>
+			<a href="https://shiny.posit.co/r/getstarted/shiny-basics/lesson1/index.html">
+				https://shiny.posit.co/r/getstarted/shiny-basics/lesson1/index.html
+			</a>
+			<ul>
+				<li>Shiny is R's framework for building apps. Great stepping stone to UI and web dev
+					if you don't have that background. You can build Shiny apps entirely in R but also bring 
+					in modules that use HTML/CSS/JS as you want to and are able.</li>
+			</ul>
+			<a href="https://pkgs.rstudio.com/flexdashboard/index.html">
+				https://pkgs.rstudio.com/flexdashboard/index.html
+			</a>
+			<ul>
+				<li>Shiny like framework that is specifically for dashboards. We know how much analysts love
+					building dashboards!</li>
+				<li>flexdashboard is great for small, regular reports. i used it for a couple monthly reports I
+					needed that used to just be excel files. once i got the user satisfied with the visuals, i just changed
+					the underlying data every month. pretty sure I used the `RMariaDB` library to connect to our AWS
+					MySQL instance and just run the same query based on the month.</li>
+			</ul>
+			<a href="https://tidydatatutor.com/">
+				https://tidydatatutor.com/
+			</a>
+			<ul>
+				<li>let's you run R code in broswer. site will show you what your code is doing under the hood complete
+					with visuals and diagrams. very good for learners that need a visual.</li>
+			</ul>
+		</main>
+		<footer-component></footer-component>
+	</body>
+</html>
