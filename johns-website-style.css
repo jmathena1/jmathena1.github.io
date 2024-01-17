@@ -4,7 +4,7 @@ chesterfield green - #626439
 greek villa - #F0ECE2
 */
 
-@media screen and (max-width: 415px) {
+@media screen and (max-width: 450px) {
 	div.about-picture { 
 		width: 100%;
 	}
