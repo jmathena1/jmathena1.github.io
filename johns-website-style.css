@@ -111,6 +111,10 @@ nav {
 	text-align: center;
 }
 
+#about-main.main {
+	text-align: left;
+}
+
 #wiki-main.main {
 	width: 50%;
 	text-align: center;
