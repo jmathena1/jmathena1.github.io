@@ -20,7 +20,7 @@ greek villa - #F0ECE2
 		width: 75% !important;
 	}
 	.nav-bar-item {
-		font-size: 16px !important;
+		font-size: 14px !important;
 	}
 	.portfolio-description {
 		width: 100% !important;
@@ -87,7 +87,7 @@ nav {
 
 .nav-bar-item {
 	display: flex;
-	font-size: 30px;
+	font-size: 24px;
 	font-family: georgia, times-new-roman;
 	padding-left: 1vw;
 	padding-right: 1vw;
@@ -263,3 +263,4 @@ a:hover {
 	background-image: linear-gradient(45deg, #F0ECE2, #FFFFFF);
 	box-shadow: 5px 5px 5px #808080;
 }
+
