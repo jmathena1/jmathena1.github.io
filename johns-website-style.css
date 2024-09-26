@@ -19,10 +19,10 @@ html {
 
 body {
     margin: auto;
+    max-width: 50vw;
+    min-height: 100%;
     width: 85%;
-	min-height: 100%;
 	word-wrap: break-word;
-
 }
 
 .website-header {
@@ -41,8 +41,8 @@ body {
 .nav-bar-menu {
 	display: flex;
 	flex-flow: row nowrap;
-	justify-content: space-between;
-    padding-left: 0px;
+	justify-content: flex-start;
+    padding-left: 0vw;
     width: 100%;
 }
 
@@ -50,6 +50,7 @@ body {
 	display: flex;
 	font-size: 24px;
 	font-family: georgia, times-new-roman;
+    padding-right: 2.5vw;
 }
 
 .nav-bar-link {
