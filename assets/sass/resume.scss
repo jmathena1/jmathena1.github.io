@@ -16,6 +16,10 @@ a:hover {
 
 body {
     margin: 0;
+    	background-color: #F0ECE2;
+	font-family: georgia, times-new-roman;
+	overflow-y: scroll;
+	height: 100vh;
     word-wrap: break-word;
 }
 
@@ -51,4 +55,5 @@ body {
     .resume-main {
         margin-left: 5%;
         margin-right: 5%;
+    }
 }
