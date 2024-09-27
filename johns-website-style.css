@@ -1,40 +1,8 @@
-/*
 clary sage - #acad97
 chesterfield green - #626439
 greek villa - #F0ECE2
 */
 
-@media screen and (max-width: 450px) {
-	div.about-picture { 
-		width: 100%;
-	}
-	.main {
-		width: 85% !important;
-		font-size: 20px !important;
-	}
-	.homepage-title {
-		font-size: 18px !important;
-		width: 75% !important;
-	}
-	.nav-bar-menu {
-		width: 75% !important;
-	}
-	.nav-bar-item {
-		font-size: 14px !important;
-	}
-	.portfolio-description {
-		width: 100% !important;
-	}
-	details[open] summary span.icon {
-		font-size: 16px !important;
-	}
-	#resume-pdf-viewer {
-		height: 100% !important;
-	}
-	#social-media-photo {
-		font-size: 16px !important;
-	}
-}
 
 @viewport {
 	width: device-width;
@@ -49,53 +17,44 @@ html {
 }
 
 body {
-	min-height: 100%;
-	display: grid;
-	grid-template-rows: auto 1fr auto;
+    margin: auto;
+    max-width: 900px;
+    min-height: 100%;
+    width: 85%;
 	word-wrap: break-word;
 }
 
 .website-header {
 	color: #000000;
 	width: 100%;
-	display: flex;
-	justify-content: space-between;
-	align-items: center;
-}
-
-nav {
-	width: 100%;
-	max-width: 100%;
 }
 
 .homepage-title {
-	width: 100%;
-	max-width: 100%;
 	display: flex;
 	flex-wrap: nowrap;
 	font-size: 36px;
-	justify-content: center;
+    max-width: 100%;
+	width: 100%;
 }
 
 .nav-bar-menu {
-	width: 100%;
-	max-width: 100%;
 	display: flex;
 	flex-flow: row nowrap;
-	justify-content: center;
+	justify-content: flex-start;
+    padding-left: 0vw;
+    width: 100%;
 }
 
 .nav-bar-item {
 	display: flex;
-	font-size: 24px;
 	font-family: georgia, times-new-roman;
-	padding-left: 1vw;
-	padding-right: 1vw;
+    font-size: 24px;
+    font-weight: 550;
+    padding-right: 2.5vw;
 }
 
 .nav-bar-link {
 	display: flex;
-	color: #000000;
 	text-decoration: none;
 }
 
@@ -105,18 +64,11 @@ nav {
 
 .main {
 	height: 100%;
-	width: 40%;
-	margin: auto;
 	font-size: 24px;
-	text-align: center;
-}
-
-#about-main.main {
 	text-align: left;
 }
 
 #wiki-main.main {
-	width: 50%;
 	text-align: center;
 }
 
@@ -124,25 +76,8 @@ nav {
 	text-align: left;
 }
 
-.about-picture {
-	max-width: auto;
-	height: auto;
-	width: 75%;
-	display: block;
-	justify-content: center;
-	margin-left: auto;
-	margin-right: auto;
-}
-
-.website-footer {
-	font-family: georgia, times-new-roman;
-	text-align: center;
-	color: #000000;
-	padding-bottom: 5vh;
-}
-
 #social-media-photo {
-	padding: 5px;
+   	padding: 5px;
 	width: 40px;
 }
 
@@ -174,20 +109,15 @@ nav {
 	display: inline-block;
 }
 
-.solid-port-section-divider {
-	border-top: 3px solid #000000;
-	width: 50%;
-}
-
 .portfolio-description {
 	width: 75%;
 	display: flex;
-	text-align: center;
+	text-align: left;
 	flex-direction: column;
 	border-style: solid;
 	border-width: 1.25px; 
 	border-color: #000000;
-	padding: 5px;
+	padding: 10px;
 	margin-left: auto;
 	margin-right: auto;
 	background-image: linear-gradient(#F0ECE2, #FFFFFF);
@@ -227,16 +157,14 @@ nav {
 }
 
 .blog-logo-image {
+    float: left;
 	display: block;
-	width: auto;
-	max-width: 100%;
-	height: auto;
-	margin-left: auto;
-	margin-right: auto;
+	width: 33%;
 }
 
 .solid-blog-section-divider {
 	border-top: 1.5px solid #000000;
+    horizontal-align: left;
 	width: 25%;
 }
 
@@ -264,3 +192,36 @@ a:hover {
 	box-shadow: 5px 5px 5px #808080;
 }
 
+
+@media (max-width: 450px) {
+	div.about-picture { 
+		width: 100%;
+	}
+    body {
+        width: 75%;
+    }
+	.main {
+		font-size: 16px;
+	}
+	.homepage-title {
+		font-size: 22px;
+	}
+	.nav-bar-item {
+		font-size: 15px;
+	}
+	.portfolio-description {
+		width: 100%;
+	}
+	details[open] summary span.icon {
+		font-size: 16px;
+	}
+	#resume-pdf-viewer {
+		height: 100%;
+	}
+	#social-media-photo {
+		width: 25px;
+	}
+    .blog-logo-image {
+        width: 100%;
+    }
+}
