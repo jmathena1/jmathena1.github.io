@@ -5,6 +5,7 @@ class Header extends HTMLElement {
 
     connectedCallback() {
         this.innerHTML = `
+        <br>
         <header class="website-header">
             <b class="homepage-title">
             JOHN W. MATHENA
@@ -13,9 +14,6 @@ class Header extends HTMLElement {
                 <ul class="nav-bar-menu">
                     <li id="about-link" class="nav-bar-item">
                         <a href="index.html" class="nav-bar-link">About</a>
-                    </li>
-                    <li id="blogs-link" class="nav-bar-item">
-                        <a href="blogs.html" class="nav-bar-link">Writing</a>
                     </li>
                     <li id="portfolio-link" class="nav-bar-item">
                         <a href="portfolio.html" class="nav-bar-link">Portfolio</a>
@@ -30,7 +28,22 @@ class Header extends HTMLElement {
                     </li>
                 </ul>
             </nav>
+            <div>
+                <a href="https://www.linkedin.com/in/johnwmathena" target="_blank">
+                    <img id="social-media-photo" src="photos/linkedin.png">
+                </a>
+                <a href="https://www.github.com/jmathena1" target="_blank">
+                    <img id="social-media-photo" src="photos/github-black.png">
+                </a>
+                <a href="https://www.twitter.com/JohnMathena6" target="_blank">
+                    <img id="social-media-photo" src="photos/twitter.png">
+                </a>
+                <a href="https://www.instagram.com/mathenajohn/" target="_blank">
+                    <img id="social-media-photo" src="photos/instagram-logo.png">
+                </a>
+            </div>
 	    </header>
+        <br>
     `;
     }
 
