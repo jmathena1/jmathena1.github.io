@@ -1,6 +1,3 @@
-<!doctype html>
-<html>
-    {{ partial "head-resume.html" . }}
-    {{ block "main" . }}
-    {{ end }}
-</html>
+{{ define "main" }}
+ {{ .Content }}
+{{ end }}
