@@ -1,6 +1,0 @@
-<head>
-        <meta name="viewport" content="width=device-width, initial-scale=1.0" charset='utf-8'>
-        <title>{{ print .Page.Title }}</title>
-        {{ $style := resources.Get "sass/resume.scss" | resources.ToCSS | resources.Minify }}
-        <link rel="stylesheet" href="{{ $style.Permalink }}">
-</head>

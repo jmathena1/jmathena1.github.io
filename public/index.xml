@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title></title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on </description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>resume</title>
+      <link>http://localhost:1313/resume/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/resume/</guid>
+      <description>&lt;h3 id=&#34;software-engineer-ii-manual-bulk-processing-track-lead&#34;&gt;SOFTWARE ENGINEER II, MANUAL BULK PROCESSING TRACK LEAD&lt;/h3&gt;&#xA;&lt;h4 id=&#34;2u-inchttps2ucom-lanham-md-remote&#34;&gt;&lt;a href=&#34;https://2u.com&#34;&gt;2U, Inc.&lt;/a&gt;| Lanham, MD (remote)&lt;/h4&gt;&#xA;&lt;p&gt;&lt;em&gt;03 / 2023 to present&lt;/em&gt;&lt;br&gt;&#xA;&lt;em&gt;10 / 2022 to 02 / 2023 as SOFTWARE ENGINEER II&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>test</title>
+      <link>http://localhost:1313/portfolio/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/portfolio/</guid>
+      <description>{{ define &#34;main&#34; }}&#xA;&lt;body&gt;&#xA;    &lt;main id=&#34;portfolio-main&#34;, class=&#34;main&#34;&gt;&#xA;        &lt;details id=&#34;collapsible-sections&#34;&gt;&#xA;            &lt;summary id=&#34;personal-projects&#34; class=&#34;portfolio-header&#34;&gt;&#xA;                &lt;h3 id=&#34;header&#34; class=&#34;portfolio-header&#34;&gt;&#xA;                    Personal Projects&#xA;                &lt;/h3&gt;&#xA;            &lt;/summary&gt;&#xA;            &lt;div id=&#34;balto-city-salaries&#34; class=&#34;portfolio-description&#34;&gt;&#xA;                &lt;h4 class=&#34;portfolio-item-title&#34;&gt;The City That Works&lt;/h4&gt;&#xA;                &lt;a href=&#34;https://data.baltimorecity.gov/datasets/baltimore::baltimore-city-employee-salaries-new/about&#34; target=&#34;_blank&#34;&gt;&lt;/a&gt;&#xA;                    &lt;img class=&#34;port-org-image&#34; src=photos/bmore-city-logo.png alt=&#34;City of Baltimore logo&#34;&gt;&#xA;                    &lt;p&gt;In 2023, I conducted an exploratory analysis of Baltimore City employee salary data. I wanted to calculate&#xA;                        basic aggregate measures like median, minimum, and maximum salary, tenure, and average raise year over year&#xA;                        broken down by city agency. I also wanted to demonstrate how to conduct an end-to-end data analysis project&#xA;                        using publicly available data. I published my results in a Jupyter notebook and converted the notebook &#xA;                        into an html document. The resulting report is published on this site. Click the project view button below&#xA;                        to check it out!&#xA;                    &lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
