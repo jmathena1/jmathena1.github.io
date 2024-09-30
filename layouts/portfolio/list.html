@@ -1,0 +1,18 @@
+{{ define "main" }}
+<main id="portfolio-main", class="main">
+    <details id="collapsible-sections">
+        <summary id="personal-projects" class="portfolio-header">
+            <h3 id="header" class="portfolio-header">
+						Personal Projects
+            </h3>
+        </summary>
+        {{ range where .Site.RegularPages ".Params.portfolioType" "==" "personal" }}
+            <div id="balto-city-salaries" class="portfolio-description">
+                {{ .Content }}
+                <a href={{ .Params.projectLink }} target="_blank" style="text-decoration:none;">
+                    <button class="project-view-button">View Project</button>
+                </a>
+                <br>
+            </div>
+        {{ end }}
+{{ end }}

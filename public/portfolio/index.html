@@ -2,7 +2,7 @@
 <html>
     <head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
         <meta name="viewport" content="width=device-width, initial-scale=1.0" charset='utf-8'>
-        <title>test</title>
+        <title>Portfolios</title>
         
         <link rel="stylesheet" href="http://localhost:1313/sass/main.min.css">
 </head>
@@ -18,7 +18,7 @@
                 <a href="/" class="nav-bar-link">About</a>
             </li>
             <li id="portfolio-link" class="nav-bar-item">
-                <a href="portfolio.html" class="nav-bar-link">Portfolio</a>
+                <a href="/portfolio" class="nav-bar-link">Portfolio</a>
             </li>
             <li id="resume-link" class="nav-bar-item">
                 <a href="/resume" class="nav-bar-link">
@@ -48,178 +48,25 @@
 <br>
 
     <body>
-        <main id="about-main" class="main">
-            
- {{ define "main" }}
-<body>
-    <main id="portfolio-main", class="main">
-        <details id="collapsible-sections">
-            <summary id="personal-projects" class="portfolio-header">
-                <h3 id="header" class="portfolio-header">
-                    Personal Projects
-                </h3>
-            </summary>
+        
+<main id="portfolio-main", class="main">
+    <details id="collapsible-sections">
+        <summary id="personal-projects" class="portfolio-header">
+            <h3 id="header" class="portfolio-header">
+						Personal Projects
+            </h3>
+        </summary>
+        
             <div id="balto-city-salaries" class="portfolio-description">
-                <h4 class="portfolio-item-title">The City That Works</h4>
-                <a href="https://data.baltimorecity.gov/datasets/baltimore::baltimore-city-employee-salaries-new/about" target="_blank"></a>
-                    <img class="port-org-image" src=photos/bmore-city-logo.png alt="City of Baltimore logo">
-                    <p>In 2023, I conducted an exploratory analysis of Baltimore City employee salary data. I wanted to calculate
-                        basic aggregate measures like median, minimum, and maximum salary, tenure, and average raise year over year
-                        broken down by city agency. I also wanted to demonstrate how to conduct an end-to-end data analysis project
-                        using publicly available data. I published my results in a Jupyter notebook and converted the notebook 
-                        into an html document. The resulting report is published on this site. Click the project view button below
-                        to check it out!
-                    </p>
-                    <h5 id="tools" class="portfolio-item-title">
-                        Tools used
-                    </h5>
-                    <div class="portfolio-tools">
-                        <a href="https://pandas.pydata.org/" target="_blank"><img id="social-media-photo" src="photos/pandas-python.png"></a>
-                        <a href="https://jupyter.org/" target="_blank"><img id="social-media-photo" src="photos/jupyter-logo.png"></a>	
-                        <a href="https://cloud.google.com/" target="_blank"><img id="social-media-photo" src="photos/google-cloud.png"></a>
-                    </div>
-                    <br>
-                    <a href="https://citysalaries.johnwmathena.com" target="_blank" style="text-decoration:none;">
-                        <button class="project-view-button">View Project</button>
-                    </a>
-                    <br>
-            </div>
-        </details>
-        <details id="collapsible-sections">
-            <summary id="professional-projects" class="portfolio-header">
-                <h3 id="header" class="portfolio-header">
-                Professional Projects
-                </h3>
-            </summary>
-            <div id="211-dashboards" class="portfolio-description">
-                <h4 class="portfolio-item-title">211 Maryland Public Data Dashboards</h4>
-                <a href="https://mdinfonet.org/partner/data/" target="_blank">
-                    <img class="port-org-image" src=photos/211-logo.png alt="211 Maryland logo">
-                </a>
-                <p>From March 2021 through October 2022, I built PowerBI reports displaying data on usage of the 211 health and human service referral
-                system by Maryland residents.
-                The reports query data from a MySQL database I built and store in AWS RDS (Relational Database Service). I added data weekly using
-                the MySQL command line tool after cleaning CSV exports using R.
-                </p>
-                <h5 id="tools" class="portfolio-item-title">
-                    Tools used
-                </h5>
-                <div class="portfolio-tools">
-                    <a href="https://powerbi.microsoft.com/en-us/" target="_blank"><img id="social-media-photo" src="photos/powerbi.svg"></a>
-                    <a href="https://aws.amazon.com" target="_blank"><img id="social-media-photo" src="photos/aws.png"></a>
-                    <a href="https://r-project.org" target="_blank"><img id="social-media-photo" src="photos/r-logo.svg"></a>	
-                </div>
-                <br>
-                <a href="https://www.211md.org/data" target="_blank" style="text-decoration:none;">
-                    <button class="project-view-button">View Project</button>
-                </a>
-                <br>
-            </div>
-            <br>
-            <div id="sao-courtwatch" class="portfolio-description">
-                <h4 class="portfolio-item-title">Community Court Watch in Baltimore City</h4>
-                <a href="https://stattorney.org" target="_blank">
-                    <img class="port-org-image" src=photos/osa-logo.png alt="Baltimore City State's Attorney logo">
-                </a>
-                <p>From January 2020 through March 2021, I mapped cases of interest to city residents across the nine police districts 
-                in Baltimore. I collected data on charges brought, incident location, and outcome from my own work and 
-                other community liaisons on the office's Community Engagement team. 
-                I used Excel and Google Maps to manage and visualize the data.
-                </p>
-                <h5 id="tools" class="portfolio-item-title">
-                    Tools used
-                </h5>
-                <div class="portfolio-tools">
-                    <img id="social-media-photo" src="photos/excel-logo.png">
-                    <a href="https://mymaps.google.com" target="_blank"><img id="social-media-photo" src="photos/google-mymaps.png"></a>	
-                </div>
-                <br>
-                <a href="https://bit.ly/CourtWatch" target="_blank" style="text-decoration:none;">
-                    <button class="project-view-button">View Project</button>
-                </a>
-                <br>
-            </div>
-            <br>
-            <div id="ldchd-health-equity" class="portfolio-description">
-                <h4 class="portfolio-item-title">Health Equity Report in Douglas County, KS</h4>
-                <a href="https://ldchealth.org" target="_blank">
-                    <img class="port-org-image" src=photos/ldchealth-logo.png alt="Lawrence Douglas County Public Health logo"\>
-                </a>
-                <p>In the fall of 2018 as part of the Health Informatics team, I helped write, research, and build visuals for the first
-                Health Equity report in Douglas County, Kansas. We measured differences in health and economic metrics like infant birth weight,
-                life exptectancy, income, and uninsured rate. We found that poor residents and residents of color do not live as long,
-                as well, or make as much money as higher income residents and white residents.
-                </p>
-                <h5 style="text-align:center">
-                    <em><u>Tools used</u></em>
-                </h5>
-                <div class="portfolio-tools">
-                    <img id="social-media-photo" src="photos/excel-logo.png">
-                    <a href="https://r-project.org" target="_blank"><img id="social-media-photo" src="photos/r-logo.svg"></a>	
-                </div>
-                <br>
-                <a href="files/2018-ldchd-health-equity-report.pdf" target="_blank" style="text-decoration:none;">
-                    <button class="project-view-button">View Project</button>
-                </a>
-                <br>
-            </div>
-        </details>
-        <details class="collapsible-sections">
-            <summary id="academic-projects" class="portfolio-header">
-                <h3 id="header" class="portfolio-header">
-                Academic Projects
-                </h3>
-            </summary>
-            <div id="arabic-flagship-capstone" class="portfolio-description">
-                <h4 class="portfolio-item-title">Arabic Flagship Program - Capstone Presentation</h4>
-                </a>
-                <a href="https://www.thelanguageflagship.org/arabic" target="_blank">
-                    <img class="port-org-image" src=photos/the-language-flagship.png alt="The language flagship logo">
-                </a>
-                <p>In May 2017, I gave a speech exploring my internship experience in Meknes, Morocco as part of the Arabic Flagship Program.
-                I compared my legal internship and my internship with a local mechanic to the experiences I had back in the US. The presentation
-                was given entirely in Arabic (mostly Modern Standard with some Moroccan Darija).
-                </p>
-                <br>
-                <a href="https://www.youtube.com/watch?v=s7I41pv_LJU" target="_blank" style="text-decoration:none;">
-                    <button class="project-view-button">View Project</button>
-                </a>
-                <br>
-            </div>
-            <br>
-            <div id="arabic-text-analysis" class="portfolio-description">
-                <h4 class="portfolio-item-title">Computational Text Analysis of Arabic Language Newspapers</h4>
-                <a href="https://https://sllc.umd.edu/special-programs/arabic-persian/arabic-flagship" target="_blank">
-                    <img class="port-org-image" src=photos/umd-lang-school.png alt="UMD School of Languages logo">
-                </a>
-                    <br>
-                <p>In the fall of 2016, my group conducted a computational analysis of news coverage surrounding the Arab Spring in Arabic language 
-                newspapers.
-                Our analysis demonstrated the dominance of Egyptian protests across the Arab world. We used the R "tm" package and the "LDAvis" package 
-                to run topic modelson scraped newspaper articles. 
-                Click <a href="https://docs.google.com/document/d/1L_AP6QwbEjl6L40DUqTYfahEDxF95wPYLBhIXhksAs4/edit?usp=sharing" 
-                        target="_blank">here</a>
-                to see the original Google document. Click below for a clean PDF.
-                </p>
-                <h5 id="tools" class="portfolio-item-title">
-                    Tools used
-                </h5>
-                <div class="portfolio-tools">
-                    <img id="social-media-photo" src="photos/excel-logo.png">
-                    <a href="https://r-project.org" target="_blank"><img id="social-media-photo" src="photos/r-logo.svg"></a>	
-                </div>
-                <br>
-                <a href="files/final-paper-arab-spring-news-analysis.pdf" target="_blank" style="text-decoration:none;">
-                    <button class="project-view-button">View Project</button>
-                </a>
-                <br>
-            </div>
-        </details>
-    </main>
-</body>
-{{ end }}
+                <h4 id="the-city-that-works">The City That Works</h4>
+<p>In 2023, I conducted an exploratory analysis of Baltimore City employee salary data. I wanted to calculate basic aggregate measures like median, minimum, and maximum salary, tenure, and average raise year over year broken down by city agency. I also wanted to demonstrate how to conduct an end-to-end data analysis project using publicly available data. I published my results in a Jupyter notebook and converted the notebook into an html document. The resulting report is published on this site. Click the project view button below to check it out!</p>
 
+                <a href=https://citysalaries.johnwmathena.com target="_blank" style="text-decoration:none;">
+                    <button class="project-view-button">View Project</button>
+                </a>
+                <br>
+            </div>
+        
 
-        </main>
     </body>
 </html>
