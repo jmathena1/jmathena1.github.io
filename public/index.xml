@@ -8,18 +8,25 @@
     <language>en-us</language>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title></title>
+      <link>http://localhost:1313/portfolio/211-dashboards/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/portfolio/211-dashboards/</guid>
+      <description>&lt;h4 id=&#34;211-maryland-data-dashboards&#34;&gt;211 Maryland Data Dashboards&lt;/h4&gt;&#xA;&lt;p&gt;From March 2021 through October 2022, I built PowerBI reports displaying data on usage of the 211 health and human service referral system by Maryland residents. The reports query data from a MySQL database I built and stored in AWS RDS (Relational Database Service). I added data weekly using the MySQL command line tool after cleaning CSV exports using R.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/portfolio/city-salaries/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/portfolio/city-salaries/</guid>
+      <description>&lt;h4 id=&#34;the-city-that-works&#34;&gt;The City That Works&lt;/h4&gt;&#xA;&lt;figure class=&#34;port-org-image&#34;&gt;&lt;img src=&#34;http://localhost:1313/photos/bmore-city-logo.png&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;p&gt;In 2023, I conducted an exploratory analysis of &lt;a href=&#34;https://data.baltimorecity.gov/datasets/baltimore::baltimore-city-employee-salaries-new/about&#34;&gt;Baltimore City employee salary data&lt;/a&gt;. I wanted to calculate basic aggregate measures like median, minimum, and maximum salary, tenure, and average raise year over year broken down by city agency. I also wanted to demonstrate how to conduct an end-to-end data analysis project using publicly available data. I published my results in a Jupyter notebook and converted the notebook into an html document. The resulting report is published on this site. Click the project view button below to check it out!&#xA;&lt;img src=&#34;http://localhost:1313/photos/pandas-python.png&#34; alt=&#34;pandas-logo&#34;&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>resume</title>
       <link>http://localhost:1313/resume/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/resume/</guid>
       <description>&lt;h3 id=&#34;software-engineer-ii-manual-bulk-processing-track-lead&#34;&gt;SOFTWARE ENGINEER II, MANUAL BULK PROCESSING TRACK LEAD&lt;/h3&gt;&#xA;&lt;h4 id=&#34;2u-inchttps2ucom-lanham-md-remote&#34;&gt;&lt;a href=&#34;https://2u.com&#34;&gt;2U, Inc.&lt;/a&gt;| Lanham, MD (remote)&lt;/h4&gt;&#xA;&lt;p&gt;&lt;em&gt;03 / 2023 to present&lt;/em&gt;&lt;br&gt;&#xA;&lt;em&gt;10 / 2022 to 02 / 2023 as SOFTWARE ENGINEER II&lt;/em&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>The City That Works</title>
-      <link>http://localhost:1313/portfolio/city-salaries/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/portfolio/city-salaries/</guid>
-      <description>&lt;h4 id=&#34;the-city-that-works&#34;&gt;The City That Works&lt;/h4&gt;&#xA;&lt;p&gt;In 2023, I conducted an exploratory analysis of Baltimore City employee salary data. I wanted to calculate basic aggregate measures like median, minimum, and maximum salary, tenure, and average raise year over year broken down by city agency. I also wanted to demonstrate how to conduct an end-to-end data analysis project using publicly available data. I published my results in a Jupyter notebook and converted the notebook into an html document. The resulting report is published on this site. Click the project view button below to check it out!&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

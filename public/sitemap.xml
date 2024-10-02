@@ -4,6 +4,10 @@
   <url>
     <loc>http://localhost:1313/</loc>
   </url><url>
+    <loc>http://localhost:1313/portfolio/211-dashboards/</loc>
+  </url><url>
+    <loc>http://localhost:1313/portfolio/city-salaries/</loc>
+  </url><url>
     <loc>http://localhost:1313/categories/</loc>
   </url><url>
     <loc>http://localhost:1313/portfolio/</loc>
