@@ -22,6 +22,13 @@
       <description>&lt;h4 id=&#34;the-city-that-works&#34;&gt;The City That Works&lt;/h4&gt;&#xA;&lt;figure class=&#34;port-org-image&#34;&gt;&lt;img src=&#34;http://localhost:1313/photos/bmore-city-logo.png&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;p&gt;In 2023, I conducted an exploratory analysis of &lt;a href=&#34;https://data.baltimorecity.gov/datasets/baltimore::baltimore-city-employee-salaries-new/about&#34;&gt;Baltimore City employee salary data&lt;/a&gt;. I wanted to calculate basic aggregate measures like median, minimum, and maximum salary, tenure, and average raise year over year broken down by city agency. I also wanted to demonstrate how to conduct an end-to-end data analysis project using publicly available data. I published my results in a Jupyter notebook and converted the notebook into an html document. The resulting report is published on this site. Click the project view button below to check it out!&lt;/p&gt;</description>
     </item>
     <item>
+      <title></title>
+      <link>http://localhost:1313/portfolio/court-watch/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/portfolio/court-watch/</guid>
+      <description>&lt;h4 id=&#34;community-court-watch-in-baltimore-city&#34;&gt;Community Court Watch in Baltimore City&lt;/h4&gt;&#xA;&lt;figure class=&#34;port-org-image&#34;&gt;&lt;img src=&#34;http://localhost:1313/photos/osa-logo.png&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;p&gt;From January 2020 through March 2021, I mapped cases of interest to city residents across the nine police districts in Baltimore. I collected data on charges brought, incident location, and outcome from my own work and other community liaisons on the office&amp;rsquo;s Community Engagement team. I used Excel and Google Maps to manage and visualize the data.&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>resume</title>
       <link>http://localhost:1313/resume/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
