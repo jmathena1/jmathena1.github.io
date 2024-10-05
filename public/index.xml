@@ -6,7 +6,43 @@
     <description>Recent content on </description>
     <generator>Hugo</generator>
     <language>en-us</language>
+    <lastBuildDate>Sat, 16 Mar 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Same Blog, Different Build. On to Hugo!</title>
+      <link>http://localhost:1313/the-strays/posts/2024-03-16-same-blog-different-build/</link>
+      <pubDate>Sat, 16 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/the-strays/posts/2024-03-16-same-blog-different-build/</guid>
+      <description>&lt;p&gt;I migrated my blog to &lt;a href=&#34;https://gohugo.io/&#34;&gt;Hugo&lt;/a&gt;! I&amp;rsquo;ve been using &lt;a href=&#34;https://jekyllrb.com/&#34;&gt;Jekyll&lt;/a&gt; to build&#xA;my blogging site for the past couple years but I read that it is no longer actively supported. Several bloggers&#xA;I follow have made the switch to Hugo and claim the build speed is a lot faster. Though that&amp;rsquo;s not really a concern&#xA;for me at the moment, if I keep publishing here I&amp;rsquo;ll eventually run into those problems.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Musings on AI pt 2</title>
+      <link>http://localhost:1313/the-strays/posts/2024-02-25-musings-on-ai-pt-2/</link>
+      <pubDate>Sun, 25 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/the-strays/posts/2024-02-25-musings-on-ai-pt-2/</guid>
+      <description>&lt;p&gt;Though I don&amp;rsquo;t feel anything from pt 1 was incorrect, I wanted lend a bit more credulity to AI and Machine Learning work. I&amp;rsquo;m gonna reference mostly work and posts from&#xA;a machine learning engineer and tech writer I follow, Vicki Boykis. She has a great post from Feb 2023 on Chat GPT titled&#xA;&lt;a href=&#34;https://vickiboykis.com/2023/02/26/what-should-you-use-chatgpt-for&#34;&gt;&amp;ldquo;What should you use Chat GPT for?&amp;rdquo;&lt;/a&gt;. Part of her assessment from then:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Musings on AI</title>
+      <link>http://localhost:1313/the-strays/posts/2024-02-23-musings-on-ai/</link>
+      <pubDate>Fri, 23 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/the-strays/posts/2024-02-23-musings-on-ai/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;m trying to get in the habit of blogging a bit more frequently so this will seem less collected than other posts.&lt;/p&gt;&#xA;&lt;p&gt;I&amp;rsquo;ve largely avoided tinkering too much with the various generative AI tools. Mostly because I have little patience for signing up for new things&#xA;and I&amp;rsquo;ve largely found my current methods of looking things up and getting things done adequate (maybe that&amp;rsquo;s my age showing). On top of that,&#xA;especially for the latest OpenAI product &lt;a href=&#34;https://openai.com/sora&#34;&gt;Sora&lt;/a&gt;, I truly don&amp;rsquo;t understand why you would want to use this. If you&amp;rsquo;re a&#xA;creative person who has a vision you want to bring to life, why wouldn&amp;rsquo;t you want to grab a camera and start?&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>The Bear show us how to grow</title>
+      <link>http://localhost:1313/the-strays/posts/2023-07-10-the-bear-shows-us-how-to-grow/</link>
+      <pubDate>Mon, 10 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/the-strays/posts/2023-07-10-the-bear-shows-us-how-to-grow/</guid>
+      <description>&lt;p&gt;(&lt;em&gt;Minor spoilers for The Bear season 2 lie ahead&lt;/em&gt;)&lt;/p&gt;&#xA;&lt;p&gt;Episode four of season two of &lt;a href=&#34;https://en.wikipedia.org/wiki/The_Bear_(TV_series)#Season_2_(2023)&#34;&gt;The Bear&lt;/a&gt; takes a slight detour from a Chicago family restaurant aiming to reinvent itself to a high-end kitchen in the Netherlands. The Chicago shop&amp;rsquo;s head chefs send their baker, Marcus, to Copenhagen to learn some new dishes from a pastry chef named Luca.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Please don&#39;t make me kill</title>
+      <link>http://localhost:1313/the-strays/posts/2022-04-14-Please-dont-make-me-kill/</link>
+      <pubDate>Thu, 14 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/the-strays/posts/2022-04-14-Please-dont-make-me-kill/</guid>
+      <description>&lt;p&gt;A &lt;a href=&#34;https://www.wsj.com/articles/student-debt-relief-payment-pause-free-colege-military-navy-recruitment-education-11649800856&#34;&gt;WSJ op-ed&lt;/a&gt; made&#xA;its rounds through my little corner of lefty twitter. I&amp;rsquo;m not a subscriber, so I did not read it.&#xA;Take this post with however big a grain of salt you feel appropriate.&lt;/p&gt;</description>
+    </item>
     <item>
       <title></title>
       <link>http://localhost:1313/portfolio/211-dashboards/</link>
