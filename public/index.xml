@@ -12,7 +12,7 @@
       <link>http://localhost:1313/portfolio/211-dashboards/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/portfolio/211-dashboards/</guid>
-      <description>&lt;h4 id=&#34;211-maryland-data-dashboards&#34;&gt;211 Maryland Data Dashboards&lt;/h4&gt;&#xA;&lt;figure class=&#34;port-org-image&#34;&gt;&lt;img src=&#34;http://localhost:1313/photos/211-logo.png&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;p&gt;From March 2021 through October 2022, I built PowerBI reports displaying data on usage of the 211 health and human service referral system by Maryland residents. The reports query data from a MySQL database I built and stored in AWS RDS (Relational Database Service). I added data weekly using the MySQL command line tool after cleaning CSV exports using R.&lt;/p&gt;</description>
+      <description>&lt;h4 id=&#34;211-maryland-data-dashboards&#34;&gt;211 Maryland Data Dashboards&lt;/h4&gt;&#xA;&lt;figure class=&#34;port-org-image&#34;&gt;&lt;a href=&#34;https://211md.org&#34;&gt;&lt;img src=&#34;http://localhost:1313/photos/211-logo.png&#34;&gt;&lt;/a&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;p&gt;From March 2021 through October 2022, I built PowerBI reports displaying data on usage of the 211 health and human service referral system by Maryland residents. The reports query data from a MySQL database I built and stored in AWS RDS (Relational Database Service). I added data weekly using the MySQL command line tool after cleaning CSV exports using R.&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
@@ -26,7 +26,28 @@
       <link>http://localhost:1313/portfolio/court-watch/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/portfolio/court-watch/</guid>
-      <description>&lt;h4 id=&#34;community-court-watch-in-baltimore-city&#34;&gt;Community Court Watch in Baltimore City&lt;/h4&gt;&#xA;&lt;figure class=&#34;port-org-image&#34;&gt;&lt;img src=&#34;http://localhost:1313/photos/osa-logo.png&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;p&gt;From January 2020 through March 2021, I mapped cases of interest to city residents across the nine police districts in Baltimore. I collected data on charges brought, incident location, and outcome from my own work and other community liaisons on the office&amp;rsquo;s Community Engagement team. I used Excel and Google Maps to manage and visualize the data.&lt;/p&gt;</description>
+      <description>&lt;h4 id=&#34;community-court-watch-in-baltimore-city&#34;&gt;Community Court Watch in Baltimore City&lt;/h4&gt;&#xA;&lt;figure class=&#34;port-org-image&#34;&gt;&lt;a href=&#34;https://stattorney.org&#34;&gt;&lt;img src=&#34;http://localhost:1313/photos/osa-logo.png&#34;&gt;&lt;/a&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;p&gt;From January 2020 through March 2021, I mapped cases of interest to city residents across the nine police districts in Baltimore. I collected data on charges brought, incident location, and outcome from my own work and other community liaisons on the office&amp;rsquo;s Community Engagement team. I used Excel and Google Maps to manage and visualize the data.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/portfolio/equity-report/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/portfolio/equity-report/</guid>
+      <description>&lt;h4 id=&#34;health-equity-report-in-douglas-county-ks&#34;&gt;Health Equity Report in Douglas County, KS&lt;/h4&gt;&#xA;&lt;figure class=&#34;port-org-image&#34;&gt;&lt;a href=&#34;https://ldchealth.org&#34;&gt;&lt;img src=&#34;http://localhost:1313/photos/ldchealth-logo.png&#34;&gt;&lt;/a&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;p&gt;In the fall of 2018 as part of the Health Informatics team, I helped write, research, and build visuals for the first Health Equity report in Douglas County, Kansas. We measured differences in health and economic metrics like infant birth weight, life exptectancy, income, and uninsured rate. We found that poor residents and residents of color do not live as long, as well, or make as much money as higher income residents and white residents.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/portfolio/flagship/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/portfolio/flagship/</guid>
+      <description>&lt;h4 id=&#34;arabic-flagship-program---capstone-presentation&#34;&gt;Arabic Flagship Program - Capstone Presentation&lt;/h4&gt;&#xA;&lt;figure class=&#34;port-org-image&#34;&gt;&lt;a href=&#34;https://thelanguageflagship.org/arabic&#34;&gt;&lt;img src=&#34;http://localhost:1313/photos/the-language-flagship.png&#34;&gt;&lt;/a&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;p&gt;In May 2017, I gave a speech exploring my internship experience in Meknes, Morocco as part of the Arabic Flagship Program. I compared my legal internship and my internship with a local mechanic to the experiences I had back in the US. The presentation was given entirely in Arabic (mostly Modern Standard with some Moroccan Darija).&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/portfolio/text-analysis/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/portfolio/text-analysis/</guid>
+      <description>&lt;h4 id=&#34;computational-text-analysis-of-arabic-newspapers&#34;&gt;Computational Text Analysis of Arabic Newspapers&lt;/h4&gt;&#xA;&lt;figure class=&#34;port-org-image&#34;&gt;&lt;a href=&#34;https://sllc.umd.edu&#34;&gt;&lt;img src=&#34;http://localhost:1313/photos/umd-logo.png&#34;&gt;&lt;/a&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;p&gt;In the fall of 2016, my group conducted a computational analysis of news coverage surrounding the Arab Spring in Arabic language newspapers. Our analysis demonstrated the dominance of Egyptian protests across the Arab world. We used the R &amp;ldquo;tm&amp;rdquo; package and the &amp;ldquo;LDAvis&amp;rdquo; package to run topic modelson scraped newspaper articles. Click &lt;a href=&#34;https://docs.google.com/document/d/1L_AP6QwbEjl6L40DUqTYfahEDxF95wPYLBhIXhksAs4/edit?usp=sharing&#34;&gt;here&lt;/a&gt;&#xA;to see the original Google document. Click below for a clean PDF.&lt;/p&gt;</description>
     </item>
     <item>
       <title>resume</title>
