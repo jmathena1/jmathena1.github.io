@@ -86,6 +86,13 @@
       <description>&lt;h4 id=&#34;computational-text-analysis-of-arabic-newspapers&#34;&gt;Computational Text Analysis of Arabic Newspapers&lt;/h4&gt;&#xA;&lt;figure class=&#34;port-org-image&#34;&gt;&lt;a href=&#34;https://sllc.umd.edu&#34;&gt;&lt;img src=&#34;http://localhost:1313/photos/umd-logo.png&#34;&gt;&lt;/a&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;p&gt;In the fall of 2016, my group conducted a computational analysis of news coverage surrounding the Arab Spring in Arabic language newspapers. Our analysis demonstrated the dominance of Egyptian protests across the Arab world. We used the R &amp;ldquo;tm&amp;rdquo; package and the &amp;ldquo;LDAvis&amp;rdquo; package to run topic modelson scraped newspaper articles. Click &lt;a href=&#34;https://docs.google.com/document/d/1L_AP6QwbEjl6L40DUqTYfahEDxF95wPYLBhIXhksAs4/edit?usp=sharing&#34;&gt;here&lt;/a&gt;&#xA;to see the original Google document. Click below for a clean PDF.&lt;/p&gt;</description>
     </item>
     <item>
+      <title>blogging</title>
+      <link>http://localhost:1313/wiki-pages/blogging/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/wiki-pages/blogging/</guid>
+      <description>&lt;h3 id=&#34;home-garden-hahahugoshortcode32s0hbhb---hahahugoshortcode32s1hbhb&#34;&gt;&lt;a href=&#34;http://localhost:1313/wiki-pages/&#34;&gt;home garden&lt;/a&gt; / blogging&lt;/h3&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://jmcglone.com/guides/github-pages/&#34;&gt;https://jmcglone.com/guides/github-pages/&lt;/a&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;I didn&amp;rsquo;t follow this tutorial exactly when building my blogs on this site.&lt;/li&gt;&#xA;&lt;li&gt;But I completed some of the steps and ended up hosting on GitHub Pages (so easy!).&lt;/li&gt;&#xA;&lt;li&gt;The post above lists numerous references for Git, GitHub, Markdown, and Jekyll, all of which&lt;/li&gt;&#xA;&lt;li&gt;I ended up using in different capacities to launch the site you&amp;rsquo;re browsing!&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.mkdocs.org/&#34;&gt;https://www.mkdocs.org/&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>resume</title>
       <link>http://localhost:1313/resume/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
