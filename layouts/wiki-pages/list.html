@@ -1,0 +1,19 @@
+{{ define "main" }}
+    <main id="wiki-main", class="main">
+        <div>
+            <h3>John's Digital Garden</h3>
+            <h4>This is where I store the stuff my brain swears I’ll come back to later.</h4>
+        </div>
+        <br>
+        {{ range .RegularPages }}
+            <div class="garden-section-header">
+            <h4>
+                <a href="{{ .Permalink }}">
+                    {{ .Title }}
+                </a>
+            </h4>
+            </div>
+            <br>
+        {{ end }}
+    </main>
+{{ end }}
