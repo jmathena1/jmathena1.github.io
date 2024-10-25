@@ -1,5 +1,6 @@
 ---
 title: databases
+wikiType: parent
 ---
 ### [home garden]( {{< ref "/wiki-pages" >}} ) / {{< param "title" >}}
 

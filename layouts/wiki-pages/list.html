@@ -5,7 +5,7 @@
             <h4>This is where I store the stuff my brain swears I’ll come back to later.</h4>
         </div>
         <br>
-        {{ range .RegularPages }}
+        {{ range where .RegularPages "Params.wikiType" "==" "parent" }}
             <div class="garden-section-header">
             <h4>
                 <a href="{{ .Permalink }}">

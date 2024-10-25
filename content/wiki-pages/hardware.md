@@ -1,5 +1,6 @@
 ---
 title: hardware
+wikiType: parent
 ---
 ### [home garden]( {{< ref "/wiki-pages" >}} ) / {{< param "title" >}}
 

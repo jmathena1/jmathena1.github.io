@@ -1,5 +1,6 @@
 ---
 title: blogs
+wikiType: parent
 ---
 ### [home garden]( {{< ref "/wiki-pages" >}} ) / {{< param "title" >}}
 [https://mathbabe.org](https://mathbabe.org/)

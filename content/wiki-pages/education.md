@@ -1,5 +1,6 @@
 ---
 title: education
+wikiType: parent
 ---
 ### [home garden]( {{< ref "/wiki-pages" >}} ) / {{< param "title" >}}
 

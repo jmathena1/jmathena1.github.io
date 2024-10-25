@@ -1,5 +1,6 @@
 ---
 title: blogging
+wikiType: parent
 ---
 ### [home garden]( {{< ref "/wiki-pages" >}} ) / {{< param "title" >}}
 [https://jmcglone.com/guides/github-pages/](https://jmcglone.com/guides/github-pages/)
