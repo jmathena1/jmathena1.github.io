@@ -3,8 +3,8 @@ title: blogs
 wikiType: parent
 ---
 ### [home garden]( {{< ref "/wiki-pages" >}} ) / {{< param "title" >}}
-[https://mathbabe.org](https://mathbabe.org/)
 
+[https://mathbabe.org](https://mathbabe.org/)
 - This is Cathy O'Neil's blog. She is the author of 
 [_Weapons of Math Destruction_](
 https://www.penguinrandomhouse.com/books/241363/weapons-of-math-destruction-by-cathy-oneil/)
