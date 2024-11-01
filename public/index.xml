@@ -2,312 +2,312 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title></title>
-    <link>http://localhost:1313/</link>
+    <link>https://www.johnwmathena.com/</link>
     <description>Recent content on </description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 14 Oct 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.johnwmathena.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hugo is so nice, I migrated twice</title>
-      <link>http://localhost:1313/the-strays/posts/2024-10-14-migrated-twice/</link>
+      <link>https://www.johnwmathena.com/the-strays/posts/2024-10-14-migrated-twice/</link>
       <pubDate>Mon, 14 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/the-strays/posts/2024-10-14-migrated-twice/</guid>
+      <guid>https://www.johnwmathena.com/the-strays/posts/2024-10-14-migrated-twice/</guid>
       <description>&lt;p&gt;After changing my blog and poetry site build systems to Hugo, I thought why not move everything to Hugo?&lt;/p&gt;</description>
     </item>
     <item>
       <title>Same Blog, Different Build. On to Hugo!</title>
-      <link>http://localhost:1313/the-strays/posts/2024-03-16-same-blog-different-build/</link>
+      <link>https://www.johnwmathena.com/the-strays/posts/2024-03-16-same-blog-different-build/</link>
       <pubDate>Sat, 16 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/the-strays/posts/2024-03-16-same-blog-different-build/</guid>
+      <guid>https://www.johnwmathena.com/the-strays/posts/2024-03-16-same-blog-different-build/</guid>
       <description>&lt;p&gt;I migrated my blog to &lt;a href=&#34;https://gohugo.io/&#34;&gt;Hugo&lt;/a&gt;! I&amp;rsquo;ve been using &lt;a href=&#34;https://jekyllrb.com/&#34;&gt;Jekyll&lt;/a&gt; to build&#xA;my blogging site for the past couple years but I read that it is no longer actively supported. Several bloggers&#xA;I follow have made the switch to Hugo and claim the build speed is a lot faster. Though that&amp;rsquo;s not really a concern&#xA;for me at the moment, if I keep publishing here I&amp;rsquo;ll eventually run into those problems.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Musings on AI pt 2</title>
-      <link>http://localhost:1313/the-strays/posts/2024-02-25-musings-on-ai-pt-2/</link>
+      <link>https://www.johnwmathena.com/the-strays/posts/2024-02-25-musings-on-ai-pt-2/</link>
       <pubDate>Sun, 25 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/the-strays/posts/2024-02-25-musings-on-ai-pt-2/</guid>
+      <guid>https://www.johnwmathena.com/the-strays/posts/2024-02-25-musings-on-ai-pt-2/</guid>
       <description>&lt;p&gt;Though I don&amp;rsquo;t feel anything from pt 1 was incorrect, I wanted lend a bit more credulity to AI and Machine Learning work. I&amp;rsquo;m gonna reference mostly work and posts from&#xA;a machine learning engineer and tech writer I follow, Vicki Boykis. She has a great post from Feb 2023 on Chat GPT titled&#xA;&lt;a href=&#34;https://vickiboykis.com/2023/02/26/what-should-you-use-chatgpt-for&#34;&gt;&amp;ldquo;What should you use Chat GPT for?&amp;rdquo;&lt;/a&gt;. Part of her assessment from then:&lt;/p&gt;</description>
     </item>
     <item>
       <title>Musings on AI</title>
-      <link>http://localhost:1313/the-strays/posts/2024-02-23-musings-on-ai/</link>
+      <link>https://www.johnwmathena.com/the-strays/posts/2024-02-23-musings-on-ai/</link>
       <pubDate>Fri, 23 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/the-strays/posts/2024-02-23-musings-on-ai/</guid>
+      <guid>https://www.johnwmathena.com/the-strays/posts/2024-02-23-musings-on-ai/</guid>
       <description>&lt;p&gt;I&amp;rsquo;m trying to get in the habit of blogging a bit more frequently so this will seem less collected than other posts.&lt;/p&gt;</description>
     </item>
     <item>
       <title>The Bear show us how to grow</title>
-      <link>http://localhost:1313/the-strays/posts/2023-07-10-the-bear-shows-us-how-to-grow/</link>
+      <link>https://www.johnwmathena.com/the-strays/posts/2023-07-10-the-bear-shows-us-how-to-grow/</link>
       <pubDate>Mon, 10 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/the-strays/posts/2023-07-10-the-bear-shows-us-how-to-grow/</guid>
+      <guid>https://www.johnwmathena.com/the-strays/posts/2023-07-10-the-bear-shows-us-how-to-grow/</guid>
       <description>&lt;p&gt;(&lt;em&gt;Minor spoilers for The Bear season 2 lie ahead&lt;/em&gt;)&lt;/p&gt;&#xA;&lt;p&gt;Episode four of season two of &lt;a href=&#34;https://en.wikipedia.org/wiki/The_Bear_(TV_series)#Season_2_(2023)&#34;&gt;The Bear&lt;/a&gt; takes a slight detour from a Chicago family restaurant aiming to reinvent itself to a high-end kitchen in the Netherlands. The Chicago shop&amp;rsquo;s head chefs send their baker, Marcus, to Copenhagen to learn some new dishes from a pastry chef named Luca.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Please don&#39;t make me kill</title>
-      <link>http://localhost:1313/the-strays/posts/2022-04-14-Please-dont-make-me-kill/</link>
+      <link>https://www.johnwmathena.com/the-strays/posts/2022-04-14-Please-dont-make-me-kill/</link>
       <pubDate>Thu, 14 Apr 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/the-strays/posts/2022-04-14-Please-dont-make-me-kill/</guid>
+      <guid>https://www.johnwmathena.com/the-strays/posts/2022-04-14-Please-dont-make-me-kill/</guid>
       <description>&lt;p&gt;A &lt;a href=&#34;https://www.wsj.com/articles/student-debt-relief-payment-pause-free-colege-military-navy-recruitment-education-11649800856&#34;&gt;WSJ op-ed&lt;/a&gt; made&#xA;its rounds through my little corner of lefty twitter. I&amp;rsquo;m not a subscriber, so I did not read it.&#xA;Take this post with however big a grain of salt you feel appropriate.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Scared</title>
-      <link>http://localhost:1313/droppin-dimes/posts/2020-11-03-scared/</link>
+      <link>https://www.johnwmathena.com/droppin-dimes/posts/2020-11-03-scared/</link>
       <pubDate>Tue, 03 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/droppin-dimes/posts/2020-11-03-scared/</guid>
+      <guid>https://www.johnwmathena.com/droppin-dimes/posts/2020-11-03-scared/</guid>
       <description>&lt;p&gt;place is straight packed&lt;br&gt;&#xA;I could not believe&lt;br&gt;&#xA;My naive little eyes&lt;br&gt;&#xA;watching a ravens game&lt;br&gt;&#xA;during a late brunch&lt;br&gt;&#xA;in a filled bar&lt;br&gt;&#xA;surrounded by a pandemic&lt;/p&gt;</description>
     </item>
     <item>
       <title>Survivors march down Hilton</title>
-      <link>http://localhost:1313/droppin-dimes/posts/2020-10-03-survivors-march-down-hilton/</link>
+      <link>https://www.johnwmathena.com/droppin-dimes/posts/2020-10-03-survivors-march-down-hilton/</link>
       <pubDate>Sat, 03 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/droppin-dimes/posts/2020-10-03-survivors-march-down-hilton/</guid>
+      <guid>https://www.johnwmathena.com/droppin-dimes/posts/2020-10-03-survivors-march-down-hilton/</guid>
       <description>&lt;p&gt;Their hearts heavy&lt;br&gt;&#xA;Heads high&lt;br&gt;&#xA;Watched over&lt;br&gt;&#xA;By loved ones lost&lt;/p&gt;&#xA;&lt;p&gt;Strivers march down hilton&lt;br&gt;&#xA;Their fists raised&lt;br&gt;&#xA;Waving in the crisp fall air&lt;br&gt;&#xA;Cheered on&lt;br&gt;&#xA;By residents passing by&lt;/p&gt;</description>
     </item>
     <item>
       <title>Down time</title>
-      <link>http://localhost:1313/droppin-dimes/posts/2020-09-23-down-time/</link>
+      <link>https://www.johnwmathena.com/droppin-dimes/posts/2020-09-23-down-time/</link>
       <pubDate>Wed, 23 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/droppin-dimes/posts/2020-09-23-down-time/</guid>
+      <guid>https://www.johnwmathena.com/droppin-dimes/posts/2020-09-23-down-time/</guid>
       <description>&lt;p&gt;Stimulation pulls my brain&lt;br&gt;&#xA;In like a magnet&lt;br&gt;&#xA;Won’t let me go&lt;br&gt;&#xA;Consumes all that I know&lt;/p&gt;</description>
     </item>
     <item>
       <title>Let us grow up</title>
-      <link>http://localhost:1313/droppin-dimes/posts/2018-05-06-Let-us-grow-up/</link>
+      <link>https://www.johnwmathena.com/droppin-dimes/posts/2018-05-06-Let-us-grow-up/</link>
       <pubDate>Sun, 06 May 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/droppin-dimes/posts/2018-05-06-Let-us-grow-up/</guid>
+      <guid>https://www.johnwmathena.com/droppin-dimes/posts/2018-05-06-Let-us-grow-up/</guid>
       <description>&lt;p&gt;ABCs 123s and Do-re-mis&lt;br&gt;&#xA;School should set our children free&lt;br&gt;&#xA;Rather than shackle their creativity&lt;br&gt;&#xA;As they become target practice&lt;br&gt;&#xA;Resulting from our nation’s inactivity&lt;/p&gt;</description>
     </item>
     <item>
       <title>Lahboul</title>
-      <link>http://localhost:1313/droppin-dimes/2018-05-05-lahboul/</link>
+      <link>https://www.johnwmathena.com/droppin-dimes/posts/2018-05-05-lahboul/</link>
       <pubDate>Sat, 05 May 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/droppin-dimes/2018-05-05-lahboul/</guid>
+      <guid>https://www.johnwmathena.com/droppin-dimes/posts/2018-05-05-lahboul/</guid>
       <description>&lt;p&gt;Welcome to Lahboul&lt;br&gt;&#xA;Take in the sights&lt;br&gt;&#xA;Of fools, ghouls, and tools&lt;br&gt;&#xA;Without any rights&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/portfolio/211-dashboards/</link>
+      <link>https://www.johnwmathena.com/portfolio/211-dashboards/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/portfolio/211-dashboards/</guid>
-      <description>&lt;h4 id=&#34;211-maryland-data-dashboards&#34;&gt;211 Maryland Data Dashboards&lt;/h4&gt;&#xA;&lt;figure class=&#34;port-org-image&#34;&gt;&lt;a href=&#34;https://211md.org&#34;&gt;&lt;img src=&#34;http://localhost:1313/photos/211-logo.png&#34;&gt;&lt;/a&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;p&gt;From March 2021 through October 2022, I built PowerBI reports displaying data on usage of the 211 health and human service referral system by Maryland residents. The reports query data from a MySQL database I built and stored in AWS RDS (Relational Database Service). I added data weekly using the MySQL command line tool after cleaning CSV exports using R.&lt;/p&gt;</description>
+      <guid>https://www.johnwmathena.com/portfolio/211-dashboards/</guid>
+      <description>&lt;h4 id=&#34;211-maryland-data-dashboards&#34;&gt;211 Maryland Data Dashboards&lt;/h4&gt;&#xA;&lt;figure class=&#34;port-org-image&#34;&gt;&lt;a href=&#34;https://211md.org&#34;&gt;&lt;img src=&#34;https://www.johnwmathena.com/photos/211-logo.png&#34;&gt;&lt;/a&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;p&gt;From March 2021 through October 2022, I built PowerBI reports displaying data on usage of the 211 health and human service referral system by Maryland residents. The reports query data from a MySQL database I built and stored in AWS RDS (Relational Database Service). I added data weekly using the MySQL command line tool after cleaning CSV exports using R.&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/portfolio/city-salaries/</link>
+      <link>https://www.johnwmathena.com/portfolio/city-salaries/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/portfolio/city-salaries/</guid>
-      <description>&lt;h4 id=&#34;the-city-that-works&#34;&gt;The City That Works&lt;/h4&gt;&#xA;&lt;figure class=&#34;port-org-image&#34;&gt;&lt;img src=&#34;http://localhost:1313/photos/bmore-city-logo.png&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;p&gt;In 2023, I conducted an exploratory analysis of &lt;a href=&#34;https://data.baltimorecity.gov/datasets/baltimore::baltimore-city-employee-salaries-new/about&#34;&gt;Baltimore City employee salary data&lt;/a&gt;. I wanted to calculate basic aggregate measures like median, minimum, and maximum salary, tenure, and average raise year over year broken down by city agency. I also wanted to demonstrate how to conduct an end-to-end data analysis project using publicly available data. I published my results in a Jupyter notebook and converted the notebook into an html document. The resulting report is published on this site. Click the project view button below to check it out!&lt;/p&gt;</description>
+      <guid>https://www.johnwmathena.com/portfolio/city-salaries/</guid>
+      <description>&lt;h4 id=&#34;the-city-that-works&#34;&gt;The City That Works&lt;/h4&gt;&#xA;&lt;figure class=&#34;port-org-image&#34;&gt;&lt;img src=&#34;https://www.johnwmathena.com/photos/bmore-city-logo.png&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;p&gt;In 2023, I conducted an exploratory analysis of &lt;a href=&#34;https://data.baltimorecity.gov/datasets/baltimore::baltimore-city-employee-salaries-new/about&#34;&gt;Baltimore City employee salary data&lt;/a&gt;. I wanted to calculate basic aggregate measures like median, minimum, and maximum salary, tenure, and average raise year over year broken down by city agency. I also wanted to demonstrate how to conduct an end-to-end data analysis project using publicly available data. I published my results in a Jupyter notebook and converted the notebook into an html document. The resulting report is published on this site. Click the project view button below to check it out!&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/portfolio/court-watch/</link>
+      <link>https://www.johnwmathena.com/portfolio/court-watch/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/portfolio/court-watch/</guid>
-      <description>&lt;h4 id=&#34;community-court-watch-in-baltimore-city&#34;&gt;Community Court Watch in Baltimore City&lt;/h4&gt;&#xA;&lt;figure class=&#34;port-org-image&#34;&gt;&lt;a href=&#34;https://stattorney.org&#34;&gt;&lt;img src=&#34;http://localhost:1313/photos/osa-logo.png&#34;&gt;&lt;/a&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;p&gt;From January 2020 through March 2021, I mapped cases of interest to city residents across the nine police districts in Baltimore. I collected data on charges brought, incident location, and outcome from my own work and other community liaisons on the office&amp;rsquo;s Community Engagement team. I used Excel and Google Maps to manage and visualize the data.&lt;/p&gt;</description>
+      <guid>https://www.johnwmathena.com/portfolio/court-watch/</guid>
+      <description>&lt;h4 id=&#34;community-court-watch-in-baltimore-city&#34;&gt;Community Court Watch in Baltimore City&lt;/h4&gt;&#xA;&lt;figure class=&#34;port-org-image&#34;&gt;&lt;a href=&#34;https://stattorney.org&#34;&gt;&lt;img src=&#34;https://www.johnwmathena.com/photos/osa-logo.png&#34;&gt;&lt;/a&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;p&gt;From January 2020 through March 2021, I mapped cases of interest to city residents across the nine police districts in Baltimore. I collected data on charges brought, incident location, and outcome from my own work and other community liaisons on the office&amp;rsquo;s Community Engagement team. I used Excel and Google Maps to manage and visualize the data.&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/portfolio/equity-report/</link>
+      <link>https://www.johnwmathena.com/portfolio/equity-report/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/portfolio/equity-report/</guid>
-      <description>&lt;h4 id=&#34;health-equity-report-in-douglas-county-ks&#34;&gt;Health Equity Report in Douglas County, KS&lt;/h4&gt;&#xA;&lt;figure class=&#34;port-org-image&#34;&gt;&lt;a href=&#34;https://ldchealth.org&#34;&gt;&lt;img src=&#34;http://localhost:1313/photos/ldchealth-logo.png&#34;&gt;&lt;/a&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;p&gt;In the fall of 2018 as part of the Health Informatics team, I helped write, research, and build visuals for the first Health Equity report in Douglas County, Kansas. We measured differences in health and economic metrics like infant birth weight, life exptectancy, income, and uninsured rate. We found that poor residents and residents of color do not live as long, as well, or make as much money as higher income residents and white residents.&lt;/p&gt;</description>
+      <guid>https://www.johnwmathena.com/portfolio/equity-report/</guid>
+      <description>&lt;h4 id=&#34;health-equity-report-in-douglas-county-ks&#34;&gt;Health Equity Report in Douglas County, KS&lt;/h4&gt;&#xA;&lt;figure class=&#34;port-org-image&#34;&gt;&lt;a href=&#34;https://ldchealth.org&#34;&gt;&lt;img src=&#34;https://www.johnwmathena.com/photos/ldchealth-logo.png&#34;&gt;&lt;/a&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;p&gt;In the fall of 2018 as part of the Health Informatics team, I helped write, research, and build visuals for the first Health Equity report in Douglas County, Kansas. We measured differences in health and economic metrics like infant birth weight, life exptectancy, income, and uninsured rate. We found that poor residents and residents of color do not live as long, as well, or make as much money as higher income residents and white residents.&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/portfolio/flagship/</link>
+      <link>https://www.johnwmathena.com/portfolio/flagship/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/portfolio/flagship/</guid>
-      <description>&lt;h4 id=&#34;arabic-flagship-program---capstone-presentation&#34;&gt;Arabic Flagship Program - Capstone Presentation&lt;/h4&gt;&#xA;&lt;figure class=&#34;port-org-image&#34;&gt;&lt;a href=&#34;https://thelanguageflagship.org/arabic&#34;&gt;&lt;img src=&#34;http://localhost:1313/photos/the-language-flagship.png&#34;&gt;&lt;/a&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;p&gt;In May 2017, I gave a speech exploring my internship experience in Meknes, Morocco as part of the Arabic Flagship Program. I compared my legal internship and my internship with a local mechanic to the experiences I had back in the US. The presentation was given entirely in Arabic (mostly Modern Standard with some Moroccan Darija).&lt;/p&gt;</description>
+      <guid>https://www.johnwmathena.com/portfolio/flagship/</guid>
+      <description>&lt;h4 id=&#34;arabic-flagship-program---capstone-presentation&#34;&gt;Arabic Flagship Program - Capstone Presentation&lt;/h4&gt;&#xA;&lt;figure class=&#34;port-org-image&#34;&gt;&lt;a href=&#34;https://thelanguageflagship.org/arabic&#34;&gt;&lt;img src=&#34;https://www.johnwmathena.com/photos/the-language-flagship.png&#34;&gt;&lt;/a&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;p&gt;In May 2017, I gave a speech exploring my internship experience in Meknes, Morocco as part of the Arabic Flagship Program. I compared my legal internship and my internship with a local mechanic to the experiences I had back in the US. The presentation was given entirely in Arabic (mostly Modern Standard with some Moroccan Darija).&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/portfolio/text-analysis/</link>
+      <link>https://www.johnwmathena.com/portfolio/text-analysis/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/portfolio/text-analysis/</guid>
-      <description>&lt;h4 id=&#34;computational-text-analysis-of-arabic-newspapers&#34;&gt;Computational Text Analysis of Arabic Newspapers&lt;/h4&gt;&#xA;&lt;figure class=&#34;port-org-image&#34;&gt;&lt;a href=&#34;https://sllc.umd.edu&#34;&gt;&lt;img src=&#34;http://localhost:1313/photos/umd-logo.png&#34;&gt;&lt;/a&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;p&gt;In the fall of 2016, my group conducted a computational analysis of news coverage surrounding the Arab Spring in Arabic language newspapers. Our analysis demonstrated the dominance of Egyptian protests across the Arab world. We used the R &amp;ldquo;tm&amp;rdquo; package and the &amp;ldquo;LDAvis&amp;rdquo; package to run topic modelson scraped newspaper articles. Click &lt;a href=&#34;https://docs.google.com/document/d/1L_AP6QwbEjl6L40DUqTYfahEDxF95wPYLBhIXhksAs4/edit?usp=sharing&#34;&gt;here&lt;/a&gt;&#xA;to see the original Google document. Click below for a clean PDF.&lt;/p&gt;</description>
+      <guid>https://www.johnwmathena.com/portfolio/text-analysis/</guid>
+      <description>&lt;h4 id=&#34;computational-text-analysis-of-arabic-newspapers&#34;&gt;Computational Text Analysis of Arabic Newspapers&lt;/h4&gt;&#xA;&lt;figure class=&#34;port-org-image&#34;&gt;&lt;a href=&#34;https://sllc.umd.edu&#34;&gt;&lt;img src=&#34;https://www.johnwmathena.com/photos/umd-logo.png&#34;&gt;&lt;/a&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;p&gt;In the fall of 2016, my group conducted a computational analysis of news coverage surrounding the Arab Spring in Arabic language newspapers. Our analysis demonstrated the dominance of Egyptian protests across the Arab world. We used the R &amp;ldquo;tm&amp;rdquo; package and the &amp;ldquo;LDAvis&amp;rdquo; package to run topic modelson scraped newspaper articles. Click &lt;a href=&#34;https://docs.google.com/document/d/1L_AP6QwbEjl6L40DUqTYfahEDxF95wPYLBhIXhksAs4/edit?usp=sharing&#34;&gt;here&lt;/a&gt;&#xA;to see the original Google document. Click below for a clean PDF.&lt;/p&gt;</description>
     </item>
     <item>
       <title>blogging</title>
-      <link>http://localhost:1313/wiki-pages/blogging/</link>
+      <link>https://www.johnwmathena.com/wiki-pages/blogging/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/wiki-pages/blogging/</guid>
-      <description>&lt;h3 id=&#34;home-garden-hahahugoshortcode23s0hbhb---hahahugoshortcode23s1hbhb&#34;&gt;&lt;a href=&#34;http://localhost:1313/wiki-pages/&#34;&gt;home garden&lt;/a&gt; / blogging&lt;/h3&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://jmcglone.com/guides/github-pages/&#34;&gt;https://jmcglone.com/guides/github-pages/&lt;/a&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;I didn&amp;rsquo;t follow this tutorial exactly when building my blogs on this site.&lt;/li&gt;&#xA;&lt;li&gt;But I completed some of the steps and ended up hosting on GitHub Pages (so easy!).&lt;/li&gt;&#xA;&lt;li&gt;The post above lists numerous references for Git, GitHub, Markdown, and Jekyll, all of which&lt;/li&gt;&#xA;&lt;li&gt;I ended up using in different capacities to launch the site you&amp;rsquo;re browsing!&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.mkdocs.org/&#34;&gt;https://www.mkdocs.org/&lt;/a&gt;&lt;/p&gt;</description>
+      <guid>https://www.johnwmathena.com/wiki-pages/blogging/</guid>
+      <description>&lt;h3 id=&#34;home-garden-hahahugoshortcode34s0hbhb---hahahugoshortcode34s1hbhb&#34;&gt;&lt;a href=&#34;https://www.johnwmathena.com/wiki-pages/&#34;&gt;home garden&lt;/a&gt; / blogging&lt;/h3&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://jmcglone.com/guides/github-pages/&#34;&gt;https://jmcglone.com/guides/github-pages/&lt;/a&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;I didn&amp;rsquo;t follow this tutorial exactly when building my blogs on this site.&lt;/li&gt;&#xA;&lt;li&gt;But I completed some of the steps and ended up hosting on GitHub Pages (so easy!).&lt;/li&gt;&#xA;&lt;li&gt;The post above lists numerous references for Git, GitHub, Markdown, and Jekyll, all of which&lt;/li&gt;&#xA;&lt;li&gt;I ended up using in different capacities to launch the site you&amp;rsquo;re browsing!&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.mkdocs.org/&#34;&gt;https://www.mkdocs.org/&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>blogs</title>
-      <link>http://localhost:1313/wiki-pages/blogs/</link>
+      <link>https://www.johnwmathena.com/wiki-pages/blogs/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/wiki-pages/blogs/</guid>
-      <description>&lt;h3 id=&#34;home-garden-hahahugoshortcode27s0hbhb---hahahugoshortcode27s1hbhb&#34;&gt;&lt;a href=&#34;http://localhost:1313/wiki-pages/&#34;&gt;home garden&lt;/a&gt; / blogs&lt;/h3&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://mathbabe.org/&#34;&gt;https://mathbabe.org&lt;/a&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;This is Cathy O&amp;rsquo;Neil&amp;rsquo;s blog. She is the author of&#xA;&lt;a href=&#34;https://www.penguinrandomhouse.com/books/241363/weapons-of-math-destruction-by-cathy-oneil/&#34;&gt;&lt;em&gt;Weapons of Math Destruction&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;WMD (lol, great title) came out in 2016 and was very ahead of its time in critiquing the unregulated use of&#xA;big data and algorithms in a variety of domains. She has a more recent book out called the Shame Machine.&lt;/li&gt;&#xA;&lt;li&gt;(2023-05-22) She appears to post pretty intermittently, which I&amp;rsquo;ve found makes blogs more punchy.&#xA;She&amp;rsquo;s an incredibly concise writer and has written two best selling books in less than a decade on top of running&#xA;an algorithmic consulting business. I wouldn&amp;rsquo;t expect her to be doing free work on top of that any more often&#xA;then she deems necessary.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://vickiboykis.com/&#34;&gt;https://vickiboykis.com/&lt;/a&gt;&lt;/p&gt;</description>
+      <guid>https://www.johnwmathena.com/wiki-pages/blogs/</guid>
+      <description>&lt;h3 id=&#34;home-garden-hahahugoshortcode35s0hbhb---hahahugoshortcode35s1hbhb&#34;&gt;&lt;a href=&#34;https://www.johnwmathena.com/wiki-pages/&#34;&gt;home garden&lt;/a&gt; / blogs&lt;/h3&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://mathbabe.org/&#34;&gt;https://mathbabe.org&lt;/a&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;This is Cathy O&amp;rsquo;Neil&amp;rsquo;s blog. She is the author of&#xA;&lt;a href=&#34;https://www.penguinrandomhouse.com/books/241363/weapons-of-math-destruction-by-cathy-oneil/&#34;&gt;&lt;em&gt;Weapons of Math Destruction&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;WMD (lol, great title) came out in 2016 and was very ahead of its time in critiquing the unregulated use of&#xA;big data and algorithms in a variety of domains. She has a more recent book out called the Shame Machine.&lt;/li&gt;&#xA;&lt;li&gt;(2023-05-22) She appears to post pretty intermittently, which I&amp;rsquo;ve found makes blogs more punchy.&#xA;She&amp;rsquo;s an incredibly concise writer and has written two best selling books in less than a decade on top of running&#xA;an algorithmic consulting business. I wouldn&amp;rsquo;t expect her to be doing free work on top of that any more often&#xA;then she deems necessary.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://vickiboykis.com/&#34;&gt;https://vickiboykis.com/&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>cs fundamentals</title>
-      <link>http://localhost:1313/wiki-pages/cs-fundamentals/</link>
+      <link>https://www.johnwmathena.com/wiki-pages/cs-fundamentals/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/wiki-pages/cs-fundamentals/</guid>
-      <description>&lt;h3 id=&#34;home-garden-hahahugoshortcode42s0hbhb---referenceshahahugoshortcode42s1hbhb--hahahugoshortcode42s2hbhb&#34;&gt;&lt;a href=&#34;http://localhost:1313/wiki-pages/&#34;&gt;home garden&lt;/a&gt; / &lt;a href=&#34;http://localhost:1313/wiki-pages/references/&#34;&gt;references&lt;/a&gt; / cs fundamentals&lt;/h3&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.freecodecamp.org/news/what-every-software-engineer-should-know/&#34;&gt;https://www.freecodecamp.org/news/what-every-software-engineer-should-know/&lt;/a&gt;&#xA;&lt;a href=&#34;https://teachyourselfcs.com/&#34;&gt;https://teachyourselfcs.com/&lt;/a&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;(2023-08-06) Some guardian angels took the liberty of assembling a free CS curriculum. There&amp;rsquo;s links to textbooks&#xA;video lectures, exercises, and more! As I embark on becoming an SME, I intend on using these resources to replace&#xA;my lack of a CS degree!&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://refactoring.guru&#34;&gt;https://refactoring.guru&lt;/a&gt;&lt;/p&gt;</description>
+      <guid>https://www.johnwmathena.com/wiki-pages/cs-fundamentals/</guid>
+      <description>&lt;h3 id=&#34;home-garden-hahahugoshortcode21s0hbhb---referenceshahahugoshortcode21s1hbhb--hahahugoshortcode21s2hbhb&#34;&gt;&lt;a href=&#34;https://www.johnwmathena.com/wiki-pages/&#34;&gt;home garden&lt;/a&gt; / &lt;a href=&#34;https://www.johnwmathena.com/wiki-pages/references/&#34;&gt;references&lt;/a&gt; / cs fundamentals&lt;/h3&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.freecodecamp.org/news/what-every-software-engineer-should-know/&#34;&gt;https://www.freecodecamp.org/news/what-every-software-engineer-should-know/&lt;/a&gt;&#xA;&lt;a href=&#34;https://teachyourselfcs.com/&#34;&gt;https://teachyourselfcs.com/&lt;/a&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;(2023-08-06) Some guardian angels took the liberty of assembling a free CS curriculum. There&amp;rsquo;s links to textbooks&#xA;video lectures, exercises, and more! As I embark on becoming an SME, I intend on using these resources to replace&#xA;my lack of a CS degree!&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://refactoring.guru&#34;&gt;https://refactoring.guru&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>databases</title>
-      <link>http://localhost:1313/wiki-pages/databases/</link>
+      <link>https://www.johnwmathena.com/wiki-pages/databases/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/wiki-pages/databases/</guid>
-      <description>&lt;h3 id=&#34;home-garden-hahahugoshortcode24s0hbhb---hahahugoshortcode24s1hbhb&#34;&gt;&lt;a href=&#34;http://localhost:1313/wiki-pages/&#34;&gt;home garden&lt;/a&gt; / databases&lt;/h3&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://antonz.org/sql-join/&#34;&gt;https://antonz.org/sql-join/&lt;/a&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;dope overview of different SQL joins&lt;/li&gt;&#xA;&lt;li&gt;SQL is a sneaky useful language. and doesn&amp;rsquo;t require much overhead to learn.&lt;/li&gt;&#xA;&lt;li&gt;the writer also seems to have a lot of sql and DB related posts so they&amp;rsquo;re probably&#xA;a good resource if you&amp;rsquo;re interested in diving into DB world&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+      <guid>https://www.johnwmathena.com/wiki-pages/databases/</guid>
+      <description>&lt;h3 id=&#34;home-garden-hahahugoshortcode25s0hbhb---hahahugoshortcode25s1hbhb&#34;&gt;&lt;a href=&#34;https://www.johnwmathena.com/wiki-pages/&#34;&gt;home garden&lt;/a&gt; / databases&lt;/h3&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://antonz.org/sql-join/&#34;&gt;https://antonz.org/sql-join/&lt;/a&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;dope overview of different SQL joins&lt;/li&gt;&#xA;&lt;li&gt;SQL is a sneaky useful language. and doesn&amp;rsquo;t require much overhead to learn.&lt;/li&gt;&#xA;&lt;li&gt;the writer also seems to have a lot of sql and DB related posts so they&amp;rsquo;re probably&#xA;a good resource if you&amp;rsquo;re interested in diving into DB world&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>education</title>
-      <link>http://localhost:1313/wiki-pages/education/</link>
+      <link>https://www.johnwmathena.com/wiki-pages/education/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/wiki-pages/education/</guid>
-      <description>&lt;h3 id=&#34;home-garden-hahahugoshortcode41s0hbhb---hahahugoshortcode41s1hbhb&#34;&gt;&lt;a href=&#34;http://localhost:1313/wiki-pages/&#34;&gt;home garden&lt;/a&gt; / education&lt;/h3&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.bostonreview.net/articles/marshall-steinbaum-free-college-all/&#34;&gt;https://www.bostonreview.net/articles/marshall-steinbaum-free-college-all/&#xA;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;nice brief of the history of education expansion in the US; mainly summarizing the public high school movement&#xA;and development of the University of California and California State University systems in the mid 20th century&lt;/li&gt;&#xA;&lt;li&gt;as per usual (in my view): a person, place or thing in the US came up with a nifty solution to a sticky problem&#xA;but never broke out nationwide because black people might use it&lt;/li&gt;&#xA;&lt;li&gt;white liberals in the 60s ran out of steam (allegedly) trying to enforce desegregation and couldn&amp;rsquo;t (or wouldn&amp;rsquo;t)&#xA;expand the generous UC and CSU higher ed funding scheme to the federal level. Instead we got student loans.&#xA;lucky us!&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+      <guid>https://www.johnwmathena.com/wiki-pages/education/</guid>
+      <description>&lt;h3 id=&#34;home-garden-hahahugoshortcode32s0hbhb---hahahugoshortcode32s1hbhb&#34;&gt;&lt;a href=&#34;https://www.johnwmathena.com/wiki-pages/&#34;&gt;home garden&lt;/a&gt; / education&lt;/h3&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.bostonreview.net/articles/marshall-steinbaum-free-college-all/&#34;&gt;https://www.bostonreview.net/articles/marshall-steinbaum-free-college-all/&#xA;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;nice brief of the history of education expansion in the US; mainly summarizing the public high school movement&#xA;and development of the University of California and California State University systems in the mid 20th century&lt;/li&gt;&#xA;&lt;li&gt;as per usual (in my view): a person, place or thing in the US came up with a nifty solution to a sticky problem&#xA;but never broke out nationwide because black people might use it&lt;/li&gt;&#xA;&lt;li&gt;white liberals in the 60s ran out of steam (allegedly) trying to enforce desegregation and couldn&amp;rsquo;t (or wouldn&amp;rsquo;t)&#xA;expand the generous UC and CSU higher ed funding scheme to the federal level. Instead we got student loans.&#xA;lucky us!&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>gis</title>
-      <link>http://localhost:1313/wiki-pages/gis/</link>
+      <link>https://www.johnwmathena.com/wiki-pages/gis/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/wiki-pages/gis/</guid>
-      <description>&lt;h3 id=&#34;home-garden-hahahugoshortcode43s0hbhb---hahahugoshortcode43s1hbhb&#34;&gt;&lt;a href=&#34;http://localhost:1313/wiki-pages/&#34;&gt;home garden&lt;/a&gt; / gis&lt;/h3&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://programminghistorian.org/en%3Cbr%3E/lessons/mapping-with-python-leaflet&#34;&gt;https://programminghistorian.org/en/lessons/mapping-with-python-leaflet&#xA;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;programming historian hosts all sorts of coding tutorials. the whole site is geared toward&#xA;humanities scholars who want to build tools, visualizations, or other digital products to showcase or enhance&#xA;their work. I don&amp;rsquo;t think you need any prior GIS knowledge to get going on this.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://leafletjs.com/index.html&#34;&gt;https://leafletjs.com/index.html&lt;/a&gt;&lt;/p&gt;</description>
+      <guid>https://www.johnwmathena.com/wiki-pages/gis/</guid>
+      <description>&lt;h3 id=&#34;home-garden-hahahugoshortcode20s0hbhb---hahahugoshortcode20s1hbhb&#34;&gt;&lt;a href=&#34;https://www.johnwmathena.com/wiki-pages/&#34;&gt;home garden&lt;/a&gt; / gis&lt;/h3&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://programminghistorian.org/en%3Cbr%3E/lessons/mapping-with-python-leaflet&#34;&gt;https://programminghistorian.org/en/lessons/mapping-with-python-leaflet&#xA;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;programming historian hosts all sorts of coding tutorials. the whole site is geared toward&#xA;humanities scholars who want to build tools, visualizations, or other digital products to showcase or enhance&#xA;their work. I don&amp;rsquo;t think you need any prior GIS knowledge to get going on this.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://leafletjs.com/index.html&#34;&gt;https://leafletjs.com/index.html&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>hardware</title>
-      <link>http://localhost:1313/wiki-pages/hardware/</link>
+      <link>https://www.johnwmathena.com/wiki-pages/hardware/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/wiki-pages/hardware/</guid>
-      <description>&lt;h3 id=&#34;home-garden-hahahugoshortcode25s0hbhb---hahahugoshortcode25s1hbhb&#34;&gt;&lt;a href=&#34;http://localhost:1313/wiki-pages/&#34;&gt;home garden&lt;/a&gt; / hardware&lt;/h3&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://recompilermag.com/issues/issue-5/hardware-for-art-hardware-for-all/&#34;&gt;https://recompilermag.com/issues/issue-5/hardware-for-art-hardware-for-all&lt;/a&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;recompilier is a super cool technology magazine published by &lt;a href=&#34;http://lifeofaudrey.com/&#34;&gt;Audrey Eschright&lt;/a&gt; whom I&#xA;believed I heard of from a podcast (Team Human maybe? don&amp;rsquo;t quote me on that). a self described feminist hacker&#xA;magazine, most of the authors are women and it&amp;rsquo;s some of the most passionate and accesible tech writing I&amp;rsquo;ve found&#xA;thus far. it features both commentary on the cultural and political aspects of the tech field and in depth tutorials&#xA;(sometimes in the same article!)&lt;/li&gt;&#xA;&lt;li&gt;the actual article I&amp;rsquo;ve linked makes a plea for using basic hardware for play, art, and exploration&#xA;rather than just mindless tracking and whatever work is handed down from above. several of the hardware art projects&#xA;detailed are linked as well as more reading on experimenting with hardware, libraries the author built, 60s&#xA;cyberculture, history of computing, and more! it&amp;rsquo;s a fun quick read&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+      <guid>https://www.johnwmathena.com/wiki-pages/hardware/</guid>
+      <description>&lt;h3 id=&#34;home-garden-hahahugoshortcode31s0hbhb---hahahugoshortcode31s1hbhb&#34;&gt;&lt;a href=&#34;https://www.johnwmathena.com/wiki-pages/&#34;&gt;home garden&lt;/a&gt; / hardware&lt;/h3&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://recompilermag.com/issues/issue-5/hardware-for-art-hardware-for-all/&#34;&gt;https://recompilermag.com/issues/issue-5/hardware-for-art-hardware-for-all&lt;/a&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;recompilier is a super cool technology magazine published by &lt;a href=&#34;http://lifeofaudrey.com/&#34;&gt;Audrey Eschright&lt;/a&gt; whom I&#xA;believed I heard of from a podcast (Team Human maybe? don&amp;rsquo;t quote me on that). a self described feminist hacker&#xA;magazine, most of the authors are women and it&amp;rsquo;s some of the most passionate and accesible tech writing I&amp;rsquo;ve found&#xA;thus far. it features both commentary on the cultural and political aspects of the tech field and in depth tutorials&#xA;(sometimes in the same article!)&lt;/li&gt;&#xA;&lt;li&gt;the actual article I&amp;rsquo;ve linked makes a plea for using basic hardware for play, art, and exploration&#xA;rather than just mindless tracking and whatever work is handed down from above. several of the hardware art projects&#xA;detailed are linked as well as more reading on experimenting with hardware, libraries the author built, 60s&#xA;cyberculture, history of computing, and more! it&amp;rsquo;s a fun quick read&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>infrastructure</title>
-      <link>http://localhost:1313/wiki-pages/infrastructure/</link>
+      <link>https://www.johnwmathena.com/wiki-pages/infrastructure/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/wiki-pages/infrastructure/</guid>
-      <description>&lt;h3 id=&#34;home-garden-hahahugoshortcode26s0hbhb---hahahugoshortcode26s1hbhb&#34;&gt;&lt;a href=&#34;http://localhost:1313/wiki-pages/&#34;&gt;home garden&lt;/a&gt; / infrastructure&lt;/h3&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.freecodecamp.org/news/a-practical-guide-to-containers-dfa66d37ac30/&#34;&gt;https://www.freecodecamp.org/news/a-practical-guide-to-containers-dfa66d37ac30&lt;/a&gt;&#xA;&lt;a href=&#34;https://www.freecodecamp.org/news/what-is-docker-used-for-a-docker-container-tutorial-for-beginners/&#34;&gt;https://www.freecodecamp.org/news/what-is-docker-used-for-a-docker-container-tutorial-for-beginners&lt;/a&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Docker and containers are another concept I&amp;rsquo;ve heard for years since getting into coding and never quite wrapped&#xA;my head around&amp;hellip;until I stopped being lazy and searched for articles on freeCodeCamp! If you&amp;rsquo;ve looked at all&#xA;the posts, I imagine this site just looks like free advertising for freeCodeCamp. And well if you feel some kinda&#xA;way about that, tell Quincy Larson and company to stop putting out such high quality content for free.99!&lt;/li&gt;&#xA;&lt;li&gt;back to the point. from reading the two container articles above, I&amp;rsquo;ve learned that containers allow a developer&#xA;to store everything needed to run their software in a neat, small little package. Docker calls them images I&#xA;believe, and an instance of an image is called something else but that&amp;rsquo;s in the article. With containers, you don&amp;rsquo;t&#xA;have to worry about running a million VMs on your hardware to handle all the software you wanna touch. VMs (virtual&#xA;machines) still have their use, though. TLDR: have no fear the container articles are here!&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+      <guid>https://www.johnwmathena.com/wiki-pages/infrastructure/</guid>
+      <description>&lt;h3 id=&#34;home-garden-hahahugoshortcode37s0hbhb---hahahugoshortcode37s1hbhb&#34;&gt;&lt;a href=&#34;https://www.johnwmathena.com/wiki-pages/&#34;&gt;home garden&lt;/a&gt; / infrastructure&lt;/h3&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.freecodecamp.org/news/a-practical-guide-to-containers-dfa66d37ac30/&#34;&gt;https://www.freecodecamp.org/news/a-practical-guide-to-containers-dfa66d37ac30&lt;/a&gt;&#xA;&lt;a href=&#34;https://www.freecodecamp.org/news/what-is-docker-used-for-a-docker-container-tutorial-for-beginners/&#34;&gt;https://www.freecodecamp.org/news/what-is-docker-used-for-a-docker-container-tutorial-for-beginners&lt;/a&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Docker and containers are another concept I&amp;rsquo;ve heard for years since getting into coding and never quite wrapped&#xA;my head around&amp;hellip;until I stopped being lazy and searched for articles on freeCodeCamp! If you&amp;rsquo;ve looked at all&#xA;the posts, I imagine this site just looks like free advertising for freeCodeCamp. And well if you feel some kinda&#xA;way about that, tell Quincy Larson and company to stop putting out such high quality content for free.99!&lt;/li&gt;&#xA;&lt;li&gt;back to the point. from reading the two container articles above, I&amp;rsquo;ve learned that containers allow a developer&#xA;to store everything needed to run their software in a neat, small little package. Docker calls them images I&#xA;believe, and an instance of an image is called something else but that&amp;rsquo;s in the article. With containers, you don&amp;rsquo;t&#xA;have to worry about running a million VMs on your hardware to handle all the software you wanna touch. VMs (virtual&#xA;machines) still have their use, though. TLDR: have no fear the container articles are here!&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>javascript</title>
-      <link>http://localhost:1313/wiki-pages/javascript/</link>
+      <link>https://www.johnwmathena.com/wiki-pages/javascript/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/wiki-pages/javascript/</guid>
-      <description>&lt;h3 id=&#34;home-garden-hahahugoshortcode21s0hbhb---webdev-hahahugoshortcode21s1hbhb----hahahugoshortcode21s2hbhb&#34;&gt;&lt;a href=&#34;http://localhost:1313/wiki-pages/&#34;&gt;home garden&lt;/a&gt; / &lt;a href=&#34;http://localhost:1313/wiki-pages/webdev/&#34;&gt;webdev&lt;/a&gt; /  javascript&lt;/h3&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.freecodecamp.org/news/javascript-asynchronous-operations-in-the-browser/&#34;&gt;https://www.freecodecamp.org/news/javascript-asynchronous-operations-in-the-browser&lt;/a&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;(2023-08-06) articles like these are invaluable for someone like me who&amp;rsquo;s coming to web development from&#xA;another subfield in tech. Understanding how JS handles async functions made me much more comfortable with it,&#xA;especially coming from Python, a multithreaded language. When you have Python functions that need to be executed&#xA;in a certain order, you can call them in the order you want. In JS, you gotta tell the JS engine to wait for&#xA;function x to finish if function y depends on it.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.freecodecamp.org/news/guide-to-javascript-promises/&#34;&gt;https://www.freecodecamp.org/news/guide-to-javascript-promises/&lt;/a&gt;&lt;/p&gt;</description>
+      <guid>https://www.johnwmathena.com/wiki-pages/javascript/</guid>
+      <description>&lt;h3 id=&#34;home-garden-hahahugoshortcode23s0hbhb---webdev-hahahugoshortcode23s1hbhb----hahahugoshortcode23s2hbhb&#34;&gt;&lt;a href=&#34;https://www.johnwmathena.com/wiki-pages/&#34;&gt;home garden&lt;/a&gt; / &lt;a href=&#34;https://www.johnwmathena.com/wiki-pages/webdev/&#34;&gt;webdev&lt;/a&gt; /  javascript&lt;/h3&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.freecodecamp.org/news/javascript-asynchronous-operations-in-the-browser/&#34;&gt;https://www.freecodecamp.org/news/javascript-asynchronous-operations-in-the-browser&lt;/a&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;(2023-08-06) articles like these are invaluable for someone like me who&amp;rsquo;s coming to web development from&#xA;another subfield in tech. Understanding how JS handles async functions made me much more comfortable with it,&#xA;especially coming from Python, a multithreaded language. When you have Python functions that need to be executed&#xA;in a certain order, you can call them in the order you want. In JS, you gotta tell the JS engine to wait for&#xA;function x to finish if function y depends on it.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.freecodecamp.org/news/guide-to-javascript-promises/&#34;&gt;https://www.freecodecamp.org/news/guide-to-javascript-promises/&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>labor and careers in tech</title>
-      <link>http://localhost:1313/wiki-pages/labor-and-careers-in-tech/</link>
+      <link>https://www.johnwmathena.com/wiki-pages/labor-and-careers-in-tech/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/wiki-pages/labor-and-careers-in-tech/</guid>
-      <description>&lt;h3 id=&#34;home-garden-hahahugoshortcode22s0hbhb---hahahugoshortcode22s1hbhb&#34;&gt;&lt;a href=&#34;http://localhost:1313/wiki-pages/&#34;&gt;home garden&lt;/a&gt; / labor and careers in tech&lt;/h3&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://logicmag.io/intelligence/javascript-is-for-girls/&#34;&gt;https://logicmag.io/intelligence/javascript-is-for-girls/&lt;/a&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;there&amp;rsquo;s lots of gatekeeping in software. hierarchies of tech roles within an organization or field. in a male&#xA;dominated field, there&amp;rsquo;s unfortunately a lot of jockeying for status. and that of course takes its toll on the&#xA;women who are entering or currently working in tech&lt;/li&gt;&#xA;&lt;li&gt;as they point out in the article, the early days of computing were dominated by women. the field itself was&#xA;founded and then tremendously advanced by women as well - Ada Lovelace and Grace Hopper - though that didn&amp;rsquo;t&#xA;stop the men from taking over once industry thought they could make money with these machines.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://logicmag.io/justice/tressie-mcmillan-cottom-on-teaching-technology/&#34;&gt;https://logicmag.io/justice/tressie-mcmillan-cottom-on-teaching-technology/&lt;/a&gt;&lt;/p&gt;</description>
+      <guid>https://www.johnwmathena.com/wiki-pages/labor-and-careers-in-tech/</guid>
+      <description>&lt;h3 id=&#34;home-garden-hahahugoshortcode38s0hbhb---hahahugoshortcode38s1hbhb&#34;&gt;&lt;a href=&#34;https://www.johnwmathena.com/wiki-pages/&#34;&gt;home garden&lt;/a&gt; / labor and careers in tech&lt;/h3&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://logicmag.io/intelligence/javascript-is-for-girls/&#34;&gt;https://logicmag.io/intelligence/javascript-is-for-girls/&lt;/a&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;there&amp;rsquo;s lots of gatekeeping in software. hierarchies of tech roles within an organization or field. in a male&#xA;dominated field, there&amp;rsquo;s unfortunately a lot of jockeying for status. and that of course takes its toll on the&#xA;women who are entering or currently working in tech&lt;/li&gt;&#xA;&lt;li&gt;as they point out in the article, the early days of computing were dominated by women. the field itself was&#xA;founded and then tremendously advanced by women as well - Ada Lovelace and Grace Hopper - though that didn&amp;rsquo;t&#xA;stop the men from taking over once industry thought they could make money with these machines.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://logicmag.io/justice/tressie-mcmillan-cottom-on-teaching-technology/&#34;&gt;https://logicmag.io/justice/tressie-mcmillan-cottom-on-teaching-technology/&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>language</title>
-      <link>http://localhost:1313/wiki-pages/language/</link>
+      <link>https://www.johnwmathena.com/wiki-pages/language/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/wiki-pages/language/</guid>
-      <description>&lt;h3 id=&#34;home-garden-hahahugoshortcode29s0hbhb---hahahugoshortcode29s1hbhb&#34;&gt;&lt;a href=&#34;http://localhost:1313/wiki-pages/&#34;&gt;home garden&lt;/a&gt; / language&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;I majored in Linguistics in college, so I gotta keep a special place here on my site for cool language nerd stuff.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://medium.com/@emilym%3Cbr%3Eenonbender/thought-experiment-in-the-national-library-of-thailand-f2bf761a8a83&#34;&gt;https://medium.com/@emilymenonbender/thought-experiment-in-the-national-library-of-thailand-f2bf761a8a83&lt;/a&gt;&lt;/p&gt;</description>
+      <guid>https://www.johnwmathena.com/wiki-pages/language/</guid>
+      <description>&lt;h3 id=&#34;home-garden-hahahugoshortcode36s0hbhb---hahahugoshortcode36s1hbhb&#34;&gt;&lt;a href=&#34;https://www.johnwmathena.com/wiki-pages/&#34;&gt;home garden&lt;/a&gt; / language&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;I majored in Linguistics in college, so I gotta keep a special place here on my site for cool language nerd stuff.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://medium.com/@emilym%3Cbr%3Eenonbender/thought-experiment-in-the-national-library-of-thailand-f2bf761a8a83&#34;&gt;https://medium.com/@emilymenonbender/thought-experiment-in-the-national-library-of-thailand-f2bf761a8a83&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>learn to code</title>
-      <link>http://localhost:1313/wiki-pages/learn-to-code/</link>
+      <link>https://www.johnwmathena.com/wiki-pages/learn-to-code/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/wiki-pages/learn-to-code/</guid>
-      <description>&lt;h3 id=&#34;home-garden-hahahugoshortcode19s0hbhb---hahahugoshortcode19s1hbhb&#34;&gt;&lt;a href=&#34;http://localhost:1313/wiki-pages/&#34;&gt;home garden&lt;/a&gt; / learn to code&lt;/h3&gt;&#xA;&lt;h4 id=&#34;perlwiki-pagesperl&#34;&gt;&lt;a href=&#34;http://localhost:1313/wiki-pages/perl&#34;&gt;perl&lt;/a&gt;&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;lots of links in this wiki could honestly go here but I want to try and limit this to resources aimed at&#xA;people with little to no coding experience in general or in a specific area and looking to break into this&#xA;crazy world&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://build-your-own.org/&#34;&gt;https://build-your-own.org/&lt;/a&gt;&lt;/p&gt;</description>
+      <guid>https://www.johnwmathena.com/wiki-pages/learn-to-code/</guid>
+      <description>&lt;h3 id=&#34;home-garden-hahahugoshortcode19s0hbhb---hahahugoshortcode19s1hbhb&#34;&gt;&lt;a href=&#34;https://www.johnwmathena.com/wiki-pages/&#34;&gt;home garden&lt;/a&gt; / learn to code&lt;/h3&gt;&#xA;&lt;h4 id=&#34;perlwiki-pagesperl&#34;&gt;&lt;a href=&#34;https://www.johnwmathena.com/wiki-pages/perl&#34;&gt;perl&lt;/a&gt;&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;lots of links in this wiki could honestly go here but I want to try and limit this to resources aimed at&#xA;people with little to no coding experience in general or in a specific area and looking to break into this&#xA;crazy world&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://build-your-own.org/&#34;&gt;https://build-your-own.org/&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>legacy tech and maintenance</title>
-      <link>http://localhost:1313/wiki-pages/legacy-maintenance/</link>
+      <link>https://www.johnwmathena.com/wiki-pages/legacy-maintenance/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/wiki-pages/legacy-maintenance/</guid>
-      <description>&lt;h3 id=&#34;home-garden-hahahugoshortcode20s0hbhb---hahahugoshortcode20s1hbhb&#34;&gt;&lt;a href=&#34;http://localhost:1313/wiki-pages/&#34;&gt;home garden&lt;/a&gt; / legacy tech and maintenance&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;maintenance often seems to be an afterthought but the majority of a software&amp;rsquo;s lifecycle it will need to be&#xA;maintained. give maintenance the respect it deserves!&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://logicmag.io/care/built-to-last/&#34;&gt;https://logicmag.io/care/built-to-last&lt;/a&gt;&lt;/p&gt;</description>
+      <guid>https://www.johnwmathena.com/wiki-pages/legacy-maintenance/</guid>
+      <description>&lt;h3 id=&#34;home-garden-hahahugoshortcode22s0hbhb---hahahugoshortcode22s1hbhb&#34;&gt;&lt;a href=&#34;https://www.johnwmathena.com/wiki-pages/&#34;&gt;home garden&lt;/a&gt; / legacy tech and maintenance&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;maintenance often seems to be an afterthought but the majority of a software&amp;rsquo;s lifecycle it will need to be&#xA;maintained. give maintenance the respect it deserves!&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://logicmag.io/care/built-to-last/&#34;&gt;https://logicmag.io/care/built-to-last&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>open source</title>
-      <link>http://localhost:1313/wiki-pages/open-source/</link>
+      <link>https://www.johnwmathena.com/wiki-pages/open-source/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/wiki-pages/open-source/</guid>
-      <description>&lt;h3 id=&#34;home-garden-hahahugoshortcode28s0hbhb---hahahugoshortcode28s1hbhb&#34;&gt;&lt;a href=&#34;http://localhost:1313/wiki-pages/&#34;&gt;home garden&lt;/a&gt; / open source&lt;/h3&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://blackgirlbytes.dev/conquering-the-fear-of-contributing-to-open-source&#34;&gt;https://blackgirlbytes.dev/conquering-the-fear-of-contributing-to-open-source&lt;/a&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;very encouraging post about how to contribute to open source for the first time!&lt;/li&gt;&#xA;&lt;li&gt;(2023-05-28) I&amp;rsquo;m still looking to make my first contribution but this post made me feel like I&amp;rsquo;m not the only&#xA;one who&amp;rsquo;s nervous about it.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.firsttimersonly.com/&#34;&gt;https://www.firsttimersonly.com/&lt;/a&gt;&lt;/p&gt;</description>
+      <guid>https://www.johnwmathena.com/wiki-pages/open-source/</guid>
+      <description>&lt;h3 id=&#34;home-garden-hahahugoshortcode24s0hbhb---hahahugoshortcode24s1hbhb&#34;&gt;&lt;a href=&#34;https://www.johnwmathena.com/wiki-pages/&#34;&gt;home garden&lt;/a&gt; / open source&lt;/h3&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://blackgirlbytes.dev/conquering-the-fear-of-contributing-to-open-source&#34;&gt;https://blackgirlbytes.dev/conquering-the-fear-of-contributing-to-open-source&lt;/a&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;very encouraging post about how to contribute to open source for the first time!&lt;/li&gt;&#xA;&lt;li&gt;(2023-05-28) I&amp;rsquo;m still looking to make my first contribution but this post made me feel like I&amp;rsquo;m not the only&#xA;one who&amp;rsquo;s nervous about it.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.firsttimersonly.com/&#34;&gt;https://www.firsttimersonly.com/&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>perl</title>
-      <link>http://localhost:1313/wiki-pages/perl/</link>
+      <link>https://www.johnwmathena.com/wiki-pages/perl/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/wiki-pages/perl/</guid>
-      <description>&lt;h3 id=&#34;home-garden-hahahugoshortcode30s0hbhb---learn-to-codehahahugoshortcode30s1hbhb--hahahugoshortcode30s2hbhb&#34;&gt;&lt;a href=&#34;http://localhost:1313/wiki-pages/&#34;&gt;home garden&lt;/a&gt; / &lt;a href=&#34;http://localhost:1313/wiki-pages/learn-to-code/&#34;&gt;learn-to-code&lt;/a&gt; / perl&lt;/h3&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://learn.perl.org/&#34;&gt;https://learn.perl.org/&lt;/a&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;i read once that perl was great for text processing and so i saved some Perl resources. I have yet to learn a&#xA;single line of Perl. maybe one day!&lt;/li&gt;&#xA;&lt;li&gt;if anyone comes across this and has a dope Perl project they wanna share, hmu&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+      <guid>https://www.johnwmathena.com/wiki-pages/perl/</guid>
+      <description>&lt;h3 id=&#34;home-garden-hahahugoshortcode26s0hbhb---learn-to-codehahahugoshortcode26s1hbhb--hahahugoshortcode26s2hbhb&#34;&gt;&lt;a href=&#34;https://www.johnwmathena.com/wiki-pages/&#34;&gt;home garden&lt;/a&gt; / &lt;a href=&#34;https://www.johnwmathena.com/wiki-pages/learn-to-code/&#34;&gt;learn-to-code&lt;/a&gt; / perl&lt;/h3&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://learn.perl.org/&#34;&gt;https://learn.perl.org/&lt;/a&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;i read once that perl was great for text processing and so i saved some Perl resources. I have yet to learn a&#xA;single line of Perl. maybe one day!&lt;/li&gt;&#xA;&lt;li&gt;if anyone comes across this and has a dope Perl project they wanna share, hmu&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>python</title>
-      <link>http://localhost:1313/wiki-pages/python/</link>
+      <link>https://www.johnwmathena.com/wiki-pages/python/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/wiki-pages/python/</guid>
-      <description>&lt;h3 id=&#34;home-garden-hahahugoshortcode31s0hbhb---hahahugoshortcode31s1hbhb&#34;&gt;&lt;a href=&#34;http://localhost:1313/wiki-pages/&#34;&gt;home garden&lt;/a&gt; / python&lt;/h3&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://pandastutor.com/&#34;&gt;https://pandastutor.com/&lt;/a&gt;&#xA;&lt;a href=&#34;https://pythontutor.com/&#34;&gt;https://pythontutor.com/&lt;/a&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;the &amp;ldquo;tutor&amp;rdquo; websites let you type code for python and pandas (a python library for data analysis) directly into&#xA;your browser. the site will then show you how the code executes your code and transforms your data. great tool if&#xA;you are new to pandas/python and/or prefer visual examples when learning.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://realpython.com/beautiful-soup-web-scraper-python/&#34;&gt;https://realpython.com/beautiful-soup-web-scraper-python/&lt;/a&gt;&#xA;&lt;a href=&#34;https://realpython.com/python-web-scraping-practical-introduction/&#34;&gt;https://realpython.com/python-web-scraping-practical-introduction/&lt;/a&gt;&lt;/p&gt;</description>
+      <guid>https://www.johnwmathena.com/wiki-pages/python/</guid>
+      <description>&lt;h3 id=&#34;home-garden-hahahugoshortcode27s0hbhb---hahahugoshortcode27s1hbhb&#34;&gt;&lt;a href=&#34;https://www.johnwmathena.com/wiki-pages/&#34;&gt;home garden&lt;/a&gt; / python&lt;/h3&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://pandastutor.com/&#34;&gt;https://pandastutor.com/&lt;/a&gt;&#xA;&lt;a href=&#34;https://pythontutor.com/&#34;&gt;https://pythontutor.com/&lt;/a&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;the &amp;ldquo;tutor&amp;rdquo; websites let you type code for python and pandas (a python library for data analysis) directly into&#xA;your browser. the site will then show you how the code executes your code and transforms your data. great tool if&#xA;you are new to pandas/python and/or prefer visual examples when learning.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://realpython.com/beautiful-soup-web-scraper-python/&#34;&gt;https://realpython.com/beautiful-soup-web-scraper-python/&lt;/a&gt;&#xA;&lt;a href=&#34;https://realpython.com/python-web-scraping-practical-introduction/&#34;&gt;https://realpython.com/python-web-scraping-practical-introduction/&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>references</title>
-      <link>http://localhost:1313/wiki-pages/references/</link>
+      <link>https://www.johnwmathena.com/wiki-pages/references/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/wiki-pages/references/</guid>
-      <description>&lt;h3 id=&#34;home-garden-hahahugoshortcode32s0hbhb---hahahugoshortcode32s1hbhb&#34;&gt;&lt;a href=&#34;http://localhost:1313/wiki-pages/&#34;&gt;home garden&lt;/a&gt; / references&lt;/h3&gt;&#xA;&lt;h4 id=&#34;cs-fundamentalswiki-pagescs-fundamentals&#34;&gt;&lt;a href=&#34;http://localhost:1313/wiki-pages/cs-fundamentals&#34;&gt;cs fundamentals&lt;/a&gt;&lt;/h4&gt;&#xA;&lt;h4 id=&#34;infrastructurewiki-pagesinfrastructure&#34;&gt;&lt;a href=&#34;http://localhost:1313/wiki-pages/infrastructure&#34;&gt;infrastructure&lt;/a&gt;&lt;/h4&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://ohshitgit.com/&#34;&gt;https://ohshitgit.com/&lt;/a&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;i screw stuff up in git all the time (not ALL the time. just a figure of speech, potential employers). this site&#xA;keeps me from making irreversible mistakes.&#x9;i also just ask my wife.&lt;/li&gt;&#xA;&lt;li&gt;if you follow this link, there&amp;rsquo;s also a link to the same site but PG for the kids&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.markdownguide.org/cheat-sheet/&#34;&gt;https://www.markdownguide.org/cheat-sheet/&lt;/a&gt;&lt;/p&gt;</description>
+      <guid>https://www.johnwmathena.com/wiki-pages/references/</guid>
+      <description>&lt;h3 id=&#34;home-garden-hahahugoshortcode28s0hbhb---hahahugoshortcode28s1hbhb&#34;&gt;&lt;a href=&#34;https://www.johnwmathena.com/wiki-pages/&#34;&gt;home garden&lt;/a&gt; / references&lt;/h3&gt;&#xA;&lt;h4 id=&#34;cs-fundamentalswiki-pagescs-fundamentals&#34;&gt;&lt;a href=&#34;https://www.johnwmathena.com/wiki-pages/cs-fundamentals&#34;&gt;cs fundamentals&lt;/a&gt;&lt;/h4&gt;&#xA;&lt;h4 id=&#34;infrastructurewiki-pagesinfrastructure&#34;&gt;&lt;a href=&#34;https://www.johnwmathena.com/wiki-pages/infrastructure&#34;&gt;infrastructure&lt;/a&gt;&lt;/h4&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://ohshitgit.com/&#34;&gt;https://ohshitgit.com/&lt;/a&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;i screw stuff up in git all the time (not ALL the time. just a figure of speech, potential employers). this site&#xA;keeps me from making irreversible mistakes.&#x9;i also just ask my wife.&lt;/li&gt;&#xA;&lt;li&gt;if you follow this link, there&amp;rsquo;s also a link to the same site but PG for the kids&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.markdownguide.org/cheat-sheet/&#34;&gt;https://www.markdownguide.org/cheat-sheet/&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>resume</title>
-      <link>http://localhost:1313/resume/</link>
+      <link>https://www.johnwmathena.com/resume/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/resume/</guid>
+      <guid>https://www.johnwmathena.com/resume/</guid>
       <description>&lt;h3 id=&#34;software-engineer-ii-manual-bulk-processing-track-lead&#34;&gt;SOFTWARE ENGINEER II, MANUAL BULK PROCESSING TRACK LEAD&lt;/h3&gt;&#xA;&lt;h4 id=&#34;2u-inchttps2ucom--lanham-md-remote&#34;&gt;&lt;a href=&#34;https://2u.com&#34;&gt;2U, Inc.&lt;/a&gt; | Lanham, MD (remote)&lt;/h4&gt;&#xA;&lt;p&gt;&lt;em&gt;03 / 2023 to present&lt;/em&gt;&lt;br&gt;&#xA;&lt;em&gt;10 / 2022 to 02 / 2023 as SOFTWARE ENGINEER II&lt;/em&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>security</title>
-      <link>http://localhost:1313/wiki-pages/security/</link>
+      <link>https://www.johnwmathena.com/wiki-pages/security/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/wiki-pages/security/</guid>
-      <description>&lt;h3 id=&#34;home-garden-hahahugoshortcode33s0hbhb---hahahugoshortcode33s1hbhb&#34;&gt;&lt;a href=&#34;http://localhost:1313/wiki-pages/&#34;&gt;home garden&lt;/a&gt; / security&lt;/h3&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.manning.com/books/real-world-cryptography&#34;&gt;https://www.manning.com/books/real-world-cryptography&lt;/a&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Saw this posted on HN awhile back. I&amp;rsquo;m trying to beef up my crypto and cybersecurity knowledge (eventually).&#xA;soooo im storing it here&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+      <guid>https://www.johnwmathena.com/wiki-pages/security/</guid>
+      <description>&lt;h3 id=&#34;home-garden-hahahugoshortcode29s0hbhb---hahahugoshortcode29s1hbhb&#34;&gt;&lt;a href=&#34;https://www.johnwmathena.com/wiki-pages/&#34;&gt;home garden&lt;/a&gt; / security&lt;/h3&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.manning.com/books/real-world-cryptography&#34;&gt;https://www.manning.com/books/real-world-cryptography&lt;/a&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Saw this posted on HN awhile back. I&amp;rsquo;m trying to beef up my crypto and cybersecurity knowledge (eventually).&#xA;soooo im storing it here&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>stats! math!</title>
-      <link>http://localhost:1313/wiki-pages/stats-math/</link>
+      <link>https://www.johnwmathena.com/wiki-pages/stats-math/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/wiki-pages/stats-math/</guid>
-      <description>&lt;h3 id=&#34;home-garden-hahahugoshortcode34s0hbhb---hahahugoshortcode34s1hbhb&#34;&gt;&lt;a href=&#34;http://localhost:1313/wiki-pages/&#34;&gt;home garden&lt;/a&gt; / stats! math!&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;you can never go wrong with accesible math resources! everybody loves being reminded of their favorite subject in&#xA;school. apologies for the sarcasm to those of you who did always love math. I&amp;rsquo;ll say that I&amp;rsquo;m one of those people&#xA;now. I grew into it!&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.statlect.com/fundamentals-of-probability/&#34;&gt;https://www.statlect.com/fundamentals-of-probability/&lt;/a&gt;&lt;/p&gt;</description>
+      <guid>https://www.johnwmathena.com/wiki-pages/stats-math/</guid>
+      <description>&lt;h3 id=&#34;home-garden-hahahugoshortcode30s0hbhb---hahahugoshortcode30s1hbhb&#34;&gt;&lt;a href=&#34;https://www.johnwmathena.com/wiki-pages/&#34;&gt;home garden&lt;/a&gt; / stats! math!&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;you can never go wrong with accesible math resources! everybody loves being reminded of their favorite subject in&#xA;school. apologies for the sarcasm to those of you who did always love math. I&amp;rsquo;ll say that I&amp;rsquo;m one of those people&#xA;now. I grew into it!&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.statlect.com/fundamentals-of-probability/&#34;&gt;https://www.statlect.com/fundamentals-of-probability/&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>systems</title>
-      <link>http://localhost:1313/wiki-pages/systems/</link>
+      <link>https://www.johnwmathena.com/wiki-pages/systems/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/wiki-pages/systems/</guid>
-      <description>&lt;h3 id=&#34;home-garden-hahahugoshortcode35s0hbhb---hahahugoshortcode35s1hbhb&#34;&gt;&lt;a href=&#34;http://localhost:1313/wiki-pages/&#34;&gt;home garden&lt;/a&gt; / systems&lt;/h3&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.phenomenalworld.org/%3Cbr%3Eanalysis/decentralize-what/&#34;&gt;https://www.phenomenalworld.org/analysis/decentralize-what/&lt;/a&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;decentralization is definitely a term people throw around a lot because it makes them sound smart and&#xA;progressive. i don&amp;rsquo;t think decentralization is itself a bad thing but it&amp;rsquo;s also good to be precise about what we&#xA;want and how we want to do it. this article breaks down different decentralization frameworks in networking&#xA;including mesh networks, blockchains, and more.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.brendangregg.com/blog/2020-07-15/systems-performance-2nd-edition.html&#34;&gt;https://www.brendangregg.com/blog/2020-07-15/systems-performance-2nd-edition.html&lt;/a&gt;&lt;/p&gt;</description>
+      <guid>https://www.johnwmathena.com/wiki-pages/systems/</guid>
+      <description>&lt;h3 id=&#34;home-garden-hahahugoshortcode33s0hbhb---hahahugoshortcode33s1hbhb&#34;&gt;&lt;a href=&#34;https://www.johnwmathena.com/wiki-pages/&#34;&gt;home garden&lt;/a&gt; / systems&lt;/h3&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.phenomenalworld.org/%3Cbr%3Eanalysis/decentralize-what/&#34;&gt;https://www.phenomenalworld.org/analysis/decentralize-what/&lt;/a&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;decentralization is definitely a term people throw around a lot because it makes them sound smart and&#xA;progressive. i don&amp;rsquo;t think decentralization is itself a bad thing but it&amp;rsquo;s also good to be precise about what we&#xA;want and how we want to do it. this article breaks down different decentralization frameworks in networking&#xA;including mesh networks, blockchains, and more.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.brendangregg.com/blog/2020-07-15/systems-performance-2nd-edition.html&#34;&gt;https://www.brendangregg.com/blog/2020-07-15/systems-performance-2nd-edition.html&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>tech around the world</title>
-      <link>http://localhost:1313/wiki-pages/tech-world/</link>
+      <link>https://www.johnwmathena.com/wiki-pages/tech-world/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/wiki-pages/tech-world/</guid>
-      <description>&lt;h3 id=&#34;home-garden-hahahugoshortcode36s0hbhb---hahahugoshortcode36s1hbhb&#34;&gt;&lt;a href=&#34;http://localhost:1313/wiki-pages/&#34;&gt;home garden&lt;/a&gt; / tech around the world&lt;/h3&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://logicmag.io/care/inside-the-paradise-bubble/&#34;&gt;https://logicmag.io/care/inside-the-paradise-bubble/&lt;/a&gt;&#xA;&lt;a href=&#34;https://logicmag.io/scale/letter-from-shenzhen/&#34;&gt;https://logicmag.io/scale/letter-from-shenzhen/&lt;/a&gt;&lt;br&gt;&#xA;&lt;a href=&#34;https://logicmag.io/bodies/tarek-loubani-on-3d-printing-in-gaza/&#34;&gt;https://logicmag.io/bodies/tarek-loubani-on-3d-printing-in-gaza/&lt;/a&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;(2023-05-24) outlets like logic magazine do such a good job of showcasing technology development and use beyond&#xA;just silicon valley. &lt;a href=&#34;https://restofworld.org/&#34;&gt;rest of world&lt;/a&gt; also does great writing and reporting in this area&#xA;so this page will probably showcase some of their stuff eventually. all these articles also put the person at the&#xA;center. the tech is cool, yes. the tech can help us, yes. but the people make it happen. and the people make it&#xA;better!&lt;/li&gt;&#xA;&lt;li&gt;dr. loubani had a great quote in the last article about how the tourniquets his group manufactured in Canada&#xA;were breaking in the field in Gaza. the palestinian medics were like &amp;ldquo;these things are snapping&amp;rdquo; and he didn&amp;rsquo;t&#xA;get why until he was in the field trying to use one while getting shot at and dodging shrapnel. an extreme example&#xA;but ultimately people make the tech work, not the other way around!&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+      <guid>https://www.johnwmathena.com/wiki-pages/tech-world/</guid>
+      <description>&lt;h3 id=&#34;home-garden-hahahugoshortcode39s0hbhb---hahahugoshortcode39s1hbhb&#34;&gt;&lt;a href=&#34;https://www.johnwmathena.com/wiki-pages/&#34;&gt;home garden&lt;/a&gt; / tech around the world&lt;/h3&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://logicmag.io/care/inside-the-paradise-bubble/&#34;&gt;https://logicmag.io/care/inside-the-paradise-bubble/&lt;/a&gt;&#xA;&lt;a href=&#34;https://logicmag.io/scale/letter-from-shenzhen/&#34;&gt;https://logicmag.io/scale/letter-from-shenzhen/&lt;/a&gt;&lt;br&gt;&#xA;&lt;a href=&#34;https://logicmag.io/bodies/tarek-loubani-on-3d-printing-in-gaza/&#34;&gt;https://logicmag.io/bodies/tarek-loubani-on-3d-printing-in-gaza/&lt;/a&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;(2023-05-24) outlets like logic magazine do such a good job of showcasing technology development and use beyond&#xA;just silicon valley. &lt;a href=&#34;https://restofworld.org/&#34;&gt;rest of world&lt;/a&gt; also does great writing and reporting in this area&#xA;so this page will probably showcase some of their stuff eventually. all these articles also put the person at the&#xA;center. the tech is cool, yes. the tech can help us, yes. but the people make it happen. and the people make it&#xA;better!&lt;/li&gt;&#xA;&lt;li&gt;dr. loubani had a great quote in the last article about how the tourniquets his group manufactured in Canada&#xA;were breaking in the field in Gaza. the palestinian medics were like &amp;ldquo;these things are snapping&amp;rdquo; and he didn&amp;rsquo;t&#xA;get why until he was in the field trying to use one while getting shot at and dodging shrapnel. an extreme example&#xA;but ultimately people make the tech work, not the other way around!&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>technical writing and translations</title>
-      <link>http://localhost:1313/wiki-pages/tech-writing-translations/</link>
+      <link>https://www.johnwmathena.com/wiki-pages/tech-writing-translations/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/wiki-pages/tech-writing-translations/</guid>
-      <description>&lt;h3 id=&#34;home-garden-hahahugoshortcode37s0hbhb---hahahugoshortcode37s1hbhb&#34;&gt;&lt;a href=&#34;http://localhost:1313/wiki-pages/&#34;&gt;home garden&lt;/a&gt; / technical writing and translations&lt;/h3&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://explore.transifex.com/&#34;&gt;https://explore.transifex.com/&lt;/a&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;(2023-05-31) i started a mentoring program at work got paired with an engineering manager. i asked them if they&#xA;knew how developers could utilize any foreign language skills they had. he pointed me to this site. it&amp;rsquo;s basically&#xA;a repository for every large open source project there is and it indexes what parts of the project need to be&#xA;translated and into what languages.&lt;/li&gt;&#xA;&lt;li&gt;(2023-05-31) i saw that &lt;a href=&#34;https://explore.transifex.com/qgis/qgis-documentation/&#34;&gt;QGIS Documentation&lt;/a&gt; is only&#xA;like 20 percent done with Arabic so that&amp;rsquo;s definitely something i could help with.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.writethedocs.org/&#34;&gt;https://www.writethedocs.org/&lt;/a&gt;&lt;/p&gt;</description>
+      <guid>https://www.johnwmathena.com/wiki-pages/tech-writing-translations/</guid>
+      <description>&lt;h3 id=&#34;home-garden-hahahugoshortcode40s0hbhb---hahahugoshortcode40s1hbhb&#34;&gt;&lt;a href=&#34;https://www.johnwmathena.com/wiki-pages/&#34;&gt;home garden&lt;/a&gt; / technical writing and translations&lt;/h3&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://explore.transifex.com/&#34;&gt;https://explore.transifex.com/&lt;/a&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;(2023-05-31) i started a mentoring program at work got paired with an engineering manager. i asked them if they&#xA;knew how developers could utilize any foreign language skills they had. he pointed me to this site. it&amp;rsquo;s basically&#xA;a repository for every large open source project there is and it indexes what parts of the project need to be&#xA;translated and into what languages.&lt;/li&gt;&#xA;&lt;li&gt;(2023-05-31) i saw that &lt;a href=&#34;https://explore.transifex.com/qgis/qgis-documentation/&#34;&gt;QGIS Documentation&lt;/a&gt; is only&#xA;like 20 percent done with Arabic so that&amp;rsquo;s definitely something i could help with.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.writethedocs.org/&#34;&gt;https://www.writethedocs.org/&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>the people&#39;s tech</title>
-      <link>http://localhost:1313/wiki-pages/the-peoples-tech/</link>
+      <link>https://www.johnwmathena.com/wiki-pages/the-peoples-tech/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/wiki-pages/the-peoples-tech/</guid>
-      <description>&lt;h3 id=&#34;home-garden-hahahugoshortcode38s0hbhb---hahahugoshortcode38s1hbhb&#34;&gt;&lt;a href=&#34;http://localhost:1313/wiki-pages/&#34;&gt;home garden&lt;/a&gt; / the people&amp;#39;s tech&lt;/h3&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.publicbooks.org/letting-go-of-technochauvinism/&#34;&gt;https://www.publicbooks.org/letting-go-of-technochauvinism&lt;/a&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;very succinct breakdown of the limits of computers. goes into human-in-the-loop systems and how to know when something just&#xA;needs to be done by a person. hint: it&amp;rsquo;s a lot more often than many want to admit.&lt;/li&gt;&#xA;&lt;li&gt;The author, Dr. Meredith Broussard, wrote a deeper dive into dumb computers in &lt;a href=&#34;https://mitpress.mit.edu/9780262537018/artificial-unintelligence/&#34;&gt;Artificial Unintelligence&lt;/a&gt;. That book&amp;rsquo;s been on my list for a hot minute, so if you check&#xA;it out and like it let me know.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://logicmag.io/play/raul-espejo-on-cybernetic-socialism-in-allendes-chile/&#34;&gt;https://logicmag.io/play/raul-espejo-on-cybernetic-socialism-in-allendes-chile&lt;/a&gt;&lt;/p&gt;</description>
+      <guid>https://www.johnwmathena.com/wiki-pages/the-peoples-tech/</guid>
+      <description>&lt;h3 id=&#34;home-garden-hahahugoshortcode41s0hbhb---hahahugoshortcode41s1hbhb&#34;&gt;&lt;a href=&#34;https://www.johnwmathena.com/wiki-pages/&#34;&gt;home garden&lt;/a&gt; / the people&amp;#39;s tech&lt;/h3&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.publicbooks.org/letting-go-of-technochauvinism/&#34;&gt;https://www.publicbooks.org/letting-go-of-technochauvinism&lt;/a&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;very succinct breakdown of the limits of computers. goes into human-in-the-loop systems and how to know when something just&#xA;needs to be done by a person. hint: it&amp;rsquo;s a lot more often than many want to admit.&lt;/li&gt;&#xA;&lt;li&gt;The author, Dr. Meredith Broussard, wrote a deeper dive into dumb computers in &lt;a href=&#34;https://mitpress.mit.edu/9780262537018/artificial-unintelligence/&#34;&gt;Artificial Unintelligence&lt;/a&gt;. That book&amp;rsquo;s been on my list for a hot minute, so if you check&#xA;it out and like it let me know.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://logicmag.io/play/raul-espejo-on-cybernetic-socialism-in-allendes-chile/&#34;&gt;https://logicmag.io/play/raul-espejo-on-cybernetic-socialism-in-allendes-chile&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>utils</title>
-      <link>http://localhost:1313/wiki-pages/utils/</link>
+      <link>https://www.johnwmathena.com/wiki-pages/utils/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/wiki-pages/utils/</guid>
-      <description>&lt;h3 id=&#34;home-garden-hahahugoshortcode39s0hbhb---hahahugoshortcode39s1hbhb&#34;&gt;&lt;a href=&#34;http://localhost:1313/wiki-pages/&#34;&gt;home garden&lt;/a&gt; / utils&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;utils is short for utilities and i believe programmers create utils files to store code that they will use&#xA;throughout a piece of software. helps us stay DRY (don&amp;rsquo;t repeat yourself)&lt;/li&gt;&#xA;&lt;li&gt;but i&amp;rsquo;m also using it here to just mean things i find useful. might fit the definition above too. and it might&#xA;not&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://regex101.com/&#34;&gt;https://regex101.com/&lt;/a&gt;&lt;/p&gt;</description>
+      <guid>https://www.johnwmathena.com/wiki-pages/utils/</guid>
+      <description>&lt;h3 id=&#34;home-garden-hahahugoshortcode42s0hbhb---hahahugoshortcode42s1hbhb&#34;&gt;&lt;a href=&#34;https://www.johnwmathena.com/wiki-pages/&#34;&gt;home garden&lt;/a&gt; / utils&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;utils is short for utilities and i believe programmers create utils files to store code that they will use&#xA;throughout a piece of software. helps us stay DRY (don&amp;rsquo;t repeat yourself)&lt;/li&gt;&#xA;&lt;li&gt;but i&amp;rsquo;m also using it here to just mean things i find useful. might fit the definition above too. and it might&#xA;not&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://regex101.com/&#34;&gt;https://regex101.com/&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>webdev</title>
-      <link>http://localhost:1313/wiki-pages/webdev/</link>
+      <link>https://www.johnwmathena.com/wiki-pages/webdev/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/wiki-pages/webdev/</guid>
-      <description>&lt;h3 id=&#34;home-garden-hahahugoshortcode40s0hbhb---hahahugoshortcode40s1hbhb&#34;&gt;&lt;a href=&#34;http://localhost:1313/wiki-pages/&#34;&gt;home garden&lt;/a&gt; / webdev&lt;/h3&gt;&#xA;&lt;h4 id=&#34;javascript-hahahugoshortcode40s2hbhb-&#34;&gt;&lt;a href=&#34;http://localhost:1313/wiki-pages/javascript/&#34;&gt;javascript&lt;/a&gt;&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;web development is what i believe most people imagine when they think of coding. building websites and web apps.&#xA;i mean it&amp;rsquo;s how a lot of programmers get into the field. when so many people use websites to do so much, if your&#xA;web presence is trash, your business will feel it.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://education.launchcode.org/intro-to-professional-web-dev/index-full.html&#34;&gt;https://education.launchcode.org/intro-to-professional-web-dev/index-full.html&lt;/a&gt;&lt;/p&gt;</description>
+      <guid>https://www.johnwmathena.com/wiki-pages/webdev/</guid>
+      <description>&lt;h3 id=&#34;home-garden-hahahugoshortcode43s0hbhb---hahahugoshortcode43s1hbhb&#34;&gt;&lt;a href=&#34;https://www.johnwmathena.com/wiki-pages/&#34;&gt;home garden&lt;/a&gt; / webdev&lt;/h3&gt;&#xA;&lt;h4 id=&#34;javascript-hahahugoshortcode43s2hbhb-&#34;&gt;&lt;a href=&#34;https://www.johnwmathena.com/wiki-pages/javascript/&#34;&gt;javascript&lt;/a&gt;&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;web development is what i believe most people imagine when they think of coding. building websites and web apps.&#xA;i mean it&amp;rsquo;s how a lot of programmers get into the field. when so many people use websites to do so much, if your&#xA;web presence is trash, your business will feel it.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://education.launchcode.org/intro-to-professional-web-dev/index-full.html&#34;&gt;https://education.launchcode.org/intro-to-professional-web-dev/index-full.html&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
