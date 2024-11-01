@@ -1,0 +1,104 @@
+<!doctype html>
+<html>
+    <head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" charset='utf-8'>
+        <title>Johnny Dot Com</title>
+        
+        <link rel="stylesheet" href="http://localhost:1313/sass/main.min.css">
+        <link rel="icon" type="image/png" href="/photos/john-favicon.png">
+</head>
+
+    <header class="website-header">
+    <br>
+    <b class="homepage-title">
+    JOHN W. MATHENA
+    </b>
+    <nav>
+        <ul class="nav-bar-menu">
+            <li id="about-link" class="nav-bar-item">
+                <a href="/" class="nav-bar-link">About</a>
+            </li>
+            <li id="portfolio-link" class="nav-bar-item">
+                <a href="/portfolio" class="nav-bar-link">Portfolio</a>
+            </li>
+            <li id="resume-link" class="nav-bar-item">
+                <a href="/resume" class="nav-bar-link">
+                Resume
+                </a>
+            </li>
+            <li id="wiki-link" class="nav-bar-item">
+                <a href="/wiki-pages" class="nav-bar-link">Wiki</a>
+            </li>
+        </ul>
+    </nav>
+    <div>
+        <a href="https://www.linkedin.com/in/johnwmathena" target="_blank"><img id="social-media-photo" src="/photos/linkedin.png"></a>
+        <a href="https://www.github.com/jmathena1" target="_blank"><img id="social-media-photo" src="/photos/github-black.png"></a>
+        <a href="https://www.twitter.com/JohnMathena6" target="_blank"><img id="social-media-photo" src="/photos/twitter.png"></a>
+        <a href="https://www.instagram.com/mathenajohn/" target="_blank"><img id="social-media-photo" src="/photos/instagram-logo.png"></a>
+    </div>
+</header>
+<br>
+
+    <body>
+        
+	<a href="/the-strays">
+		<h1 style="text-align: left">The Strays </h1>
+	</a>
+	<br>
+    <h2>Same Blog, Different Build. On to Hugo!</h2>
+    <p>March 16, 2024</p>
+    <div style="font-size: 20px"> 
+        <p>I migrated my blog to <a href="https://gohugo.io/">Hugo</a>! I&rsquo;ve been using <a href="https://jekyllrb.com/">Jekyll</a> to build
+my blogging site for the past couple years but I read that it is no longer actively supported. Several bloggers
+I follow have made the switch to Hugo and claim the build speed is a lot faster. Though that&rsquo;s not really a concern
+for me at the moment, if I keep publishing here I&rsquo;ll eventually run into those problems.</p>
+<p>The biggest hurdle was figuring out how Hugo does templating differently than Jekyll. Once I figured
+that out, it was pretty smooth sailing. Hugo actually has a specific Jekyll import function you can use.</p>
+<blockquote>
+<p><code>hugo import jekyll &lt;path-to-old-blog&gt; &lt;path-to-new-blog&gt;</code></p>
+</blockquote>
+<p>That brought over all four of my posts and my assets I think. I&rsquo;ll post the links I found essential to getting set
+up.</p>
+<ol>
+<li><a href="https://gohugo.io/getting-started/quick-start/">Hugo Quickstart page</a></li>
+</ol>
+<blockquote>
+<ul>
+<li>Gets you a first post and basic configurations to see your site run in browser locally</li>
+</ul>
+</blockquote>
+<ol start="2">
+<li><a href="https://gohugo.io/templates/lookup-order/">Hugo template lookup order reference</a></li>
+</ol>
+<blockquote>
+<ul>
+<li>Shows you how Hugo looks through your directory for templates depending on the type of page you&rsquo;re creating</li>
+</ul>
+</blockquote>
+<ol start="3">
+<li><a href="https://cloudcannon.com/tutorials/hugo-beginner-tutorial/">cloudcannon Hugo tutorial</a></li>
+</ol>
+<blockquote>
+<ul>
+<li>one of the first results when I googled for tutorials. I found it helpful for organizing my templates.
+My site is a bit simpler but helped illustrate how to use the template lookup order and create some good templates.</li>
+</ul>
+</blockquote>
+<ol start="4">
+<li><a href="https://chenhuijing.com/blog/migrating-from-jekyll-to-hugo/">Chen Hui Jing&rsquo;s Jekyll to Hugo Migration post</a></li>
+</ol>
+<blockquote>
+<ul>
+<li>Didn&rsquo;t read the whole thing but was very in depth and would probably be best for those migrating large blogs
+to Hugo.</li>
+</ul>
+</blockquote>
+<p>If you read through all that, you&rsquo;ll be in good shape to migrate a blog or set up your own honestly.
+Happy blogging!</p>
+
+    </div>
+    <br>
+
+    </body>
+</html>
