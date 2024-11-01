@@ -1,0 +1,19 @@
+{{ define "main" }}
+  <h1 style="text-align: center">The Strays </h1>
+  <h2 style="text-align: center;"> The home of John Mathena's stray thoughts 
+  </h2>
+  <br>
+  <ul style="list-style: none">
+    {{ range .RegularPages }}
+    <li>
+      <p>
+        <a href="{{ .Permalink }}">
+          <h3>{{ .Title }}</h3>
+        </a>
+      </p>
+      <h4> {{ .Summary }} </h4>
+    </li>
+    {{ end }}
+  </ul>
+  <br>
+{{ end }}

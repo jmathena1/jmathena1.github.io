@@ -1,0 +1,62 @@
+{{ define "main" }}
+<main id="portfolio-main", class="main">
+    <details id="collapsible-sections">
+        <summary id="personal-projects" class="portfolio-header">
+            <h3 id="header" class="portfolio-header">
+						Academic Projects
+            </h3>
+        </summary>
+        {{ range where .Site.RegularPages ".Params.portfolioType" "==" "academic" }}
+            <div id="balto-city-salaries" class="portfolio-description">
+                {{ .Content }}
+                <a href={{ .Params.projectLink }} target="_blank" style="text-decoration:none;">
+                    <br>
+                    <button class="project-view-button">View Project</button>
+                    <br>
+                </a>
+                <br>
+            </div>
+            <br>
+        {{ end }}
+    </details>
+
+    <details id="collapsible-sections">
+        <summary id="personal-projects" class="portfolio-header">
+            <h3 id="header" class="portfolio-header">
+						Personal Projects
+            </h3>
+        </summary>
+        {{ range where .Site.RegularPages ".Params.portfolioType" "==" "personal" }}
+            <div id="balto-city-salaries" class="portfolio-description">
+                {{ .Content }}
+                <a href={{ .Params.projectLink }} target="_blank" style="text-decoration:none;">
+                    <br>
+                    <button class="project-view-button">View Project</button>
+                    <br>
+                </a>
+                <br>
+            </div>
+            <br>
+        {{ end }}
+    </details>
+    <details id="collapsible-sections">
+        <summary id="professional-projects" class="portfolio-header">
+            <h3 id="header" class="portfolio-header">
+						Professional Projects
+            </h3>
+        </summary>
+        {{ range where .Site.RegularPages ".Params.portfolioType" "==" "professional" }}
+            <div class="portfolio-description">
+                {{ .Content }}
+                <a href={{ .Params.projectLink }} target="_blank" style="text-decoration:none;">
+                    <br>
+                    <button class="project-view-button">View Project</button>
+                    <br>
+                </a>
+                <br>
+            </div>
+            <br>
+        {{ end }}
+    </details>
+</main>
+{{ end }}

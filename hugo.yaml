@@ -1,0 +1,4 @@
+baseURL: https://www.johnwmathena.com
+disablePathToLower: true
+languageCode: en-us
+summaryLength: 15
