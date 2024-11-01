@@ -1,4 +1,4 @@
-baseURL: https://jmathena1.github.io/
+baseURL: /
 disablePathToLower: true
 languageCode: en-us
 summaryLength: 15
