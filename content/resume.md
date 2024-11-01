@@ -77,7 +77,7 @@ two dozen universities
 #### *Arabic (Egyptian, Modern Standard, and Moroccan varieties) and Spanish*
 
 ### Programming Languages
-#### *JavaScript, Python, R, SOQL, SQL, VBA*
+#### *JavaScript, Python, R, SOQL, SQL, TypeScript, VBA*
 
 ### Web Development
 #### *CSS, HTML, Node.js*

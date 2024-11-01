@@ -26,6 +26,27 @@
     <loc>http://localhost:1313/the-strays/posts/2022-04-14-Please-dont-make-me-kill/</loc>
     <lastmod>2022-04-14T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/droppin-dimes/</loc>
+    <lastmod>2020-11-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/droppin-dimes/posts/2020-11-03-scared/</loc>
+    <lastmod>2020-11-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/droppin-dimes/posts/2020-10-03-survivors-march-down-hilton/</loc>
+    <lastmod>2020-10-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/droppin-dimes/posts/2020-09-23-down-time/</loc>
+    <lastmod>2020-09-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/droppin-dimes/posts/2018-05-06-Let-us-grow-up/</loc>
+    <lastmod>2018-05-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/droppin-dimes/2018-05-05-lahboul/</loc>
+    <lastmod>2018-05-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/droppin-dimes/posts/2018-05-05-Lahboul/</loc>
+    <lastmod>2018-05-05T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/portfolio/211-dashboards/</loc>
   </url><url>
     <loc>http://localhost:1313/portfolio/city-salaries/</loc>
@@ -78,9 +99,23 @@
   </url><url>
     <loc>http://localhost:1313/resume/</loc>
   </url><url>
+    <loc>http://localhost:1313/wiki-pages/security/</loc>
+  </url><url>
+    <loc>http://localhost:1313/wiki-pages/stats-math/</loc>
+  </url><url>
+    <loc>http://localhost:1313/wiki-pages/systems/</loc>
+  </url><url>
     <loc>http://localhost:1313/tags/</loc>
   </url><url>
+    <loc>http://localhost:1313/wiki-pages/tech-world/</loc>
+  </url><url>
+    <loc>http://localhost:1313/wiki-pages/tech-writing-translations/</loc>
+  </url><url>
     <loc>http://localhost:1313/wiki-pages/the-peoples-tech/</loc>
+  </url><url>
+    <loc>http://localhost:1313/wiki-pages/utils/</loc>
+  </url><url>
+    <loc>http://localhost:1313/wiki-pages/webdev/</loc>
   </url><url>
     <loc>http://localhost:1313/wiki-pages/</loc>
   </url>

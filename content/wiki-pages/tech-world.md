@@ -5,7 +5,7 @@ wikiType: parent
 ### [home garden]( {{< ref "/wiki-pages" >}} ) / {{< param "title" >}}
 
 [https://logicmag.io/care/inside-the-paradise-bubble/](https://logicmag.io/care/inside-the-paradise-bubble/)
-[https://logicmag.io/scale/letter-from-shenzhen/](https://logicmag.io/scale/letter-from-shenzhen/)
+[https://logicmag.io/scale/letter-from-shenzhen/](https://logicmag.io/scale/letter-from-shenzhen/)  
 [https://logicmag.io/bodies/tarek-loubani-on-3d-printing-in-gaza/](
 https://logicmag.io/bodies/tarek-loubani-on-3d-printing-in-gaza/)
 - (2023-05-24) outlets like logic magazine do such a good job of showcasing technology development and use beyond 
