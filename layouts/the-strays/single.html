@@ -1,0 +1,12 @@
+{{ define "main" }}
+	<a href="/the-strays">
+		<h1 style="text-align: left">The Strays </h1>
+	</a>
+	<br>
+    <h2>{{ .Params.Title }}</h2>
+    <p>{{ .Date.Format "January 2, 2006" }}</p>
+    <div style="font-size: 20px"> 
+        {{ .Content }}
+    </div>
+    <br>
+{{ end }}
