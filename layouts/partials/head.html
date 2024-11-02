@@ -3,5 +3,5 @@
         <title>Johnny Dot Com</title>
         {{ $style := resources.Get "sass/main.scss" | css.Sass | resources.Minify }}
         <link rel="stylesheet" href="{{ $style.Permalink }}">
-        <link rel="icon" type="image/png" href="/photos/john-favicon.png">
+        <link rel="icon" type="image/png" href="{{ `photos/john-favicon.png` | relURL }}"/>
 </head>
