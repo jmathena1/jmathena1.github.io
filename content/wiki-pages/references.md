@@ -12,3 +12,7 @@ keeps me from making irreversible mistakes.	i also just ask my wife.
 
 [https://www.markdownguide.org/cheat-sheet/](https://www.markdownguide.org/cheat-sheet/)
 - i always forget markdown commands even though there are like 20
+
+[https://softwarepatternslexicon.com/](https://softwarepatternslexicon.com/)
+- breakdowns of most common design patterns you could think of. also has implementations in several languages
+including Go, JS, and Python

@@ -29,3 +29,8 @@ game. one day!
 - pretty much the moment I saw this little database of programming books I added a bunch of them to my storygraph
 for safe keeping. i'm putting it here to so I can see if any new books get added over time. As of this writing, the
 count is at 70!
+
+[https://ppml.dev/](https://ppml.dev/)
+- free, online book that looks to describe the practical topics needed to build quality software that undergirds
+machine learning systems. I very much want to read the Pragmatic Programmer that does the same but for programming
+more generally
