@@ -19,3 +19,7 @@ though it powers finance departments and banks across the world.
 [https://nostarch.com/kill-it-fire](https://nostarch.com/kill-it-fire)
 - a practical guide to successfully maintaining software systems and eventually replacing them.
 i think this may have been a [Hacker News](https://news.ycombinator.com/) find?
+
+[https://softwareengineering.stackexchange.com/questions/69788/what-is-the-history-of-the-use-of-foo-and-bar-in-source-code-examples](
+https://softwareengineering.stackexchange.com/questions/69788/what-is-the-history-of-the-use-of-foo-and-bar-in-source-code-examples)
+- this is just hilarious

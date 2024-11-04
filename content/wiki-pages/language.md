@@ -19,3 +19,10 @@ https://www.newyorker.com/tech/annals-of-technology/chatgpt-is-a-blurry-jpeg-of-
 got WSL up and running, I can install linux things!! one day I'll have a pure linux set up. I could just dual boot or wipe my windows and reinstall whatever distro I'm feeling. But that takes a lot of work. Windows doesn't make 
 me too mad unless I need to code. for some reason Vim was getting all wonky on Windows compared to my work machine 
 which is a Mac. well this certainly got off topic huh?
+
+[https://lareviewofbooks.org/article/weird-nonfiction/](
+https://lareviewofbooks.org/article/weird-nonfiction/)
+- a friend told me a story about seeing a documentary claiming mermaids were real on the Discovery channel. they
+said it was presented not as a mocumentary or anything, making it a very odd watch. that documentary definitely
+fits the category described in this piece.
+- i also read one of the books listed in this piece, which was a collection of short stories.

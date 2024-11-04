@@ -23,3 +23,7 @@ very impressed with Mozilla documentation.
 [https://blot.im/](https://blot.im/)
 - blot apparently turns a folder into a webiste. this looks very cool and I really want to try it out. on the list 
 it goes! maybe this could be a way to build the [housing documentation]({{< ref "/wiki-pages/blogs.md" >}})
+
+[https://www.bryanbraun.com/2024/10/25/before-you-buy-a-domain-name-first-check-to-see-if-its-haunted/](
+https://www.bryanbraun.com/2024/10/25/before-you-buy-a-domain-name-first-check-to-see-if-its-haunted/)
+- oooo spooky! also kinda scary tho
