@@ -16,3 +16,10 @@ keeps me from making irreversible mistakes.	i also just ask my wife.
 [https://softwarepatternslexicon.com/](https://softwarepatternslexicon.com/)
 - breakdowns of most common design patterns you could think of. also has implementations in several languages
 including Go, JS, and Python
+
+[https://vickiboykis.com/what_are_embeddings/](https://vickiboykis.com/what_are_embeddings/)
+- detailed write up on embeddings in ML from one of my favorite programming bloggers, Vicky Boykis. Paper describes what embeddings are,
+how they have been used in various ML systems over the years, and how they are used in real world ML applications.
+
+[https://berthub.eu/articles/posts/on-long-term-software-development/](https://berthub.eu/articles/posts/on-long-term-software-development/)
+- some great advice when thinking about how well your software is set up to last and be maintained

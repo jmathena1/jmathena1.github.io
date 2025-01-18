@@ -15,3 +15,6 @@ wikiType: parent
 - I learned recently that the [Baltimore Black Techies website](http://bmoreblack.tech) 
 is built using MK docs. It's nice to know I can quickly spin up some great project documentation for 
 future work! I'll be sure to link any sites I push out using this framework here. 
+
+[https://www.vijayp.dev/blog/rewrite-plain-html/](https://www.vijayp.dev/blog/rewrite-plain-html/)
+- for if i ever get tired of Hugo, lol

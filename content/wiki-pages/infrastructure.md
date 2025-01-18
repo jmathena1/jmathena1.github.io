@@ -16,3 +16,10 @@ to store everything needed to run their software in a neat, small little package
 believe, and an instance of an image is called something else but that's in the article. With containers, you don't
 have to worry about running a million VMs on your hardware to handle all the software you wanna touch. VMs (virtual 
 machines) still have their use, though. TLDR: have no fear the container articles are here!
+
+[https://arxiv.org/html/2402.03239v2#S3.F2](https://arxiv.org/html/2402.03239v2#S3.F2)
+- write up on the AT protocol that powers Bluesky
+
+[https://mkennedy.codes/posts/opposite-of-cloud-native-is-stack-native/](https://mkennedy.codes/posts/opposite-of-cloud-native-is-stack-native/)
+- cloud is not bad, but needn't always be the solution. good post asking developers to right size their insfrastructure choices. no need
+to run to AWS for everything!

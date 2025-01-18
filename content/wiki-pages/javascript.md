@@ -18,3 +18,7 @@ https://www.freecodecamp.org/news/guide-to-javascript-promises/)
 Promises allow you handle the successes and failures of async functions with clean, performant code. I banged my 
 head against a wall trying to understand JS promises for almost a month before I found this post. Hopefully I can 
 save you some time!
+
+[https://www.nayuki.io/page/creating-a-qr-code-step-by-step](https://www.nayuki.io/page/creating-a-qr-code-step-by-step)
+- JS library for creating QR codes. I'd like to return to this and create a QR code that directs people to my website and/or some of my 
+socials and contact information. I could carry that around on my phone or put it on a cool business card to easily share my info
