@@ -24,3 +24,7 @@ ArcGIS license. I downloaded QGIS for the first time ever and got what I needed 
 [https://osmapp.org/en#7.00/39.2891/-76.5583](https://osmapp.org/en#7.00/39.2891/-76.5583)
 - somebody made an open source mapping apps a la google maps. I don't think a navigation component is available yet 
 but I believe it is in the works. I'll update when available.
+
+[https://www.oldmapsonline.org/en/history/regions#position=4/38.98/-77&year=1850](https://www.oldmapsonline.org/en/history/regions#position=4/38.98/-77&year=1850)
+- site lets you zoom in on any location in the world and see how the area has changed over the years. goes back at least a couple centuries
+for a lot of areas

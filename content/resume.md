@@ -2,15 +2,14 @@
 title: resume
 type: resume
 ---
-### SOFTWARE ENGINEER II, MANUAL BULK PROCESSING TRACK LEAD
+### SOFTWARE ENGINEER III
 #### [2U, Inc.](https://2u.com) | Lanham, MD (remote)
-*03 / 2023 to present*  
+*01 / 2025 to present*   
+*03 / 2023 to 12/2024 as SOFTWARE ENGINEER II, BULK MANUAL PROCESSING TRACK LEAD*  
 *10 / 2022 to 02 / 2023 as SOFTWARE ENGINEER II*
-- Lead track of work responsible for legacy enrollment data system maintenance and migrating bulk manual processing to AWS Lambda function using Python
+- Lead track of work responsible for bulk manual processing deployed as AWS Lambda functions using Python
 - Contribute features and review code for new enrollment System of Record (SOR) that reduces new degree program standup from weeks to a single day
-- Developed and maintained Python application that creates and updates enrollment data for over 65 online degree programs across
-two dozen universities
-- Debugged data discrepenacies using SQL, AWS CloudWatch, and DataDog between Salesforce and Learning Management Systems like Canvas and Moodle
+- Debug data discrepenacies using SQL, AWS CloudWatch, and DataDog between SOR, Salesforce, and Learning Management Systems like Canvas and Moodle
 
 ---
 

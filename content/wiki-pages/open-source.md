@@ -43,3 +43,6 @@ https://simplyexplained.com/blog/how-i-built-an-nfc-movie-library-for-my-kids/)
 recreate a home video library in the digital age. The trick is creating one that doesn't rely on a Google or 
 another platform that could just pull the rug out from under you and decide that movie isn't yours anymore. 
 This would be fun to try an implement on a small scale.
+
+[https://asteriskmag.com/issues/08/the-depths-of-wikipedians](https://asteriskmag.com/issues/08/the-depths-of-wikipedians)
+- great interview with a great twitter account that surfaces very obscure, yet detailed pages on wikipedia

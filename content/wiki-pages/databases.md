@@ -14,3 +14,6 @@ https://blog.moertel.com/posts/2024-08-23-sampling-with-sql.html)
 - i never thought about using SQL itself to sample datasets. that probably is very useful for speedy
 statistical analyses though. combine that with the in browser DuckDB tool and you can do some robust stuff
 without too much hassle
+
+[https://challahscript.com/what_i_wish_someone_told_me_about_postgres](https://challahscript.com/what_i_wish_someone_told_me_about_postgres)
+- fun postgres tips, the swiss army knife of RDBMSs

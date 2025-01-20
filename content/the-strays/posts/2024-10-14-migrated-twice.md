@@ -29,29 +29,10 @@ accomplish in Markdown, it was pretty smooth sailing.
 ### Portfolio
 The portfolio was a bit trickier because I realized I needed some way to apply the Sass across all the projects I
 wanted to showcase. But the `range` function in Hugo templates ended up coming in handy.
-```
-...
-<details id="collapsible-sections">
-    <summary id="personal-projects" class="portfolio-header">
-        <h3 id="header" class="portfolio-header">
-            Academic Projects
-        </h3>
-    </summary>
-    {{ range where .Site.RegularPages ".Params.portfolioType" "==" "academic" }}
-        <div id="balto-city-salaries" class="portfolio-description">
-            {{ .Content }}
-            <a href={{ .Params.projectLink }} target="_blank" style="text-decoration:none;">
-                <br>
-                <button class="project-view-button">View Project</button>
-                <br>
-            </a>
-            <br>
-        </div>
-        <br>
-    {{ end }}
-</details>
-...
-```
+
+[https://github.com/jmathena1/jmathena1.github.io/blob/a6ecb210734912a64e5881f0b25ea916f01664dd/layouts/portfolio/list.html#L3-L21](
+https://github.com/jmathena1/jmathena1.github.io/blob/a6ecb210734912a64e5881f0b25ea916f01664dd/layouts/portfolio/list.html#L3-L21)
+
 I maintained the `details` and `summary` html tags from my original site and added parameters to the content files.
 That way I could `range` through different types of projects and display them together. `.Site.RegularPages`
 specifies that you want to look at content files that match the directory of the layout file. So here, I'm looping
@@ -64,20 +45,9 @@ what I call parent and child pages. Basically, I categorize my wiki topics and n
 that appear on the [home garden](/wiki-pages) page. I again turned to custom parameters on the content files, this
 one is `wikiType`. I applied `range` to the wiki directory and only display wiki pages with a `wikiType` of 
 `parent`.
-```
-...
-{{ range where .RegularPages "Params.wikiType" "==" "parent" }}
-    <div class="garden-section-header">
-        <h4>
-            <a href="{{ .Permalink }}">
-                {{ .Title }}
-            </a>
-        </h4>
-    </div>
-    <br>
-{{ end }}
-...
-```
+
+[https://github.com/jmathena1/jmathena1.github.io/blob/a6ecb210734912a64e5881f0b25ea916f01664dd/layouts/wiki-pages/list.html#L8-L17](
+https://github.com/jmathena1/jmathena1.github.io/blob/a6ecb210734912a64e5881f0b25ea916f01664dd/layouts/wiki-pages/list.html#L8-L17)
 
 ### Blogs
 Since I wrote the blogs using Hugo already, this one was pretty straightforward. I wrangled with the Sass for

@@ -14,3 +14,8 @@ https://www.freecodecamp.org/news/improve-hacking-skills-by-playing-wargames/)
 [https://www.freecodecamp.org/news/hack-your-first-machine-a-guide-for-aspiring-security-enthusiasts/](
 https://www.freecodecamp.org/news/hack-your-first-machine-a-guide-for-aspiring-security-enthusiasts/)
 - some resources for practicing ethical hacking and getting some actual cybersecurity experience
+
+[https://jackcook.com/2024/11/09/bigger-fish.html](https://jackcook.com/2024/11/09/bigger-fish.html)
+- very cool write up on a research project and paper demonstrating how ML enables powerful side channel attacks that can learn encryption keys
+you use to log into various websites and web apps. I'm summarizing at a very high level because this is an academic paper and the blog post
+is very detailed. fascinating yet scary stuff!

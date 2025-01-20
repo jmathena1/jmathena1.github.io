@@ -48,3 +48,16 @@ through since ChatGPT has been very trying), but there are some valuable nuggest
 think is a very valuable field for Medicine and Health as well as very data intensive fields like Astronomy. Helpful to have 
 writers like Chiang be specific about where it falls short. He has at least one other New Yorker essay on Gen AI that is 
 also very worth reading.
+
+[https://newrepublic.com/article/188313/artifical-intelligence-scams-propaganda-deceit](https://newrepublic.com/article/188313/artifical-intelligence-scams-propaganda-deceit)
+- my local library actually had a copy of the book reviewed in this piece. Largely agree with the author here. AI Snake Oil laid out solid
+critiques on predictive AI and content moderation, but was far too soft on Generative AI. 
+
+[https://dustycloud.org/blog/how-decentralized-is-bluesky/](https://dustycloud.org/blog/how-decentralized-is-bluesky/)
+- pretty good faith critique of the level of decentralization of bluesky. it'll be interesting to see what else gets built using the AT
+Protocol that Bsky runs on. Currently, the bsky.social instance that most people use and the AT protocol are controlled by the same company.
+I think the bsky creators intend to allow people to create their own feeds, instances, and such. 
+
+[https://harpers.org/archive/2025/01/the-ghosts-in-the-machine-liz-pelly-spotify-musicians/](https://harpers.org/archive/2025/01/the-ghosts-in-the-machine-liz-pelly-spotify-musicians/)
+- not a super uplifting read, but important to understand how tech companies drive to grow profits no matter what makes the products worse 
+the the producers worse off

@@ -23,3 +23,6 @@ with tree data structures much, well...you're lost. After that interview, I read
 busy doing practice problems. I won't be caught flatfooted again, but I don't think I got a very deep 
 understanding. This article was outstanding. One of the best technical blog posts I've read in general, let alone 
 for B Trees. with interactive demonstrations! and a whole dedicated site for them?? terrific
+
+[https://lexi-lambda.github.io/blog/2019/11/05/parse-don-t-validate/](https://lexi-lambda.github.io/blog/2019/11/05/parse-don-t-validate/)
+- designer of Zod illustrates the value of type driven design. i feel like this is especially usefuly  in data intensive applications
