@@ -1,0 +1,7 @@
+<div style="display: flex; justify-content: center;">
+    {{ range .Page.Params.tools }}
+    <a href={{ .link }}>
+        <img id="social-media-photo" src={{ .image }}>
+    </a>
+    {{ end }}
+</div>
