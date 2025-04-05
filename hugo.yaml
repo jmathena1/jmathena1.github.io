@@ -1,4 +1,5 @@
 baseURL: https://jmathena1.github.io/
 disablePathToLower: true
+ignoreLogs: warning-goldmark-raw-html
 languageCode: en-us
 summaryLength: 15

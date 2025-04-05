@@ -43,3 +43,9 @@ years and on and off for about eight years. There's an advanced section that goe
 
 [https://weborigami.org/language/hello](https://weborigami.org/language/hello)
 - funky little framework for defining the content and structure of site simultaneously
+
+[https://blog.knhash.in/gentle-guide-to-self-hosting/](https://blog.knhash.in/gentle-guide-to-self-hosting/)
+- eventually, i will follow one of these self-hosting tutorials...eventually
+
+[https://pico.sh/](https://pico.sh/)
+- what if your personal sites and project sites were accessible via a TUI when deployed? very intriguing
