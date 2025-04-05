@@ -172,7 +172,7 @@ a:hover {
 	box-shadow: 5px 5px 5px #808080;
 }
 
-@media (max-width: 450px) {
+@media (max-width: 465px) {
 	div.about-picture { 
 		width: 100%;
 	}
