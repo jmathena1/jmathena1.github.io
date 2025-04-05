@@ -7,7 +7,7 @@ type: resume
 *01 / 2025 to present*   
 *03 / 2023 to 12/2024 as SOFTWARE ENGINEER II, BULK MANUAL PROCESSING TRACK LEAD*  
 *10 / 2022 to 02 / 2023 as SOFTWARE ENGINEER II*
-- Maintain and enchance data transformation platform that communicates application and decision data with partner universities
+- Maintain and enhance data transformation platform that communicates application and decision data with partner universities
 - Led track of work responsible for bulk manual processing deployed as AWS Lambda functions using Python
 - Contribute features and review code for new enrollment System of Record (SOR) that reduces new degree program standup from weeks to a single day
 - Debug data discrepenacies using SQL, AWS CloudWatch, and DataDog between SOR, Salesforce, and Learning Management Systems like Canvas and Moodle
