@@ -19,3 +19,8 @@ https://www.freecodecamp.org/news/hack-your-first-machine-a-guide-for-aspiring-s
 - very cool write up on a research project and paper demonstrating how ML enables powerful side channel attacks that can learn encryption keys
 you use to log into various websites and web apps. I'm summarizing at a very high level because this is an academic paper and the blog post
 is very detailed. fascinating yet scary stuff!
+
+[https://alexwlchan.net/2025/github-actions-audit/](https://alexwlchan.net/2025/github-actions-audit/)
+- a popular gh action had a security breach and this post goes over evaluating how much you should trust the various actions you're using. a 
+basic security step you can take is to use commit hashes rather than version tags since the hashes always refer to the same code. the version
+tag can be changed theoretically.

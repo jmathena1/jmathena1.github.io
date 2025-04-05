@@ -7,7 +7,8 @@ type: resume
 *01 / 2025 to present*   
 *03 / 2023 to 12/2024 as SOFTWARE ENGINEER II, BULK MANUAL PROCESSING TRACK LEAD*  
 *10 / 2022 to 02 / 2023 as SOFTWARE ENGINEER II*
-- Lead track of work responsible for bulk manual processing deployed as AWS Lambda functions using Python
+- Maintain and enchance data transformation platform that communicates application and decision data with partner universities
+- Led track of work responsible for bulk manual processing deployed as AWS Lambda functions using Python
 - Contribute features and review code for new enrollment System of Record (SOR) that reduces new degree program standup from weeks to a single day
 - Debug data discrepenacies using SQL, AWS CloudWatch, and DataDog between SOR, Salesforce, and Learning Management Systems like Canvas and Moodle
 
@@ -16,9 +17,8 @@ type: resume
 ### DATA MANAGER
 #### [Maryland Information Network, 211 Maryland](https://mdinfonet.org/) | Columbia, MD (remote)
 *03 / 2021 to 10 / 2022*
-- Designed, develeloped and maintained OLAP database storing millions of call records using AWS RDS for MySQL
+- Designed, developed and maintained OLAP database storing millions of call records using AWS RDS for MySQL
 - Wrote ETL scripts to ingest thousands of call records each week using R and Python
-- Maintained six PowerBI reports on public facing website detailing usage of the 211 network in the state of Maryland
 - Wrote and submitted over twenty reports at weekly, monthly, quarterly, annual frequencies
 - Led bimonthly data work group with 211 network call center leaders to discuss data standards and improve data quality systemwide.
 

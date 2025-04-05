@@ -61,3 +61,7 @@ I think the bsky creators intend to allow people to create their own feeds, inst
 [https://harpers.org/archive/2025/01/the-ghosts-in-the-machine-liz-pelly-spotify-musicians/](https://harpers.org/archive/2025/01/the-ghosts-in-the-machine-liz-pelly-spotify-musicians/)
 - not a super uplifting read, but important to understand how tech companies drive to grow profits no matter what makes the products worse 
 the the producers worse off
+
+[https://thebullshitmachines.com](https://thebullshitmachines.com)
+- two professors from the university of washington published a quick yet comphrensive set of lessons explaining what LLMs like ChatGPT are,
+how they work, and how we can use and evaluate them effectively. love it!

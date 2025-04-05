@@ -23,3 +23,6 @@ how they have been used in various ML systems over the years, and how they are u
 
 [https://berthub.eu/articles/posts/on-long-term-software-development/](https://berthub.eu/articles/posts/on-long-term-software-development/)
 - some great advice when thinking about how well your software is set up to last and be maintained
+
+[https://perthirtysix.com/visualizing-data-is-an-art](https://perthirtysix.com/visualizing-data-is-an-art)
+- neat look at designing data visualizations and balancing rigor with effective communication
