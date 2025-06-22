@@ -15,3 +15,7 @@ in programming parlance) for a pattern you construct to help you extract text yo
 series of documents.
 - the regex tester is helpful because you can paste any text in it, create a pattern to test, and the tester will 
 tell you exactly what your pattern picks up. a huge time saver
+
+[https://sourcegraph.com/search](https://sourcegraph.com/search)
+- the lovely folks over at [Fallthrough pod](https://fallthrough.transistor.fm/) mentioned this site as one of their favorite tools to use. It's basically a much more performant
+search for code examples across publicly available code repositories.
