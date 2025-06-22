@@ -33,14 +33,6 @@ jobs:
     env:
       HUGO_VERSION: 0.135.0
     steps:
-      # v3.0.2
-      - uses: dorny/paths-filter@de90cc6fb38fc0963ad72b210f1f284cd68cea36
-        id: directory-filter
-        with:
-          filters: |
-            content:
-              - 'content/wiki-pages/**'
-
       - name: Install Hugo CLI
         run: |
           wget -O ${{ runner.temp }}/hugo.deb https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hugo_extended_${HUGO_VERSION}_linux-amd64.deb \
@@ -71,7 +63,6 @@ jobs:
             --baseURL "${{ steps.pages.outputs.base_url }}/"          
 
       - name: Index wiki pages with PageFind
-        if: steps.directory-filter.outputs.content == 'true'
         run: npx -y pagefind ./public/wiki-pages
 
       - name: Upload artifact
