@@ -17,4 +17,6 @@ is built using MK docs. It's nice to know I can quickly spin up some great proje
 future work! I'll be sure to link any sites I push out using this framework here. 
 
 [https://www.vijayp.dev/blog/rewrite-plain-html/](https://www.vijayp.dev/blog/rewrite-plain-html/)
+[https://plainvanillaweb.com/index.html](https://plainvanillaweb.com/index.html)
+[https://andregarzia.com/2025/06/experimenting-with-no-build-web-applications.html](https://andregarzia.com/2025/06/experimenting-with-no-build-web-applications.html)
 - for if i ever get tired of Hugo, lol

@@ -26,3 +26,7 @@ https://lareviewofbooks.org/article/weird-nonfiction/)
 said it was presented not as a mocumentary or anything, making it a very odd watch. that documentary definitely
 fits the category described in this piece.
 - i also read one of the books listed in this piece, which was a collection of short stories.
+
+[https://www.publishersweekly.com/pw/translation/search/index.html](https://www.publishersweekly.com/pw/translation/search/index.html)
+- online database that allows you to search by title for translated works. i think you can find results in the source language or the target language
+- I've tried to search for some Arabic literature and the results were decent
