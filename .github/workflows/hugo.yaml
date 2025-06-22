@@ -59,6 +59,8 @@ jobs:
             --gc \
             --minify \
             --baseURL "${{ steps.pages.outputs.base_url }}/"          
+      - name: Index wiki pages with PageFind
+        run: npx -y pagefind ./public/wiki-pages
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:

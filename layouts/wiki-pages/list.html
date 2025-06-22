@@ -4,6 +4,7 @@
             <h3>John's Digital Garden</h3>
             <h4>This is where I store the stuff my brain swears I’ll come back to later.</h4>
         </div>
+        {{ partial "pagefind-search.html" . }}
         <br>
         {{ range where .RegularPages "Params.wikiType" "==" "parent" }}
             <div class="garden-section-header">
