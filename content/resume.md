@@ -10,7 +10,7 @@ type: resume
 - Maintain and enhance data transformation platform that communicates application and decision data with partner universities
 - Led track of work responsible for bulk manual processing deployed as AWS Lambda functions using Python
 - Contribute features and review code for new enrollment System of Record (SOR) that reduces new degree program standup from weeks to a single day
-- Debug data discrepenacies using SQL, AWS CloudWatch, and DataDog between SOR, Salesforce, and Learning Management Systems like Canvas and Moodle
+- Debug data discrepenacies using SQL, AWS CloudWatch, and Datadog between SOR, Salesforce, and Learning Management Systems like Canvas and Moodle
 
 ---
 
