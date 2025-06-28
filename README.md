@@ -1,6 +1,6 @@
 # Welcome to my site!
 
-I built this personal site, blog, and digital garden using the static site builder Hugo, written in Golang.
+I built this personal site, blog, and digital garden using the static site builder Hugo, written in Go.
 
 The steps to running this site locally are:
 1. Install [Hugo](https://gohugo.io/installation/)
