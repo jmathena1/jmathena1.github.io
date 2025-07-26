@@ -1,19 +1,23 @@
 {{ define "main" }}
-  <h1 style="text-align: left"> Droppin Dimes with Dope Rhymes</h1>
-  <h2 style="text-align: left;"> ludicrous lyrical mastery</h2>
-  <h3 style="test-aligh: left;"><a href="./index.xml">{ Subscribe via RSS }</a></h3>
-  <br>
-  <ul style="list-style: none"> 
-    {{ range .RegularPages }}
-    <li>
-      <p>
-        <a href="{{ .Permalink }}">
-          <h3>{{ .Title }}</h3>
-        </a>
-      </p>
-      <h4 class="blog-post-summary"> {{ .Summary }} </h4>
-    </li>
-    {{ end }}
-  </ul>
+  <section class="droppin-dimes-header">
+    <h2> Droppin Dimes with Dope Rhymes</h2>
+    <h3> ludicrous lyrical mastery</h3>
+    <h4><a href="./index.xml">{ Subscribe via RSS }</a></h4>
+  </section> 
+  <br> 
+  <section class="posts-list">
+    <ul style="list-style: none"> 
+        {{ range .RegularPages }}
+      <li>
+        <p>
+          <a href="{{ .Permalink }}">
+            <h4>{{ .Title }}</h4>
+          </a>
+        </p>
+        <h5 class="blog-post-summary"> {{ .Summary }} </h5>
+      </li>
+      {{ end }}
+    </ul>
+  </section>
   <br>
 {{ end }}
