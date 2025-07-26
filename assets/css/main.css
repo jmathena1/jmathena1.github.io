@@ -12,10 +12,17 @@ greek villa - #F0ECE2
 html {
 	background-color: #F0ECE2;
     overflow-y: scroll;
-	height: 100vh;
+	height: 100%;
+}
+
+hr {
+    margin-left: 0;
+    margin-right: 0;
 }
 
 body {
+    display: flex;
+    flex-direction: column;
     font-family: Garamond, Georgia, 'Times New Roman', Serif;
     line-height: 1.6;
     margin: auto;
@@ -102,6 +109,8 @@ a:hover {
 }
 
 .website-footer {
+    margin-bottom: 5vh;
+    margin-top: auto;
     text-align: center;
 }
 
