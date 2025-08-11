@@ -1,18 +1,22 @@
 {{ define "main" }}
-  <h1 style="text-align: center">The Strays</h1>
-  <h2 style="text-align: center;"> The home of John Mathena's stray thoughts</h2>
-  <h3 style="text-align: center;"><a href="./index.xml">{ Subscribe via RSS }</a></h3>
-  <ul style="list-style: none">
-    {{ range .RegularPages }}
-    <li>
-      <p>
-        <a href="{{ .Permalink }}">
-          <h3>{{ .Title }}</h3>
-        </a>
-      </p>
-      <h4> {{ .Summary }} </h4>
-    </li>
-    {{ end }}
-  </ul>
+  <section class="strays-header">
+    <h1>The Strays</h1>
+    <h2> The home of John Mathena's stray thoughts</h2>
+    <h3><a href="./index.xml">{ Subscribe via RSS }</a></h3>
+  </section>
+  <section class="posts-list">
+    <ul>
+      {{ range .RegularPages }}
+      <li>
+        <p>
+          <a href="{{ .Permalink }}">
+            <h3>{{ .Title }}</h3>
+          </a>
+        </p>
+        <h4> {{ .Summary }} </h4>
+      </li>
+      {{ end }}
+    </ul>
+  </section>
   <br>
 {{ end }}

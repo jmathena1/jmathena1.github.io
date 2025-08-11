@@ -49,3 +49,7 @@ great read if you're prepping for an interview in tech or out of it.
 [https://bitfieldconsulting.com/posts/career](https://bitfieldconsulting.com/posts/career)
 - one of best breakdowns I've read on the paths in tech for developers. the blog posts lays out the seniority path, management path, and
 the independence path. I believe it's part of a whole book on building a career in tech that I'd like to pick up at some point.
+
+[https://www.hillelwayne.com/post/are-we-really-engineers](https://www.hillelwayne.com/post/are-we-really-engineers)
+- the age old debate among software "engineers" and all the others treated very
+earnestly and was actually quite an in-depth little investigation by the author.

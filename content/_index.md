@@ -1,5 +1,5 @@
 ---
-title: Home
+title: "Home page"
 ---
 
 Hi, I'm John and I like to write. Thanks for coming to my site.  
@@ -15,3 +15,4 @@ couple years. I use my portfolio page to flesh out any interesting ideas and sho
 If you have any questions or wanna reach out to chat about something, please do so! You can send me an email at [jmathena24@gmail.com](mailto:jmathena24@gmail.com) or reach out 
 through some of the social media links at the top.
 
+{{< blog-links >}}

@@ -11,15 +11,25 @@ greek villa - #F0ECE2
 
 html {
 	background-color: #F0ECE2;
-	font-family: georgia, times-new-roman;
-	overflow-y: scroll;
-	height: 100vh;
+    overflow-y: scroll;
+	height: 100%;
+}
+
+/* necessary to support dividers when using flexbox */
+hr {
+    margin-left: 0;
+    margin-right: 0;
 }
 
 body {
+    display: flex;
+    flex-direction: column;
+    font-family: Garamond, Georgia, 'Times New Roman', Serif;
+    line-height: 1.6;
     margin: auto;
     max-width: 900px;
     min-height: 100%;
+    position: relative;
     width: 85%;
 	word-wrap: break-word;
 }
@@ -33,7 +43,7 @@ body {
 .homepage-title {
 	display: flex;
 	flex-wrap: nowrap;
-	font-size: 36px;
+	font-size: 2rem;
     max-width: 100%;
 	width: 100%;
 }
@@ -49,7 +59,7 @@ body {
 .nav-bar-item {
 	display: flex;
 	font-family: georgia, times-new-roman;
-    font-size: 24px;
+    font-size: 1.5rem;
     font-weight: 550;
     padding-right: 2.5vw;
 }
@@ -65,7 +75,9 @@ body {
 
 .main {
 	height: 100%;
-	font-size: 24px;
+	font-size: 1.25rem;
+    margin: 1.5rem;
+    padding-bottom: 2.5rem;
 	text-align: left;
 }
 
@@ -95,9 +107,13 @@ a:hover {
 }
 
 .blog-logo-image {
-    float: left;
-	display: block;
 	width: 33%;
+}
+
+.website-footer {
+    margin-bottom: 5vh;
+    margin-top: auto;
+    text-align: center;
 }
 
 /* portfolio */
@@ -112,7 +128,7 @@ a:hover {
 	display: flex;
 	justify-content: center;
 	font-family: georgia, times-new-roman;
-	font-size: 18px;
+	font-size: 1.25rem;
 	width: 25%;
 	margin-left: auto;
 	margin-right: auto;
@@ -172,6 +188,24 @@ a:hover {
 	box-shadow: 5px 5px 5px #808080;
 }
 
+/* droppin dimes and the strays */
+.droppin-dimes-header {
+    text-align: left;
+}
+
+.post-content {
+    font-size: 1.125rem;
+    text-align: left;
+}
+
+.posts-list ul {
+    list-style-type: none;
+}
+
+.strays-header {
+    text-align: center;
+}
+
 @media (max-width: 465px) {
 	div.about-picture { 
 		width: 100%;
@@ -180,23 +214,23 @@ a:hover {
         width: 75%;
     }
 	.main {
-		font-size: 16px;
+		font-size: 1rem;
 	}
 	.homepage-title {
-		font-size: 22px;
+		font-size: 1.5rem;
 	}
 	.nav-bar-item {
-		font-size: 15px;
+		font-size: 1.25rem;
 	}
 	.portfolio-description {
 		width: 100%;
 	}
     .project-view-button {
-        font-size: 16px;
+        font-size: 1rem;
         width: 50%;
     }
 	details[open] summary span.icon {
-		font-size: 16px;
+		font-size: 1rem;
 	}
 	#resume-pdf-viewer {
 		height: 100%;
@@ -208,7 +242,7 @@ a:hover {
         width: 100%;
     }
     .blog-post-content {
-        font-size: 20px;
+        font-size: 1.25rem;
         width: 85%;
     }
 }

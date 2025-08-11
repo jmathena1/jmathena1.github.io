@@ -2,15 +2,16 @@
 title: resume
 type: resume
 ---
-### SOFTWARE ENGINEER III
+### DIRECTOR OF ENGINEERING
 #### [2U, Inc.](https://2u.com) | Lanham, MD (remote)
-*01 / 2025 to present*   
+*07 / 2025 to present*  
+*01 / 2025 to 6 / 2025 as SOFTWARE ENGINEER III*  
 *03 / 2023 to 12/2024 as SOFTWARE ENGINEER II, BULK MANUAL PROCESSING TRACK LEAD*  
 *10 / 2022 to 02 / 2023 as SOFTWARE ENGINEER II*
-- Maintain and enhance data transformation platform that communicates application and decision data with partner universities
-- Led track of work responsible for bulk manual processing deployed as AWS Lambda functions using Python
-- Contribute features and review code for new enrollment System of Record (SOR) that reduces new degree program standup from weeks to a single day
-- Debug data discrepenacies using SQL, AWS CloudWatch, and DataDog between SOR, Salesforce, and Learning Management Systems like Canvas and Moodle
+- Supervise 2 business analysts and 7 software engineers on Partner Systems team
+- Assign bug and feature work to engineers
+- Organize technical documentation using Confluence, GSuite tools, and Lucidchart
+- Pair with engineers to provide technical guidance on tickets and training on new workflows
 
 ---
 
