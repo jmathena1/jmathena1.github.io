@@ -7,6 +7,9 @@ The steps to running this site locally are:
 2. Clone this repo
 3. Navigate to the root of the cloned repo and run `hugo serve` on the command line
 4. You should be able to open the home page on your machine's browser
+5. [optional] Run `npx -y pagefind --site ./public/wiki-pages` to see how my
+digital garden search powered by PageFind functions.
+    - you'll need `npm` installed for that
 
 Hugo's directory structure [documentation](https://gohugo.io/getting-started/directory-structure/) will tell you what you can find in each
 of the subfolders.

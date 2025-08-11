@@ -10,6 +10,7 @@ a little table of contents to quickly hop through everything.
 1. [Marimo rocks](#marimo)
 2. [Some gripes](#some-gripes)
 3. [Real Nerd Stuff](#nerd-stuff) 
+4. [New Job and Hiring](#new-job)
 
 ### Marimo rocks and you should try it {#marimo}
 I managed to crank out another Baltimore data project: this one looks at who owns the
@@ -19,16 +20,19 @@ city employee salary data a couple years ago, and felt pretty meh about them.
 - I had trouble reproducing other peoples' Jupyter notebooks in the past
 - They weren't very fast
 - The editor kept breaking on me
-I won't belabor the point, but I heard about Marimo on the Real Python podcast (I think?it may have been Changelog). I decided to give it a go.
 
-First off, I installed it with uv (which I am still loving!) and added any dependencies
-to my `pyproject.toml` file with a quick `uv add`. I really only needed like `numpy` and`duckdb` or some such. The command line tool made it easy to open tutorials, new notebooks, and more.
+I won't belabor the point, but I heard about Marimo on the Real Python podcast (I think?
+it may have been Changelog). I decided to give it a go.
+
+First off, I installed it with `uv` (which I am still loving!) and added any dependencies
+to my `pyproject.toml` file with a quick `uv add`. I really only needed like `numpy` and
+`duckdb` or some such. The command line tool made it easy to open tutorials, new notebooks, and more.
 
 Marimo is written in Python, so the diffs are easy to read and version control is more
 straightforward.
 
 You can also read data straight from CSVs into Polars/Pandas dataframes or run SQL using
-DuckDB. The SQL cell expose the results as dataframes that can be shared across the
+DuckDB. The SQL cell exposes the results as dataframes that can be shared across the
 notebook. However, Marimo is clever! I accidentally named a variable in a one cell the
 same as a dataframe output from a SQL query in another cell. Marimo threw an error!
 I was being careless and it stopped me! 
@@ -50,19 +54,20 @@ the war on using your brain: training and mentoring. I certainly don't want to l
 a world where GenAI bots are left to train the "developers of the future", so what are
 we to do? This one is long, but it's well worth the read. The second one is me all
 day every day working in Elon Musk and Sam Altman's tech industry. I don't think Tech
-was every the wonderful, meriotocratic field people made it out to be, but it sure
+was ever the wonderful, meriotocratic field people made it out to be, but it sure
 ain't now.
 - [https://xeiaso.net/blog/2025/rolling-ladder-behind-us/](https://xeiaso.net/blog/2025/rolling-ladder-behind-us/)
 - [https://paddy.carvers.com/posts/2025/07/ai/](https://paddy.carvers.com/posts/2025/07/ai/)
 
 Reading about poverty is no fun, but articles like the one below I find very valuable
 because they treat poverty like the very solvable issue that it is. The People's Policy
-Project has been doing great writing, analysis, and research on US Social Policy and
+Project has been doing great writing, analysis, and research on US social policy and
 the welfare state for years now. I'd also recommend Dr. Kathryn Edwards (@keds_economist) on most socials and her podcast, the Optimist Economy for more good economic policy
 talk and analysis.
 - [https://www.peoplespolicyproject.org/2019/09/16/the-us-welfare-state-cut-poverty-by-two-thirds-in-2018/](https://www.peoplespolicyproject.org/2019/09/16/the-us-welfare-state-cut-poverty-by-two-thirds-in-2018/)
 
-A UCLA professor wrote this advice for assisting people learning to use computers nearly30 years ago, but I'll be damned if every piece on that page doesn't hold true. Quick
+A UCLA professor wrote this advice for assisting people learning to use computers nearly
+30 years ago, but I'll be damned if every piece on that page doesn't hold true. Quick
 and well worth your time!
 - [https://pages.gseis.ucla.edu/faculty/agre/how-to-help.html](https://pages.gseis.ucla.edu/faculty/agre/how-to-help.html)
 
@@ -94,5 +99,32 @@ the original hacker ethos alive. The one below tells a tale of a house full of n
 deciding to hack their WiFi-enabled washing machine.
 - [https://nexy.blog/2025/07/27/how-i-hacked-my-washing-machine/](https://nexy.blog/2025/07/27/how-i-hacked-my-washing-machine/)
 
+Finally, I read a post about how a person's company uses a slack channel for informal
+chatting, code assitance (aka rubber ducking), and other communication. They called
+it the "digital water cooler". Might be something cool to try on my new team,
+especially with new members joining India and there being less working hour overlap.
+- [https://stephango.com/ramblings](https://stephango.com/ramblings)
 
+### New job and the state of hiring {#new-job}
+I am a people manager now! Senior leadership told my boss that she needed to give up
+all but one of the teams she was managing (at her peak, she had 3). She was a great
+boss (we still work fairly closely) so I was pretty bummed at first because I had
+grown accustomed to our team dynamic. But she put in a recommendation for me to replace
+her, and as we had been talking about my career path, I decided now was the time to
+see if people management suited me. This seemed like the right time and the right team.
+So far...very busy! I like the technical training, mentoring, and working across teams.
+Lots of meetings though...
 
+You win some, you lose some! But overall, it's going pretty well. And my great team
+is still my great team.
+
+This job announcement brings me to my final two links about hiring in tech. The first
+details the author's most important values and aspects of a hiring process and which
+interview methods and types they find most effective and appropriate for said values. I pretty much agreed with everything in here. Living coding is helpful when done during
+a pair program. I don't really think it's the best way to evaluate candidates in a job
+interview. I just think you get too many false negatives. And I say this as someone
+who has been told I interview well, technical and non-technical. I don't mean to brag,
+I say that to say: I've figured out how to survive this system, but it's not very good
+and we should do better.
+- [https://jyn.dev/an-engineers-perspective-on-hiring/](https://jyn.dev/an-engineers-perspective-on-hiring/)
+- [https://hadid.dev/posts/living-coding/](https://hadid.dev/posts/living-coding/)
