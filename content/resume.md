@@ -8,7 +8,7 @@ type: resume
 *01 / 2025 to 6 / 2025 as SOFTWARE ENGINEER III*  
 *03 / 2023 to 12/2024 as SOFTWARE ENGINEER II, BULK MANUAL PROCESSING TRACK LEAD*  
 *10 / 2022 to 02 / 2023 as SOFTWARE ENGINEER II*
-- Supervise 2 business analysts and 8 software engineers on Partner Systems team
+- Supervise 2 business analysts and 7 software engineers on Partner Systems team
 - Assign bug and feature work to engineers
 - Organize technical documentation using Confluence, GSuite tools, and Lucidchart
 - Pair with engineers to provide technical guidance on tickets and training on new workflows
