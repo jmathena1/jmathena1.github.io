@@ -10,7 +10,7 @@ tools:
       link: "https://https://docs.astral.sh/uv/"
 params:
     portfolioType: personal
-    projectLink: "https://livingwageforcitywork.johnwmathena.com"
+    projectLink: "https://bmorevacants.johnwmathena.com/"
 type: portfolio 
 ---
 #### Who owns the vacant homes in Baltimore City?
