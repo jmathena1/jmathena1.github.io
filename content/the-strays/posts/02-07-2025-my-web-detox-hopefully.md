@@ -1,6 +1,6 @@
 ---
 author: John Mathena
-date: 2025-02-07
+date: "2025-02-07"
 title: My Web Detox, hopefully
 ---
 
