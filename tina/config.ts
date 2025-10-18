@@ -68,6 +68,33 @@ export default defineConfig({
           path: "content/droppin-dimes/posts",
           fields: postSchema,
       },
+      {
+          name: "wiki_pages",
+          label: "Wiki Pages",
+          path: "content/wiki-pages",
+          fields: [
+              {
+                  type: "string",
+                  name: "title",
+                  label: "title",
+                  required: true,
+                  isTitle: true,
+              },
+              {
+                  type: "string",
+                  name: "wikiType",
+                  label: "wikiType",
+                  required: false,
+              },
+              {
+                  type: "rich-text",
+                  name: "body",
+                  label: "body",
+                  required: true,
+                  isBody: true,
+              },
+          ],
+      },
     ],
   },
 });
