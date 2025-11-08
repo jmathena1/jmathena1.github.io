@@ -30,6 +30,14 @@ p, h1, h2, h3, h4, h5, h6, ul, ol, blockquote, figure {
   overflow-wrap: break-word;
 }
 
+a {
+	color: #ff48a5;
+	text-decoration: none;
+} 
+a:hover {
+	text-decoration: underline;
+}
+
 :where(a[href], area, button, input:not([type="text"], [type="email"], [type="number"], [type="password"], [type=""], [type="tel"], [type="url"]), label[for], select, summary, [tabindex]:not([tabindex*="-"])) {
   cursor: pointer;
 }
@@ -40,15 +48,31 @@ p, h1, h2, h3, h4, h5, h6, ul, ol, blockquote, figure {
 }
 
 body {
-    display: flex;
-    flex-direction: column;
     font-family: Garamond, Georgia, 'Times New Roman', Serif;
     line-height: 1.6;
     margin: auto;
     max-width: 900px;
     min-height: 100%;
     padding: 0;
-    position: relative;
     width: 85%;
 	word-wrap: break-word;
 }
+
+.grid-wrapper {
+    display: grid;
+    height: auto;
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-template-rows: min-content auto min-content;
+}
+
+.main {
+	height: 100%;
+	font-size: 1.25rem;
+    grid-column: 1/2;
+    grid-row: 2/3;
+    margin: 1.5rem;
+    padding-bottom: 2.5rem;
+	text-align: left;
+}
+

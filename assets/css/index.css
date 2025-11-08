@@ -1,71 +1,8 @@
+@import "blog-poems";
 @import "global";
-
-/* shared */
-.website-header {
-	color: #000000;
-	width: 100%;
-}
-
-.homepage-title {
-	font-size: 2rem;
-}
-
-.nav-bar-menu {
-	display: flex;
-	flex-flow: row nowrap;
-	justify-content: flex-start;
-    padding-left: 0vw;
-    width: 100%;
-}
-
-.nav-bar-item {
-	display: flex;
-    font-size: 1.5rem;
-    font-weight: 550;
-    padding-right: 2.5vw;
-}
-
-.nav-bar-link {
-	display: flex;
-	text-decoration: none;
-}
-
-.nav-bar-link:hover {
-	text-decoration: underline;
-}
-
-.main {
-	height: 100%;
-	font-size: 1.25rem;
-    margin: 1.5rem;
-    padding-bottom: 2.5rem;
-	text-align: left;
-}
-
-#wiki-main.main {
-	text-align: center;
-}
-
-#wiki-post-main.main {
-	text-align: left;
-}
-
-#social-media-photo {
-    padding-right: 0.5vw;
-	width: 40px;
-}
-
-#social-media-photo:hover {
-	opacity: 0.7;
-}
-
-a {
-	color: #ff48a5;
-	text-decoration: none;
-} 
-a:hover {
-	text-decoration: underline;
-}
+@import "header";
+@import "portfolio";
+@import "wiki";
 
 .blog-logo-image {
 	width: 33%;
@@ -74,96 +11,6 @@ a:hover {
 .website-footer {
     margin-bottom: 5vh;
     margin-top: auto;
-    text-align: center;
-}
-
-/* portfolio */
-
-.project-view-button {
-	background-color: #000000;
-	border: none;
-	color: #F0ECE2;
-	padding: 15px 32px;
-	text-align: center;
-	text-decoration: none;
-	display: flex;
-	justify-content: center;
-	font-family: georgia, times-new-roman;
-	font-size: 1.25rem;
-	width: 25%;
-	margin-left: auto;
-	margin-right: auto;
-}
-
-.portfolio-header {
-	display: list-item;
-}
-
-#header.portfolio-header {
-	display: inline-block;
-}
-
-.portfolio-description {
-	width: 75%;
-	display: flex;
-	text-align: left;
-	flex-direction: column;
-	border-style: solid;
-	border-width: 1.25px; 
-	border-color: #000000;
-	padding: 10px;
-	margin-left: auto;
-	margin-right: auto;
-	background-image: linear-gradient(#F0ECE2, #FFFFFF);
-	box-shadow: 5px 5px 5px #808080;
-}
-
-.portfolio-item-title {
-	text-align:center;
-	text-decoration: underline;
-}
-
-.port-org-image {
-	display: block;
-	width: auto;
-	max-width: 100%;
-	height: 100%;
-	margin-left: auto;
-	margin-right: auto;
-}
-
-/* digital garden */
-.garden-section-header {
-	display: flex;
-	width: 50%;
-	text-align: center;
-	flex-direction: column;
-	border-style: solid;
-	border-width: 1.25px; 
-	border-color: #000000;
-	border-radius: 25px;
-	padding: 5px;
-	margin-left: auto;
-	margin-right: auto;
-	background-image: linear-gradient(45deg, #F0ECE2, #FFFFFF);
-	box-shadow: 5px 5px 5px #808080;
-}
-
-/* droppin dimes and the strays */
-.droppin-dimes-header {
-    text-align: left;
-}
-
-.post-content {
-    font-size: 1.125rem;
-    text-align: left;
-}
-
-.posts-list ul {
-    list-style-type: none;
-}
-
-.strays-header {
     text-align: center;
 }
 
@@ -207,4 +54,8 @@ a:hover {
         width: 85%;
     }
 }
+
+
+
+
 
