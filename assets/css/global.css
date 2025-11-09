@@ -61,7 +61,6 @@ body {
 .grid-wrapper {
     display: grid;
     height: auto;
-    display: grid;
     grid-template-columns: 1fr;
     grid-template-rows: min-content auto min-content;
 }
