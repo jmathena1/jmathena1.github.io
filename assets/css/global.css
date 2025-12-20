@@ -1,0 +1,77 @@
+/*
+clary sage - #acad97
+chesterfield green - #626439
+greek villa - #F0ECE2
+*/
+
+@viewport {
+	width: device-width;
+	zoom: 1.0;
+}
+
+html {
+	background-color: #F0ECE2;
+    box-sizing: border-box;
+    overflow-y: scroll;
+	height: 100%;
+}
+
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+/* necessary to support dividers when using flexbox */
+hr {
+    margin-left: 0;
+    margin-right: 0;
+}
+
+p, h1, h2, h3, h4, h5, h6, ul, ol, blockquote, figure {
+  overflow-wrap: break-word;
+}
+
+a {
+	color: #ff48a5;
+	text-decoration: none;
+} 
+a:hover {
+	text-decoration: underline;
+}
+
+:where(a[href], area, button, input:not([type="text"], [type="email"], [type="number"], [type="password"], [type=""], [type="tel"], [type="url"]), label[for], select, summary, [tabindex]:not([tabindex*="-"])) {
+  cursor: pointer;
+}
+
+:where(a[href], area, button, input, label[for], select, summary, textarea, [tabindex]:not([tabindex*="-"])) {
+  touch-action: manipulation;
+  -webkit-tap-highlight-color: transparent;
+}
+
+body {
+    font-family: Garamond, Georgia, 'Times New Roman', Serif;
+    line-height: 1.6;
+    margin: auto;
+    max-width: 900px;
+    min-height: 100%;
+    padding: 0;
+    width: 85%;
+	word-wrap: break-word;
+}
+
+.grid-wrapper {
+    display: grid;
+    height: auto;
+    grid-template-columns: 1fr;
+    grid-template-rows: min-content auto min-content;
+}
+
+.main {
+	height: 100%;
+	font-size: 1.25rem;
+    grid-column: 1/2;
+    grid-row: 2/3;
+    margin: 1.5rem;
+    padding-bottom: 2.5rem;
+	text-align: left;
+}
+

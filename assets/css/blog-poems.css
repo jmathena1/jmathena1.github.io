@@ -1,0 +1,23 @@
+/* droppin dimes and the strays */
+.blog-logo-image {
+	width: 33%;
+}
+
+droppin-dimes-header {
+    text-align: left;
+}
+
+.post-content {
+    font-size: 1.125rem;
+    text-align: left;
+}
+
+.posts-list ul {
+    list-style-type: none;
+}
+
+.strays-header {
+    text-align: center;
+}
+
+
