@@ -42,12 +42,10 @@ jobs:
 
       - name: Checkout website repository
         uses: actions/checkout@v4
+        with:
+          submodules: recursive
+          fetch-depth: 0
       
-      - name: Checkout submodules # only content, currently
-        run: |
-          git config --global --add url.https://github.com/.insteadOf git@github.com:
-          git submodule update --init --recursive --remote
-
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v5
