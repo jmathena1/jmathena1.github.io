@@ -1,18 +1,9 @@
 @import "blog-poems";
+@import "footer";
 @import "global";
 @import "header";
 @import "portfolio";
 @import "wiki";
-
-.blog-logo-image {
-	width: 33%;
-}
-
-.website-footer {
-    margin-bottom: 5vh;
-    margin-top: auto;
-    text-align: center;
-}
 
 @media (max-width: 465px) {
 	div.about-picture { 
