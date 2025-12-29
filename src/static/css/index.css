@@ -1,9 +1,9 @@
-@import "blog-poems";
-@import "footer";
-@import "global";
-@import "header";
-@import "portfolio";
-@import "wiki";
+@import "blog-poems.css";
+@import "footer.css";
+@import "global.css";
+@import "header.css";
+@import "portfolio.css";
+@import "wiki.css";
 
 @media (max-width: 465px) {
 	div.about-picture { 
