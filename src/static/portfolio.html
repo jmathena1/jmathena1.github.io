@@ -1,11 +1,6 @@
 <!doctype html>
 <html lang="en-US">
   <head>
-    <script
-      src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload"
-      data-no-instant
-      defer
-    ></script>
     <meta
       name="viewport"
       content="width=device-width, initial-scale=1.0"
@@ -13,7 +8,7 @@
     />
     <title>Johnny Dot Com</title>
 
-    <link rel="stylesheet" href="http://localhost:1313/css/index.min.css" />
+    <link rel="stylesheet" href="/css/index.css" />
     <link rel="icon" type="image/png" href="/photos/john-favicon.png" />
   </head>
 
@@ -30,7 +25,7 @@
             <a href="/portfolio" class="nav-bar-link">Portfolio</a>
           </li>
           <li id="resume-link" class="nav-bar-item">
-            <a href="/resume" class="nav-bar-link"> Resume </a>
+            <a href="/resume.html" class="nav-bar-link"> Resume </a>
           </li>
           <li id="wiki-link" class="nav-bar-item">
             <a href="/wiki-pages" class="nav-bar-link">Wiki</a>
@@ -55,67 +50,37 @@
     <br />
 
     <main id="portfolio-main" , class="main">
-      <details id="collapsible-sections">
-        <summary id="personal-projects" class="portfolio-header">
-          <h3 id="header" class="portfolio-header">Academic Projects</h3>
-        </summary>
 
-        <div id="balto-city-salaries" class="portfolio-description">
-          <h4 id="arabic-flagship-program---capstone-presentation">
-            Arabic Flagship Program - Capstone Presentation
-          </h4>
-          <figure class="port-org-image">
-            <a href="https://thelanguageflagship.org/arabic"
-              ><img src="/photos/the-language-flagship.png"
-            /></a>
-          </figure>
-
-          <p>
-            In May 2017, I gave a speech exploring my internship experience in
-            Meknes, Morocco as part of the Arabic Flagship Program. I compared
-            my legal internship and my internship with a local mechanic to the
-            experiences I had back in the US. The presentation was given
-            entirely in Arabic (mostly Modern Standard with some Moroccan
-            Darija).
-          </p>
-
+        <section id="flagship-capstone" class="portfolio-description">
           <a
             href="https://www.youtube.com/watch?v&#61;s7I41pv_LJU"
             target="_blank"
             style="text-decoration: none"
           >
-            <br />
-            <button class="project-view-button">View Project</button>
-            <br />
+            <h4 id="arabic-flagship-program---capstone-presentation">
+              Arabic Flagship Program - Capstone Presentation
+            </h4>
           </a>
-          <br />
-        </div>
+          <p>
+            Youtube recording of a speech exploring my internship experience in
+            Meknes, Morocco as part of the Arabic Flagship Program. Presentation given
+            entirely in Arabic (mostly Modern Standard with some Moroccan
+            Darija).
+          </p>
+        </section>
         <br />
 
-        <div id="balto-city-salaries" class="portfolio-description">
-          <h4 id="computational-text-analysis-of-arabic-newspapers">
-            Computational Text Analysis of Arabic Newspapers
-          </h4>
-          <figure class="port-org-image">
-            <a href="https://sllc.umd.edu"
-              ><img src="/photos/umd-logo.png"
-            /></a>
-          </figure>
-
-          <p>
-            In the fall of 2016, my group conducted a computational analysis of
-            news coverage surrounding the Arab Spring in Arabic language
-            newspapers. Our analysis demonstrated the dominance of Egyptian
-            protests across the Arab world. We used the R &ldquo;tm&rdquo;
-            package and the &ldquo;LDAvis&rdquo; package to run topic modelson
-            scraped newspaper articles. Click
-            <a
-              href="https://docs.google.com/document/d/1L_AP6QwbEjl6L40DUqTYfahEDxF95wPYLBhIXhksAs4/edit?usp=sharing"
-              >here</a
-            >
-            to see the original Google document. Click below for a clean PDF.
-          </p>
-          <div style="display: flex; justify-content: center">
+        <section id="computational-text-analysis of arabic newspapers" class="portfolio-description">
+          <a
+            href="/files/final-paper-arab-spring-news-analysis.pdf"
+            target="_blank"
+            style="text-decoration: none"
+          >
+            <h4 id="computational-text-analysis-of-arabic-newspapers">
+              Computational Text Analysis of Arabic Newspapers
+            </h4>
+          </a>
+          <div style="display: flex; justify-content: left">
             <a href="https://www.microsoft.com/en-us/microsoft-365/excel/">
               <img id="social-media-photo" src="/photos/excel-logo.png" />
             </a>
@@ -124,20 +89,14 @@
               <img id="social-media-photo" src="/photos/r-logo.svg" />
             </a>
           </div>
-
-          <a
-            href="/files/final-paper-arab-spring-news-analysis.pdf"
-            target="_blank"
-            style="text-decoration: none"
-          >
-            <br />
-            <button class="project-view-button">View Project</button>
-            <br />
-          </a>
-          <br />
-        </div>
+          <p>
+            Final paper detailing computational text 
+            analysis of news coverage surrounding 
+            the Arab Spring in Arabic language 
+            newspapers.
+          </p>
+        </section>
         <br />
-      </details>
 
       <details id="collapsible-sections">
         <summary id="personal-projects" class="portfolio-header">
