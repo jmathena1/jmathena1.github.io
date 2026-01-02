@@ -6,7 +6,7 @@ from frontmatter import Frontmatter
 from pathlib import Path
 
 
-OUTPUT_DIRECTORY = os.getenv("BUILD_DIR", "dist/")
+OUTPUT_DIRECTORY = os.getenv("BUILD_DIR", "public/")
 POST_SNIPPET = """
 <div class="post">
     <a href="/blog/{slug}/"><h3>{title}</h3></a>
