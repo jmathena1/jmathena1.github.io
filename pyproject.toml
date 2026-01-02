@@ -1,5 +1,5 @@
 [project]
-name = "johnny-dot-com"
+name = "build-johnny-dot-com"
 version = "1.0.0"
 description = "building a website the old fashioned way"
 requires-python = ">=3.14"
