@@ -10,20 +10,21 @@ from pathlib import Path
 OUTPUT_DIRECTORY = os.getenv("BUILD_DIR", "public/")
 POST_SNIPPET = """
 <div>
-    <a href="/{post_directory_name}/{slug}/"><h3>{title}</h3></a>
+    <a href="/{posts_directory_name}/{slug}/"><h3>{title}</h3></a>
     <div class="subtext">{date}</div>
 </div>
 """
 
 
-def build_content_site(content_title: str, post_directory_name: str, posts_directory_path: str,):
+def build_content_site(content_title: str, content_description: str, posts_directory_name: str,):
     # Load post template.
     with open("src/templates/post-template.html", "r") as file:
         post_template = file.read()
 
+    posts_directory_path = Path(f"src/{posts_directory_name}/posts")
     post_dates = []
     post_html_snippets = []
-    for file in Path(posts_directory_path).glob("*.md"):
+    for file in posts_directory_path.glob("*.md"):
         slug = Path(file).stem
 
         # Read the frontmatter to get the title and date
@@ -37,19 +38,19 @@ def build_content_site(content_title: str, post_directory_name: str, posts_direc
         post_html = post_template.format(
             title=title,
             date=date,
-            post_directory_name=post_directory_name,
+            posts_directory_name=posts_directory_name,
             content_title=content_title,
             content=formatted_content,
         )
 
         # Generate the HTML snippet for this post's link on the blog index.
         post_html_snippets.append(
-            POST_SNIPPET.format(post_directory_name=post_directory_name, slug=slug, title=title, date=date)
+            POST_SNIPPET.format(posts_directory_name=posts_directory_name, slug=slug, title=title, date=date)
         )
         post_dates.append(post["attributes"]["date"])
 
         # Write the formatted post to the output directory.
-        post_path = os.path.join(OUTPUT_DIRECTORY, post_directory_name, slug)
+        post_path = os.path.join(OUTPUT_DIRECTORY, posts_directory_name, slug)
         os.makedirs(post_path, exist_ok=True)
         with open(os.path.join(post_path, "index.html"), "w") as file:
             file.write(post_html)
@@ -61,8 +62,10 @@ def build_content_site(content_title: str, post_directory_name: str, posts_direc
     # Write the blog index HTML.
     with open("src/templates/index-template.html", "r") as file:
         index_template = file.read()
-    index_html = index_template.format(posts=str.join("\n", sorted_snippets))
-    with open(os.path.join(OUTPUT_DIRECTORY, post_directory_name, "index.html"), "w") as file:
+    index_html = index_template.format(content_title=content_title,
+                                       content_description=content_description,
+                                       posts=str.join("\n", sorted_snippets))
+    with open(os.path.join(OUTPUT_DIRECTORY, posts_directory_name, "index.html"), "w") as file:
         file.write(index_html)
 
 
@@ -77,8 +80,11 @@ def build():
     shutil.copytree("src/static/", OUTPUT_DIRECTORY)
 
     build_content_site(content_title="The Strays",
-               post_directory_name="the-strays",
-               posts_directory_path="src/the-strays/posts")
+                       content_description="The home of John Mathena's stray thoughts",
+                       posts_directory_name="the-strays")
+    build_content_site(content_title="Droppin Dimes",
+                       content_description="ludirous lyrical mastery",
+                       posts_directory_name="droppin-dimes")
     elapsed = time.perf_counter() - start
     print(f"Site build complete! ({elapsed:.2f} seconds)")
 
