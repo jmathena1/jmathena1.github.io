@@ -5,6 +5,7 @@ wikiType: parent
 
 [https://blackgirlbytes.dev/conquering-the-fear-of-contributing-to-open-source](
 https://blackgirlbytes.dev/conquering-the-fear-of-contributing-to-open-source)
+
 - very encouraging post about how to contribute to open source for the first time!
 - (2023-05-28) I'm still looking to make my first contribution but this post made me feel like I'm not the only 
 one who's nervous about it.
@@ -36,6 +37,7 @@ desktop and it wouldn't come up. but that may be just because I was using Window
 
 [https://hunden.linuxkompis.se/2024/08/22/my-distraction-free-way-of-following-channels-on-youtube.html](
 https://hunden.linuxkompis.se/2024/08/22/my-distraction-free-way-of-following-channels-on-youtube.html)
+
 - I started using Inoreader to follow the RSS feeds of all my favorite writers and bloggers that publish such a 
 feed. I do have a number of content creators on tiktok and youtube who I would love to add to a similar type of 
 feed for video content. I'll have to make some time for this. I've enjoyed curating a little collection of my 
@@ -43,6 +45,7 @@ favorite writers, artists, etc., and not just relying on The Algorithm to feed m
 
 [https://simplyexplained.com/blog/how-i-built-an-nfc-movie-library-for-my-kids/](
 https://simplyexplained.com/blog/how-i-built-an-nfc-movie-library-for-my-kids/)
+
 - i didn't fully understand everything that was happening in this article, but I've thought about how I would 
 recreate a home video library in the digital age. The trick is creating one that doesn't rely on a Google or 
 another platform that could just pull the rug out from under you and decide that movie isn't yours anymore. 

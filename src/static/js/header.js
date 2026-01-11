@@ -19,7 +19,7 @@ class Header extends HTMLElement {
                 <a href="/resume.html" class="nav-bar-link"> Resume </a>
               </li>
               <li id="wiki-link" class="nav-bar-item">
-                <a href="/wiki-pages" class="nav-bar-link">Wiki</a>
+                <a href="/wiki-pages/index.html" class="nav-bar-link">Wiki</a>
               </li>
             </ul>
           </nav>

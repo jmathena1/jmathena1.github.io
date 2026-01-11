@@ -11,8 +11,10 @@ soooo im storing it here
 [https://overthewire.org/wargames/](https://overthewire.org/wargames/)  
 [https://www.freecodecamp.org/news/improve-hacking-skills-by-playing-wargames/](
 https://www.freecodecamp.org/news/improve-hacking-skills-by-playing-wargames/)  
+
 [https://www.freecodecamp.org/news/hack-your-first-machine-a-guide-for-aspiring-security-enthusiasts/](
 https://www.freecodecamp.org/news/hack-your-first-machine-a-guide-for-aspiring-security-enthusiasts/)
+
 - some resources for practicing ethical hacking and getting some actual cybersecurity experience
 
 [https://jackcook.com/2024/11/09/bigger-fish.html](https://jackcook.com/2024/11/09/bigger-fish.html)

@@ -11,8 +11,10 @@ you are new to pandas/python and/or prefer visual examples when learning.
 
 [https://realpython.com/beautiful-soup-web-scraper-python/](
 https://realpython.com/beautiful-soup-web-scraper-python/)
+
 [https://realpython.com/python-web-scraping-practical-introduction/](
 https://realpython.com/python-web-scraping-practical-introduction/)
+
 - web scraping always sounded so cool but so beyond my capabilities as a programmer. these articles helped me get 
 my first scraper off the ground. very accesible for newer users of python.
 - my first scraper was actually needed for work. i had to scrape a database of phone numbers from a website to 
@@ -27,6 +29,7 @@ sure they can handle increasing complexity, etc.
 
 [https://labs.quansight.org/blog/building-scipy-with-flang](
 https://labs.quansight.org/blog/building-scipy-with-flang)
+
 - i didn't fully understand this piece the first time through. but i wanna come back to it as I grow as a developer.
 I did take away how much new development builds off work done often for free and/or many years or decades prior	and
 I've always found that so fascinating.

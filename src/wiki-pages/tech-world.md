@@ -4,9 +4,12 @@ wikiType: parent
 ---
 
 [https://logicmag.io/care/inside-the-paradise-bubble/](https://logicmag.io/care/inside-the-paradise-bubble/)
+
 [https://logicmag.io/scale/letter-from-shenzhen/](https://logicmag.io/scale/letter-from-shenzhen/)  
+
 [https://logicmag.io/bodies/tarek-loubani-on-3d-printing-in-gaza/](
 https://logicmag.io/bodies/tarek-loubani-on-3d-printing-in-gaza/)
+
 - (2023-05-24) outlets like logic magazine do such a good job of showcasing technology development and use beyond 
 just silicon valley. [rest of world](https://restofworld.org/) also does great writing and reporting in this area 
 so this page will probably showcase some of their stuff eventually. all these articles also put the person at the 

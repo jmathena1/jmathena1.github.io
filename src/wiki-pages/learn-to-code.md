@@ -23,6 +23,7 @@ now i just need a project to try with this. I'm sure I'll think of something
 
 [https://farawaytimes.blogspot.com/2023/02/how-to-make-good-small-games.html](
 https://farawaytimes.blogspot.com/2023/02/how-to-make-good-small-games.html)
+
 - one of the hosts of this video game podcast i started listening to mentioned this article. It's long, but well
 worth the read. i've long planned to try making some games and as this post points out, it's not only ok to start
 with something small, but encouraged! it's also ok for your game to remain small in scope. one day i'll make a 

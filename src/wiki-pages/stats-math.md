@@ -21,6 +21,7 @@ infinite time
 
 [https://towardsdatascience.com/mathematics-for-data-science-e53939ee8306](
 https://towardsdatascience.com/mathematics-for-data-science-e53939ee830)
+
 - medium post listing free (or cheap) resources to different maths essential to data science: linear algebra, 
 calculus, statistics, etc.
 [https://infinitedescent.xyz/about/](https://infinitedescent.xyz/about/)

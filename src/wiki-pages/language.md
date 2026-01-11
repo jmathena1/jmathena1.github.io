@@ -7,6 +7,7 @@ wikiType: parent
 
 [https://medium.com/@emilymenonbender/thought-experiment-in-the-national-library-of-thailand-f2bf761a8a83](
 https://medium.com/@emilym<br>enonbender/thought-experiment-in-the-national-library-of-thailand-f2bf761a8a83)
+
 - coming from Linguistics, I'm equal parts fascinated by computers' capabilities using language and frustrated 
 by the things people insist computers do when they really don't. Dr. Emily Bender here writes a very compelling 
 thought experiment demonstrating that LLMs (large language models) like ChatGPT don't really "understand" 

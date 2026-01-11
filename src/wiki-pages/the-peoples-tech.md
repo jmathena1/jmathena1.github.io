@@ -3,6 +3,7 @@ title: the people's tech
 wikiType: parent
 ---
 [https://www.publicbooks.org/letting-go-of-technochauvinism](https://www.publicbooks.org/letting-go-of-technochauvinism/)
+
 - very succinct breakdown of the limits of computers. goes into human-in-the-loop systems and how to know when something just 
 needs to be done by a person. hint: it's a lot more often than many want to admit.
 - The author, Dr. Meredith Broussard, wrote a deeper dive into dumb computers in [Artificial Unintelligence](
@@ -11,6 +12,7 @@ it out and like it let me know.
 
 [https://logicmag.io/play/raul-espejo-on-cybernetic-socialism-in-allendes-chile](
 https://logicmag.io/play/raul-espejo-on-cybernetic-socialism-in-allendes-chile/)
+
 - Project Cybersyn is criminally underdiscussed in the tech and lefty circles in which I've found myself. the chilean people 
 democratically elected a socialist in 1970 (albeit narrowly) and the president directly appointed a team to modernize the 
 economy using IT.
@@ -42,6 +44,7 @@ work. she covers that too
 
 [https://www.newyorker.com/culture/the-weekend-essay/why-ai-isnt-going-to-make-art](
 https://www.newyorker.com/culture/the-weekend-essay/why-ai-isnt-going-to-make-art)
+
 - There's definitely a lot of charged writing you can find out there on AI, in either direction. What I like about Ted Chiang's 
 AI writing is that I think it's on point (He's underwelmed by it, as am I), but he's incredibly measured and deliberate in his 
 explanation of Gen AI's shortcomings. I personally have no problems with the more vitriolic takedowns (the hype cycle we've been 

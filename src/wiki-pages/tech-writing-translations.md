@@ -34,5 +34,6 @@ use of plain language in US federal government communcation. a very noble pursui
 
 [https://www.freecodecamp.org/news/localization-book-how-to-translate-your-website](
 https://www.freecodecamp.org/<br>news/localization-book-how-to-translate-your-website)
+
 - freeCodeCamp made a whole book on localization! for free! they also have a section at end detailing how you can 
 contribute to freeCodeCamp itself with translations. very savvy

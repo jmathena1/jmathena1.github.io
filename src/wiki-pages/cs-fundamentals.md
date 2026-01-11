@@ -3,6 +3,7 @@ title: cs fundamentals
 ---
 [https://www.freecodecamp.org/news/what-every-software-engineer-should-know/](
 https://www.freecodecamp.org/news/what-every-software-engineer-should-know/)
+
 [https://teachyourselfcs.com/](https://teachyourselfcs.com/)
 
 - (2023-08-06) Some guardian angels took the liberty of assembling a free CS curriculum. There's links to textbooks
@@ -18,6 +19,7 @@ and practical.
 
 [https://planetscale.com/blog/btrees-and-database-indexes](
 https://planetscale.com/blog/btrees-and-database-indexes)
+
 - story time! i blanked on a technical interview question a couple job applications ago. It involved reversing a 
 Binary Tree (B Tree). It's a pretty standard question for devs with a CS background. But if you haven't worked 
 with tree data structures much, well...you're lost. After that interview, I read all I could about trees and got 

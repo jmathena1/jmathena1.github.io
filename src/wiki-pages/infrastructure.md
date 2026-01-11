@@ -4,8 +4,10 @@ title: infrastructure
 
 [https://www.freecodecamp.org/news/a-practical-guide-to-containers-dfa66d37ac30](
 https://www.freecodecamp.org/news/a-practical-guide-to-containers-dfa66d37ac30/)
+
 [https://www.freecodecamp.org/news/what-is-docker-used-for-a-docker-container-tutorial-for-beginners](
 https://www.freecodecamp.org/news/what-is-docker-used-for-a-docker-container-tutorial-for-beginners/)
+
 - Docker and containers are another concept I've heard for years since getting into coding and never quite wrapped 
 my head around...until I stopped being lazy and searched for articles on freeCodeCamp! If you've looked at all 
 the posts, I imagine this site just looks like free advertising for freeCodeCamp. And well if you feel some kinda 
