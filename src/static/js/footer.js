@@ -20,7 +20,6 @@ class Footer extends HTMLElement {
             src="https://mirrors.creativecommons.org/presskit/icons/sa.svg"
             style="max-width: 1em; max-height: 1em; margin-left: 0.2em"
           />
-        <
     `;
   }
 }
