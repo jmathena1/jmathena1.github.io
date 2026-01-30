@@ -6,13 +6,13 @@ wikiType: parent
 - I majored in Linguistics in college, so I gotta keep a special place here on my site for cool language nerd stuff.
 
 [https://medium.com/@emilymenonbender/thought-experiment-in-the-national-library-of-thailand-f2bf761a8a83](
-https://medium.com/@emilym<br>enonbender/thought-experiment-in-the-national-library-of-thailand-f2bf761a8a83)
+https://medium.com/@emilymenonbender/thought-experiment-in-the-national-library-of-thailand-f2bf761a8a83)
 
 - coming from Linguistics, I'm equal parts fascinated by computers' capabilities using language and frustrated 
 by the things people insist computers do when they really don't. Dr. Emily Bender here writes a very compelling 
 thought experiment demonstrating that LLMs (large language models) like ChatGPT don't really "understand" 
 human language. They merely manipulate its form. Ted Chiang makes a similar point about how computers really 
-process information in this [New Yorker article<](
+process information in this [New Yorker article](
 https://www.newyorker.com/tech/annals-of-technology/chatgpt-is-a-blurry-jpeg-of-the-web/).
 
 [https://github.com/catatsuy/purl](https://github.com/catatsuy/purl)
@@ -24,6 +24,7 @@ which is a Mac. well this certainly got off topic huh?
 
 [https://lareviewofbooks.org/article/weird-nonfiction/](
 https://lareviewofbooks.org/article/weird-nonfiction/)
+
 - a friend told me a story about seeing a documentary claiming mermaids were real on the Discovery channel. they
 said it was presented not as a mocumentary or anything, making it a very odd watch. that documentary definitely
 fits the category described in this piece.

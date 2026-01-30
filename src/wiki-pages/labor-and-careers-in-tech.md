@@ -14,6 +14,7 @@ stop the men from taking over once industry thought they could make money with t
 
 [https://logicmag.io/justice/tressie-mcmillan-cottom-on-teaching-technology/](
 https://logicmag.io/justice/tressie-mcmillan-cottom-on-teaching-technology/)
+
 - social impacts of technology or otherwise, dr. tressie mcmillan cottom is one of our best contemporary social 
 scientsts - she's a sociologist by training. her book of essays [Thick](https://thenewpress.com/books/thick/)
 is a great read and she has a book [Lower Ed](https://thenewpress.com/books/lower-ed/) mentioned in the article that
