@@ -59,3 +59,8 @@ This would be fun to try an implement on a small scale.
 
 - (2026-01-30) if I ever get around to moving my code repos off of github, codeberg at the very least 
 would pretty much require me to host my own CI/CD. so this forgejo runner seems like the move
+
+[https://danieldelaney.net/normal/](https://danieldelaney.net/normal/)
+
+- can confirm that it is sometimes intimidating to use OSS tools that have chunky or unintuitive UIs
+

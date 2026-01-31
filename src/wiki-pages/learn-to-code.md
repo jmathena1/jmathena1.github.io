@@ -57,3 +57,11 @@ years and on and off for about eight years. There's an advanced section that goe
 [https://pico.sh/](https://pico.sh/)
 
 - what if your personal sites and project sites were accessible via a TUI when deployed? very intriguing
+
+[https://www.gamedeveloper.com/programming/dirty-coding-tricks](https://www.gamedeveloper.com/programming/dirty-coding-tricks)
+
+- 9 hacky things game devs have done to end the crunch once and for all
+
+[https://www.brethorsting.com/blog/2026/01/git-rebase-for-the-terrified/](https://www.brethorsting.com/blog/2026/01/git-rebase-for-the-terrified/)
+
+- i do get terrified rebasing sometimes and I'm not afraid to admit it

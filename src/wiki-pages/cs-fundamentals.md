@@ -30,3 +30,7 @@ for B Trees. with interactive demonstrations! and a whole dedicated site for the
 [https://lexi-lambda.github.io/blog/2019/11/05/parse-don-t-validate/](https://lexi-lambda.github.io/blog/2019/11/05/parse-don-t-validate/)
 
 - designer of Zod illustrates the value of type driven design. i feel like this is especially usefuly  in data intensive applications
+
+[https://samwho.dev/big-o/](https://samwho.dev/big-o/)
+
+- really cool interactive explaination on Big O notation

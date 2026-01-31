@@ -21,3 +21,7 @@ save you some time!
 
 - JS library for creating QR codes. I'd like to return to this and create a QR code that directs people to my website and/or some of my 
 socials and contact information. I could carry that around on my phone or put it on a cool business card to easily share my info
+
+[https://lackofimagination.org/2025/11/managing-side-effects-a-javascript-effect-system-in-30-lines-or-less/](https://lackofimagination.org/2025/11/managing-side-effects-a-javascript-effect-system-in-30-lines-or-less/)
+
+- i feel like i should learn elixir or haskell next after reading this

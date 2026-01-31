@@ -15,3 +15,11 @@ thus far. it features both commentary on the cultural and political aspects of t
 rather than just mindless tracking and whatever work is handed down from above. several of the hardware art projects
 detailed are linked as well as more reading on experimenting with hardware, libraries the author built, 60s 
 cyberculture, history of computing, and more! it's a fun quick read
+
+[https://anubis.techaro.lol/blog/2025/cpu-core-odd/](https://anubis.techaro.lol/blog/2025/cpu-core-odd/)
+
+- this combines two of my favorite things: learning about hardware and weird bugs!
+
+[https://blog.pixelmelt.dev/kindle-web-drm/](https://blog.pixelmelt.dev/kindle-web-drm/)
+
+- this is so sad and also so informative. this dude hacked his kindle

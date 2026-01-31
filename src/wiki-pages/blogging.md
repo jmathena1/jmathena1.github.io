@@ -21,3 +21,15 @@ future work! I'll be sure to link any sites I push out using this framework here
 [https://andregarzia.com/2025/06/experimenting-with-no-build-web-applications.html](https://andregarzia.com/2025/06/experimenting-with-no-build-web-applications.html)
 
 - for if i ever get tired of Hugo, lol
+
+[https://blog.clew.se/posts/secret-web/](https://blog.clew.se/posts/secret-web/)
+
+- this blogger treats us to a bit of a metapost about finding neat stuff on the web outside the giant walled garden platforms
+we all know and love
+
+[https://www.writerdeck.org/](https://www.writerdeck.org/)
+
+
+[https://blakewatson.com/notes/3bcc26ab/](https://blakewatson.com/notes/3bcc26ab/)
+
+- (2026-01-30) this made me get tired of hugo and i rebuilt my site again!
