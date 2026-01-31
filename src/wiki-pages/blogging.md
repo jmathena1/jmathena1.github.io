@@ -2,6 +2,7 @@
 title: blogging
 wikiType: parent
 ---
+[https://jmcglone.com/guides/github-pages/](https://jmcglone.com/guides/github-pages/)
 
 - I didn't follow this tutorial exactly when building my blogs on this site.
 - But I completed some of the steps and ended up hosting on GitHub Pages (so easy!).

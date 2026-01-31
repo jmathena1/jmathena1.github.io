@@ -75,8 +75,8 @@ def build_wiki(content_title: str, content_description: str,
                           pair: pair[0])
     sorted_snippets = [pair[1] for pair in sorted_pairs]
 
-    # Write the blog index HTML.
-    with open("src/templates/index-template.html", "r") as file:
+    # Write the wiki index HTML.
+    with open("src/wiki-index.html", "r") as file:
         index_template = file.read()
     index_html = index_template.format(content_title=content_title,
                                        content_description=content_description,
@@ -136,7 +136,7 @@ def build_content_site(content_title: str, content_description: str,
     sorted_snippets = [pair[1] for pair in sorted_pairs]
 
     # Write the blog index HTML.
-    with open("src/templates/index-template.html", "r") as file:
+    with open("src/blog-index.html", "r") as file:
         index_template = file.read()
     index_html = index_template.format(content_title=content_title,
                                        content_description=content_description,
