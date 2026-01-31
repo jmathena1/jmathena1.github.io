@@ -54,3 +54,8 @@ This would be fun to try an implement on a small scale.
 [https://asteriskmag.com/issues/08/the-depths-of-wikipedians](https://asteriskmag.com/issues/08/the-depths-of-wikipedians)
 
 - great interview with a great twitter account that surfaces very obscure, yet detailed pages on wikipedia
+
+[https://robey.lag.net/2025/08/10/forgejo-ci.html](https://robey.lag.net/2025/08/10/forgejo-ci.html)
+
+- (2026-01-30) if I ever get around to moving my code repos off of github, codeberg at the very least 
+would pretty much require me to host my own CI/CD. so this forgejo runner seems like the move

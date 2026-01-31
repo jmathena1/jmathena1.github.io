@@ -26,3 +26,7 @@ i think this may have been a [Hacker News](https://news.ycombinator.com/) find?
 https://softwareengineering.stackexchange.com/questions/69788/what-is-the-history-of-the-use-of-foo-and-bar-in-source-code-examples)
 
 - this is just hilarious
+
+[https://permacomputing.net](https://permacomputing.net)
+
+- seemed interesting and definitely like the idea of making my computing practices more sustainable, maintainable, and so on

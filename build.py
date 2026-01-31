@@ -93,14 +93,13 @@ def build_content_site(content_title: str, content_description: str,
         # Read the frontmatter to get the title and date
         post = Frontmatter.read_file(file)
         title = post["attributes"]["title"]
-        date = post["attributes"]["date"].strftime("%B %d, %Y")
-
+        date = post["attributes"]["date"]
         # Convert the doc to HTML with Pandoc.
         doc = pandoc.read(source=post["body"], format="markdown")
         formatted_content = pandoc.write(doc, format="html")
         post_html = post_template.format(
             title=title,
-            date=date,
+            date=date.strftime("%B %d, %Y"),
             posts_directory_name=posts_directory_name,
             content_title=content_title,
             content=formatted_content,
@@ -108,7 +107,9 @@ def build_content_site(content_title: str, content_description: str,
 
         # Generate the HTML snippet for this post's link on the blog index.
         post_html_snippets.append(
-            POST_SNIPPET.format(posts_directory_name=posts_directory_name, slug=slug, title=title, date=date)
+            POST_SNIPPET.format(posts_directory_name=posts_directory_name,
+                                slug=slug, title=title,
+                                date=date.strftime("%B %d, %Y")),
         )
         post_dates.append(date)
 
