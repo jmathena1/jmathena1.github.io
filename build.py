@@ -1,4 +1,3 @@
-import json
 import os
 import shutil
 import pandoc
@@ -64,12 +63,6 @@ def build_wiki(content_title: str, content_description: str,
         with open(os.path.join(post_path, "index.html"), "w") as file:
             file.write(post_html)
 
-        # Add entry to wiki docs index
-        wiki_docs.append({
-            'title': title,
-            'content': post["body"]
-            })
-
     # Sort the post snippets by ascending title.
     sorted_pairs = sorted(zip(post_titles, post_html_snippets), key=lambda
                           pair: pair[0])
@@ -83,12 +76,6 @@ def build_wiki(content_title: str, content_description: str,
                                        posts=str.join("\n", sorted_snippets))
     with open(os.path.join(OUTPUT_DIRECTORY, posts_directory_name, "index.html"), "w") as file:
         file.write(index_html)
-
-    # Write wiki docs to index JSON
-    with open(os.path.join(OUTPUT_DIRECTORY, posts_directory_name,
-                           "wiki-index.json"), "w") as file:
-        file.write(json.dumps(wiki_docs))
-
 
 def build_content_site(content_title: str, content_description: str,
                        posts_directory_name: str):

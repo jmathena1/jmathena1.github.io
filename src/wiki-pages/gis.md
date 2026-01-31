@@ -1,7 +1,7 @@
 ---
 title: gis
+wikiType: parent
 ---
-### [home garden]( {{< ref "/wiki-pages" >}} ) / {{< param "title" >}}
 
 [https://programminghistorian.org/en/lessons/mapping-with-python-leaflet
 ](https://programminghistorian.org/en<br>/lessons/mapping-with-python-leaflet)
