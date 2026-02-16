@@ -38,3 +38,7 @@ has worked fine for me and it's more batteries included. I could probably do som
 too fuzzy right now, but that's a problem for another day.
 
 Now I just gotta deploy the dang thing! I'll come back here if I have any problems I guess. Fingers crossed!
+
+### UPDATE post deploy
+
+This literally built successfully on the first run! Hooray!
