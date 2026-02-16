@@ -12,11 +12,29 @@ for the post I used as insipiration for this refactor.
 
 [https://www.vijayp.dev/blog/rewrite-plain-html/](https://www.vijayp.dev/blog/rewrite-plain-html/)
 
-## Creating a `src` directory and tidying up
+### Creating a `src` directory and tidying up
 
 I created a copy of my hugo generated `public` directory and used it as reference for both the templates I applied to my
 markdown files and the generated HTML files resulting from my build script. After creating a `src` directory and an `index.html`
 file, I moved my assets and made sure my home page rendered as expected. Then I needed to focus on the other main pages on my
 site that are in my navigation bar my resume, my portfolio, and my wiki/digital garden (though I actually did a lot of this last).
 
+### Refactoring `build.py` script for my site
 
+I didn't have to change too much. I write a traditional blog, poetry page, and a wiki / digital garden. The blog and poems
+use the same page layout and almost the same CSS. So I made the build script Vijay provided reusable for both sites' content.
+I created a separate build function for the wiki pages, since they're quite different. Overall, still a very short script, topping
+out around 159 lines or so.
+
+### Web components for header and footer
+I didn't have Hugo to make partials anymore, so I decided to use some JS to write web components for my header and footer.
+This does mean that my `head.html` is a bit redundant on each page, but since I'm using html templates and Pandoc to generate so
+many when I run `make build`, it works fine.
+
+### Rebuilding my wiki search
+I tried fiddling with `lunar.js` and got pretty far along. I generated the index, just needed to build the actual search box and then
+I guess the build steps on deploy. But I realized I could just use PageFind like I had been with Hugo, so I went with that. PageFind
+has worked fine for me and it's more batteries included. I could probably do some work on the search results. I think it is a little
+too fuzzy right now, but that's a problem for another day.
+
+Now I just gotta deploy the dang thing! I'll come back here if I have any problems I guess. Fingers crossed!
