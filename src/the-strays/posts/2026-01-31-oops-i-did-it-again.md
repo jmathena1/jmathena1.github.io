@@ -17,6 +17,6 @@ for the post I used as insipiration for this refactor.
 I created a copy of my hugo generated `public` directory and used it as reference for both the templates I applied to my
 markdown files and the generated HTML files resulting from my build script. After creating a `src` directory and an `index.html`
 file, I moved my assets and made sure my home page rendered as expected. Then I needed to focus on the other main pages on my
-site that are in my navigation bar: my resume, my portfolio, and my wiki/digital garden (though I actually did a lot of this last).
+site that are in my navigation bar my resume, my portfolio, and my wiki/digital garden (though I actually did a lot of this last).
 
 
