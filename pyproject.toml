@@ -1,0 +1,11 @@
+[project]
+name = "build-johnny-dot-com"
+version = "1.0.0"
+description = "building a website the old fashioned way"
+requires-python = ">=3.14"
+dependencies = [
+    "frontmatter>=3.0.8",
+    "pagefind[extended]>=1.4.0",
+    "pandoc>=2.4",
+    "requests>=2.32.5",
+]
