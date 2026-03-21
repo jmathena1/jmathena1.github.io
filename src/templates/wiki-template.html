@@ -14,10 +14,13 @@
     <script type="text/javascript" src="/js/footer.js"></script>
   </head>
 
-  <body class="grid-wrapper">
+  <body class="grid-wrapper wiki-page">
     <custom-header></custom-header>
-    <main id="wiki-post-main" class="main">
-      <h3><a href="/wiki-pages/index.html">home garden</a> / {title}</h3>
+    <main id="wiki-post-main" class="main" data-pagefind-body>
+      <h3 data-pagefind-ignore>
+        <a href="/wiki-pages/index.html">home garden</a> / 
+        <span data-pagefind-meta="title">{title}</span>
+      </h3>
       {content}
     </main>
     <br />
