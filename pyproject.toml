@@ -9,3 +9,10 @@ dependencies = [
     "pandoc>=2.4",
     "requests>=2.32.5",
 ]
+
+[project.optional-dependencies]
+dev = [
+    "fastapi>=0.104.0",
+    "uvicorn[standard]>=0.24.0",
+    "watchfiles>=0.20.0",
+]
