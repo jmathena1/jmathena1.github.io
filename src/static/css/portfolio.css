@@ -14,8 +14,15 @@
 	margin-right: auto;
 }
 
-.portfolio-header {
-  display: list-item;
+summary {
+	display: flex;
+	align-items: center;
+	gap: 0.5rem;
+}
+
+summary h3 {
+	margin: 0;
+	display: inline;
 }
 
 .portfolio-description {
