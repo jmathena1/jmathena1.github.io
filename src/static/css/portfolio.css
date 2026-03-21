@@ -14,17 +14,6 @@
 	margin-right: auto;
 }
 
-summary {
-	display: flex;
-	align-items: center;
-	gap: 0.5rem;
-}
-
-summary h3 {
-	margin: 0;
-	display: inline;
-}
-
 .portfolio-description {
 	width: 75%;
 	display: flex;
