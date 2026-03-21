@@ -18,10 +18,6 @@
 	display: list-item;
 }
 
-#header.portfolio-header {
-	display: inline-block;
-}
-
 .portfolio-description {
 	width: 75%;
 	display: flex;
