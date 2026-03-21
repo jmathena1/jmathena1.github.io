@@ -43,10 +43,6 @@ a < img {
   text-decoration: none;
 }
 
-summary {
-  font-size: 2.25rem;
-}
-
 :where(a[href], area, button, input:not([type="text"], [type="email"], [type="number"], [type="password"], [type=""], [type="tel"], [type="url"]), label[for], select, summary, [tabindex]:not([tabindex*="-"])) {
   cursor: pointer;
 }
