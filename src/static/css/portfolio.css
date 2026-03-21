@@ -14,10 +14,6 @@
 	margin-right: auto;
 }
 
-.portfolio-header {
-  display: list-item;
-}
-
 .portfolio-description {
 	width: 75%;
 	display: flex;
