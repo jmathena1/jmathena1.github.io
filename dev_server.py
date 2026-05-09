@@ -1,12 +1,10 @@
 import asyncio
 import logging
-import re
 import subprocess
 from pathlib import Path
 from typing import Set
 
 from fastapi import FastAPI, WebSocket
-from fastapi.staticfiles import StaticFiles
 from fastapi.responses import FileResponse
 from watchfiles import awatch
 

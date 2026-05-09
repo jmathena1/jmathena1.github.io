@@ -8,6 +8,7 @@ dependencies = [
     "pagefind[extended]>=1.4.0",
     "pandoc>=2.4",
     "requests>=2.32.5",
+    "ruff>=0.15.12",
 ]
 
 [project.optional-dependencies]
@@ -16,3 +17,6 @@ dev = [
     "uvicorn[standard]>=0.24.0",
     "watchfiles>=0.20.0",
 ]
+
+[tool.ruff.lint]
+extend-select = ["B"]
