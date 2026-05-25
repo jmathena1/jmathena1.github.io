@@ -7,5 +7,14 @@ dependencies = [
     "frontmatter>=3.0.8",
     "pagefind[extended]>=1.4.0",
     "pandoc>=2.4",
-    "requests>=2.32.5",
+    "requests>=2.32.5"
+    ]
+
+[project.optional-dependencies]
+dev = [
+    "livereload>=2.7.1",
+    "ruff>=0.15.12",
 ]
+
+[tool.ruff.lint]
+extend-select = ["B"]

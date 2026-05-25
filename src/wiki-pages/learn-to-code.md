@@ -65,3 +65,8 @@ years and on and off for about eight years. There's an advanced section that goe
 [https://www.brethorsting.com/blog/2026/01/git-rebase-for-the-terrified/](https://www.brethorsting.com/blog/2026/01/git-rebase-for-the-terrified/)
 
 - i do get terrified rebasing sometimes and I'm not afraid to admit it
+
+[https://learnxinyminutes.com/](https://learnxinyminutes.com/)
+
+- this is gonna be my new go-to anytime I need a quick primer for an unfamiliar
+  language
