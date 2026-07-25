@@ -4,9 +4,46 @@ chesterfield green - #626439
 greek villa - #F0ECE2
 */
 
-@viewport {
-	width: device-width;
-	zoom: 1.0;
+/* Self-hosted Literata variable font (weights 200-900, optical size 7-72). */
+
+/* latin */
+@font-face {
+  font-family: Literata;
+  font-style: normal;
+  font-weight: 200 900;
+  font-display: swap;
+  src: url('/fonts/literata/literata-latin.woff2') format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
+/* latin-ext */
+@font-face {
+  font-family: Literata;
+  font-style: normal;
+  font-weight: 200 900;
+  font-display: swap;
+  src: url('/fonts/literata/literata-latin-ext.woff2') format('woff2');
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+
+/* latin (italic) */
+@font-face {
+  font-family: Literata;
+  font-style: italic;
+  font-weight: 200 900;
+  font-display: swap;
+  src: url('/fonts/literata/literata-italic-latin.woff2') format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
+/* latin-ext (italic) */
+@font-face {
+  font-family: Literata;
+  font-style: italic;
+  font-weight: 200 900;
+  font-display: swap;
+  src: url('/fonts/literata/literata-italic-latin-ext.woff2') format('woff2');
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
 }
 
 html {
@@ -14,9 +51,10 @@ html {
     box-sizing: border-box;
     overflow-y: scroll;
 	height: 100%;
+	font-optical-sizing: auto;
 }
 
-*, *:before, *:after {
+*, *::before, *::after {
   box-sizing: inherit;
 }
 
@@ -39,7 +77,7 @@ a:hover {
 	text-decoration: underline;
 }
 
-a < img {
+a:has(img):hover {
   text-decoration: none;
 }
 
@@ -53,14 +91,14 @@ a < img {
 }
 
 body {
-    font-family: Garamond, Georgia, 'Times New Roman', Serif;
+    font-family: Literata, Garamond, Georgia, 'Times New Roman', serif;
     line-height: 1.6;
     margin: auto;
     max-width: 900px;
     min-height: 100%;
     padding: 0;
     width: 85%;
-	word-wrap: break-word;
+	overflow-wrap: break-word;
 }
 
 .grid-wrapper {
