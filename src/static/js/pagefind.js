@@ -1,3 +1,3 @@
-window.addEventListener('DOMContentLoaded', (event) => {
+window.addEventListener("DOMContentLoaded", (event) => {
   new PagefindUI({ element: "#search", showSubResults: true });
 });

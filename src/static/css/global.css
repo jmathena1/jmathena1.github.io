@@ -12,8 +12,11 @@ greek villa - #F0ECE2
   font-style: normal;
   font-weight: 200 900;
   font-display: swap;
-  src: url('/fonts/literata/literata-latin.woff2') format('woff2');
-  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+  src: url("/fonts/literata/literata-latin.woff2") format("woff2");
+  unicode-range:
+    U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC,
+    U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212,
+    U+2215, U+FEFF, U+FFFD;
 }
 
 /* latin-ext */
@@ -22,8 +25,11 @@ greek villa - #F0ECE2
   font-style: normal;
   font-weight: 200 900;
   font-display: swap;
-  src: url('/fonts/literata/literata-latin-ext.woff2') format('woff2');
-  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+  src: url("/fonts/literata/literata-latin-ext.woff2") format("woff2");
+  unicode-range:
+    U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304,
+    U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB,
+    U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
 }
 
 /* latin (italic) */
@@ -32,8 +38,11 @@ greek villa - #F0ECE2
   font-style: italic;
   font-weight: 200 900;
   font-display: swap;
-  src: url('/fonts/literata/literata-italic-latin.woff2') format('woff2');
-  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+  src: url("/fonts/literata/literata-italic-latin.woff2") format("woff2");
+  unicode-range:
+    U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC,
+    U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212,
+    U+2215, U+FEFF, U+FFFD;
 }
 
 /* latin-ext (italic) */
@@ -42,79 +51,120 @@ greek villa - #F0ECE2
   font-style: italic;
   font-weight: 200 900;
   font-display: swap;
-  src: url('/fonts/literata/literata-italic-latin-ext.woff2') format('woff2');
-  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+  src: url("/fonts/literata/literata-italic-latin-ext.woff2") format("woff2");
+  unicode-range:
+    U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304,
+    U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB,
+    U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
 }
 
 html {
-	background-color: #F0ECE2;
-    box-sizing: border-box;
-    overflow-y: scroll;
-	height: 100%;
-	font-optical-sizing: auto;
+  background-color: #f0ece2;
+  box-sizing: border-box;
+  overflow-y: scroll;
+  height: 100%;
+  font-optical-sizing: auto;
 }
 
-*, *::before, *::after {
+*,
+*::before,
+*::after {
   box-sizing: inherit;
 }
 
 /* necessary to support dividers when using flexbox */
 hr {
-    margin-left: 0;
-    margin-right: 0;
+  margin-left: 0;
+  margin-right: 0;
 }
 
-p, h1, h2, h3, h4, h5, h6, ul, ol, blockquote, figure {
+p,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+ul,
+ol,
+blockquote,
+figure {
   overflow-wrap: break-word;
 }
 
 a {
-	color: #ff48a5;
-	text-decoration: none;
-} 
+  color: #ff48a5;
+  text-decoration: none;
+}
 
 a:hover {
-	text-decoration: underline;
+  text-decoration: underline;
 }
 
 a:has(img):hover {
   text-decoration: none;
 }
 
-:where(a[href], area, button, input:not([type="text"], [type="email"], [type="number"], [type="password"], [type=""], [type="tel"], [type="url"]), label[for], select, summary, [tabindex]:not([tabindex*="-"])) {
+:where(
+  a[href],
+  area,
+  button,
+  input:not(
+    [type="text"],
+    [type="email"],
+    [type="number"],
+    [type="password"],
+    [type=""],
+    [type="tel"],
+    [type="url"]
+  ),
+  label[for],
+  select,
+  summary,
+  [tabindex]:not([tabindex*="-"])
+) {
   cursor: pointer;
 }
 
-:where(a[href], area, button, input, label[for], select, summary, textarea, [tabindex]:not([tabindex*="-"])) {
+:where(
+  a[href],
+  area,
+  button,
+  input,
+  label[for],
+  select,
+  summary,
+  textarea,
+  [tabindex]:not([tabindex*="-"])
+) {
   touch-action: manipulation;
   -webkit-tap-highlight-color: transparent;
 }
 
 body {
-    font-family: Literata, Garamond, Georgia, 'Times New Roman', serif;
-    line-height: 1.6;
-    margin: auto;
-    max-width: 900px;
-    min-height: 100%;
-    padding: 0;
-    width: 85%;
-	overflow-wrap: break-word;
+  font-family: Literata, Garamond, Georgia, "Times New Roman", serif;
+  line-height: 1.6;
+  margin: auto;
+  max-width: 900px;
+  min-height: 100%;
+  padding: 0;
+  width: 85%;
+  overflow-wrap: break-word;
 }
 
 .grid-wrapper {
-    display: grid;
-    height: auto;
-    grid-template-columns: 1fr;
-    grid-template-rows: min-content auto min-content;
+  display: grid;
+  height: auto;
+  grid-template-columns: 1fr;
+  grid-template-rows: min-content auto min-content;
 }
 
 .main {
-	height: 100%;
-	font-size: 1.25rem;
-    grid-column: 1/2;
-    grid-row: 2/3;
-    margin: 1.5rem;
-    padding-bottom: 2.5rem;
-	text-align: left;
+  height: 100%;
+  font-size: 1.25rem;
+  grid-column: 1/2;
+  grid-row: 2/3;
+  margin: 1.5rem;
+  padding-bottom: 2.5rem;
+  text-align: left;
 }
-

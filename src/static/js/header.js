@@ -1,9 +1,9 @@
 class Header extends HTMLElement {
-    constructor() {
-        super();
-    }
-    connectedCallback() {
-        this.innerHTML = `
+  constructor() {
+    super();
+  }
+  connectedCallback() {
+    this.innerHTML = `
           <header class="website-header">
           <br />
           <b class="homepage-title"> JOHN W. MATHENA </b>
@@ -39,8 +39,7 @@ class Header extends HTMLElement {
           </div>
         </header>
         `;
-    }
+  }
 }
 
-customElements.define('custom-header', Header);
-
+customElements.define("custom-header", Header);
