@@ -63,7 +63,7 @@ def build_wiki(content_title: str, content_description: str, posts_directory_nam
 
     # Sort the post snippets by ascending title.
     sorted_pairs = sorted(
-        zip(post_titles, post_html_snippets), key=lambda pair: pair[0]
+        zip(post_titles, post_html_snippets, strict=True), key=lambda pair: pair[0]
     )
     sorted_snippets = [pair[1] for pair in sorted_pairs]
 
