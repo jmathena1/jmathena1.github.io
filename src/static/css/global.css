@@ -104,7 +104,7 @@ body {
   display: grid;
   height: auto;
   grid-template-columns: 1fr;
-  grid-template-rows: min-content auto min-content;
+  grid-template-rows: min-content 1fr min-content;
 }
 
 .main {
