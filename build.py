@@ -32,7 +32,6 @@ def build_wiki(content_title: str, content_description: str, posts_directory_nam
     posts_directory_path = Path("src/wiki-pages")
     post_titles = []
     post_html_snippets = []
-    wiki_docs = []
     for file in posts_directory_path.glob("*.md"):
         slug = Path(file).stem
 
@@ -127,7 +126,7 @@ def build_content_site(
             file.write(post_html)
 
     # Sort the post snippets by descending date.
-    sorted_pairs = sorted(zip(post_dates, post_html_snippets), reverse=True)
+    sorted_pairs = sorted(zip(post_dates, post_html_snippets, strict=True), reverse=True)
     sorted_snippets = [pair[1] for pair in sorted_pairs]
 
     # Write the blog index HTML.
