@@ -1,9 +1,9 @@
 class Header extends HTMLElement {
-    constructor() {
-        super();
-    }
-    connectedCallback() {
-        this.innerHTML = `
+  constructor() {
+    super();
+  }
+  connectedCallback() {
+    this.innerHTML = `
           <header class="website-header">
           <br />
           <b class="homepage-title"> JOHN W. MATHENA </b>
@@ -25,22 +25,21 @@ class Header extends HTMLElement {
           </nav>
           <div>
             <a href="https://www.linkedin.com/in/johnwmathena" target="_blank"
-              ><img id="social-media-photo" src="/photos/linkedin.png"
+              ><img class="social-media-photo" src="/photos/linkedin.png"
             /></a>
             <a href="https://www.github.com/jmathena1" target="_blank"
-              ><img id="social-media-photo" src="/photos/github-black.png"
+              ><img class="social-media-photo" src="/photos/github-black.png"
             /></a>
-            <a href="https://bsky.app/profile/johnwmathena.com" target="_blank"
-              ><img id="social-media-photo" src="/photos/bluesky.png"
+            <a href="https://blacksky.community/profile/did:plc:e5g4n36oc2bvq2aq4pxwewhr" target="_blank"
+              ><img class="social-media-photo" src="/photos/bluesky.png"
             /></a>
             <a href="https://www.instagram.com/mathenajohn/" target="_blank"
-              ><img id="social-media-photo" src="/photos/instagram-logo.png"
+              ><img class="social-media-photo" src="/photos/instagram-logo.png"
             /></a>
           </div>
         </header>
         `;
-    }
+  }
 }
 
-customElements.define('custom-header', Header);
-
+customElements.define("custom-header", Header);

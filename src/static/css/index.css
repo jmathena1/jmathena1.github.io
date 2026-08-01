@@ -1,52 +1,53 @@
-@import "blog-poems.css";
-@import "footer.css";
-@import "global.css";
-@import "header.css";
-@import "portfolio.css";
-@import "wiki.css";
+@import url("blog-poems.css");
+@import url("footer.css");
+@import url("global.css");
+@import url("header.css");
+@import url("portfolio.css");
+@import url("wiki.css");
 
-@media (max-width: 465px) {
-	div.about-picture { 
-		width: 100%;
-	}
+@media (width <= 465px) {
+  div.about-picture {
+    width: 100%;
+  }
+
   body {
     width: 75%;
   }
-	.main {
-		font-size: 1rem;
-	}
-	.homepage-title {
-		font-size: 1.5rem;
-	}
-	.nav-bar-item {
-		font-size: 1.25rem;
-	}
-	.portfolio-description {
-		width: 100%;
-	}
-  .project-view-button {
+
+  .main {
     font-size: 1rem;
-    width: 50%;
   }
-	details[open] summary span.icon {
-		font-size: 1rem;
-	}
-	#social-media-photo {
-		width: 25px;
-	}
+
+  .homepage-title {
+    font-size: 1.5rem;
+  }
+
+  .nav-bar-item {
+    font-size: 1.25rem;
+  }
+
+  .portfolio-description {
+    width: 100%;
+  }
+
+  details[open] summary span.icon {
+    font-size: 1rem;
+  }
+
+  .social-media-photo {
+    width: 25px;
+  }
+
   .blog-logo-image {
     width: 100%;
   }
+
   .blog-post-content {
     font-size: 1.25rem;
     width: 85%;
   }
-	summary {
-		gap: 0.25rem;
-	}
+
+  summary {
+    gap: 0.25rem;
+  }
 }
-
-
-
-
-

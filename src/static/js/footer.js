@@ -2,11 +2,11 @@ class Footer extends HTMLElement {
   constructor() {
     super();
   }
-
-  connectedCallback() {
+    connectedCallback() {
+    const currentYear = new Date().getUTCFullYear();
     this.innerHTML = `
     <footer class="website-footer">
-          Johnny Dot Com © 2022 by John Mathena is licensed under
+          Johnny Dot Com © 2022-${currentYear} by John Mathena is licensed under
           <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>
           <img
             src="https://mirrors.creativecommons.org/presskit/icons/cc.svg"
@@ -24,4 +24,4 @@ class Footer extends HTMLElement {
   }
 }
 
-customElements.define('custom-footer', Footer);
+customElements.define("custom-footer", Footer);
