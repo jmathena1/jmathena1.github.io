@@ -4,6 +4,13 @@
 
 #wiki-post-main.main {
   text-align: left;
+  max-width: 700px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.posts-list {
+  font-size: clamp(1rem, 2.5vw, 1.2rem);
 }
 
 .garden-section-header {
@@ -15,7 +22,7 @@
   border-width: 1.25px;
   border-color: #000;
   border-radius: 25px;
-  padding: 5px;
+  padding: clamp(1rem, 3vw, 1.5rem) clamp(0.5rem, 2vw, 0.75rem);
   margin-left: auto;
   margin-right: auto;
   background-image: linear-gradient(45deg, #f0ece2, #fff);

@@ -5,49 +5,39 @@
 @import url("portfolio.css");
 @import url("wiki.css");
 
-@media (width <= 465px) {
-  div.about-picture {
-    width: 100%;
-  }
+.blog-post-content {
+  width: 100%;
+  font-size: clamp(1rem, 2.5vw, 1.25rem);
+}
 
-  body {
-    width: 75%;
-  }
+.blog-logo-image {
+  width: 100%;
+  max-width: 300px;
+  margin: 0 auto;
+}
 
-  .main {
-    font-size: 1rem;
-  }
+summary {
+  gap: 0.25rem;
+}
 
-  .homepage-title {
-    font-size: 1.5rem;
-  }
+details[open] summary span.icon {
+  font-size: clamp(0.9rem, 2vw, 1rem);
+}
 
-  .nav-bar-item {
-    font-size: 1.25rem;
-  }
-
-  .portfolio-description {
-    width: 100%;
-  }
-
-  details[open] summary span.icon {
-    font-size: 1rem;
-  }
-
-  .social-media-photo {
-    width: 25px;
-  }
-
-  .blog-logo-image {
-    width: 100%;
-  }
-
+/* Tablet (≥600px) */
+@media (width >= 600px) {
   .blog-post-content {
-    font-size: 1.25rem;
-    width: 85%;
+    width: 95%;
+    margin: 0 auto;
   }
+}
 
-  summary {
-    gap: 0.25rem;
+/* Desktop (≥768px) */
+@media (width >= 768px) {
+  .blog-post-content {
+    flex-direction: row;
+    justify-content: center;
+    gap: 2rem;
+    width: 90%;
   }
 }
