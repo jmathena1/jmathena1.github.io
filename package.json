@@ -1,4 +1,8 @@
 {
+  "scripts": {
+    "lint:css": "stylelint \"src/static/css/**/*.css\"",
+    "lint:css:fix" : "stylelint \"src/static/css/**/*.css\" --fix "
+  },
   "devDependencies": {
     "prettier": "3.9.6",
     "stylelint": "17.14.1",
